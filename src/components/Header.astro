@@ -11,6 +11,7 @@ import HeaderLink from './HeaderLink.astro';
 		<div class="internal-links">
 			<HeaderLink href="/">Accueil</HeaderLink>
 			<HeaderLink href="/blog">Expositions</HeaderLink>
+			<HeaderLink href="/journees-paul-valery">Journées Paul Valéry</HeaderLink>
 			<HeaderLink href="/about">À propos</HeaderLink>
 		</div>
 	</nav>
@@ -49,6 +50,9 @@ import HeaderLink from './HeaderLink.astro';
 	.internal-links {
 		display: flex;
 		gap: 2rem;
+		flex-wrap: wrap;
+		justify-content: center;
+		row-gap: 0.25rem;
 	}
 	nav a {
 		font-size: 0.8rem;

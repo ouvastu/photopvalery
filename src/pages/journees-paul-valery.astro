@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import PostList from '../components/PostList.astro';
+import { SITE_TITLE } from '../consts';
+import { estJournees, parDate } from '../lib/rubriques';
+
+const posts = (await getCollection('blog')).filter(estJournees).sort(parDate);
+---
+
+<!doctype html>
+<html lang="fr">
+	<head>
+		<BaseHead
+			title={`Journées Paul Valéry — ${SITE_TITLE}`}
+			description="Reportages photographiques de Gilles Hutchinson sur les Journées Paul Valéry : lectures, conférences, concerts et visites au Musée Paul Valéry de Sète."
+		/>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<PostList
+				posts={posts}
+				eyebrow="Archives · Musée Paul Valéry"
+				title="Journées Paul Valéry"
+				subtitle={`${posts.length} reportages photographiques consacrés aux lectures, conférences, concerts et visites des Journées Paul Valéry.`}
+			/>
+		</main>
+		<Footer />
+	</body>
+</html>
