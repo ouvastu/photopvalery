@@ -13,7 +13,10 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 
 <html lang="fr">
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead
+			title={title}
+			description={description || `Reportage photographique de Gilles Hutchinson : ${title}.`}
+		/>
 		<style>
 			main {
 				width: calc(100% - 2em);
