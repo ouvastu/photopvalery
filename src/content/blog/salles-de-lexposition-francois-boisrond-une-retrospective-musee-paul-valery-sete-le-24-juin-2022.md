@@ -8,270 +8,270 @@ coverImage: "salles-expo-boisrond-134.jpg"
 
 Photos Gilles Hutchinson
 
-![](/images/salles-expo-boisrond-81.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-81.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°1 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°1 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-82.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-82.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°2 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°2 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-83.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-83.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°3 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°3 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-84.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-84.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°4 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°4 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-85.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-85.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°5 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°5 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-86.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-86.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°6 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°6 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-87.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-87.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°7 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°7 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-88.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-88.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°8 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°8 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-89.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-89.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°9 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°9 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-90.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-90.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°10 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°10 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-91.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-91.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°11 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°11 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-92.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-92.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°12 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°12 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-93.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-93.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°13 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°13 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-94.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-94.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°14 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°14 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-95.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-95.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°15 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°15 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-96.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-96.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°16 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°16 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-97.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-97.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°17 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°17 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-98.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-98.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°18 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°18 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-99.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-99.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°19 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°19 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-100.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-100.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°20 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°20 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-101.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-101.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°21 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°21 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-102.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-102.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°22 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°22 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-103.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-103.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°23 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°23 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-104.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-104.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°24 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°24 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-105.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-105.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°25 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°25 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-106.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-106.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°26 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°26 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-107.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-107.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°27 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°27 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-108.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-108.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°28 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°28 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-109.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-109.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°29 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°29 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-110.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-110.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°30 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°30 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-111.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-111.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°31 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°31 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-112.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-112.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°32 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°32 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-113.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-113.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°33 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°33 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-114.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-114.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°34 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°34 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-115.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-115.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°35 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°35 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-116.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-116.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°36 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°36 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-117.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-117.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°37 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°37 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-118.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-118.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°38 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°38 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-119.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-119.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°39 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°39 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-120.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-120.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°40 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°40 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-121.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-121.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°41 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°41 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-122.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-122.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°42 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°42 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-123.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-123.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°43 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°43 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-124.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-124.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°44 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°44 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-125.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-125.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°45 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°45 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-126.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-126.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°46 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°46 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-127.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-127.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°47 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°47 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-128.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-128.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°48 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°48 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-129.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-129.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°49 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°49 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-130.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-130.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°50 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°50 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-131.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-131.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°51 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°51 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-132.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-132.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°52 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°52 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-133.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-133.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°53 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°53 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-134.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-134.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°54 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°54 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-1.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-1.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°55 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°55 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-2.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-2.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°56 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°56 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-3.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-3.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°57 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°57 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-4.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-4.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°58 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°58 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-5.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-5.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°59 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°59 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-6.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-6.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°60 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°60 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-7.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-7.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°61 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°61 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-8.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-8.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°62 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°62 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-9.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-9.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°63 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°63 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-10.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-10.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°64 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°64 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-11.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-11.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°65 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°65 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-12.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-12.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°66 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°66 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-13.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-13.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°67 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°67 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-14.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-14.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°68 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°68 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-15.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-15.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°69 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°69 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-16.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-16.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°70 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°70 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-17.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-17.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°71 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°71 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-18.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-18.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°72 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°72 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-19.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-19.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°73 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°73 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-20.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-20.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°74 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°74 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-21.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-21.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°75 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°75 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-22.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-22.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°76 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°76 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-23.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-23.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°77 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°77 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-24.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-24.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°78 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°78 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-25.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-25.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°79 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°79 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-26.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-26.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°80 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°80 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-27.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-27.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°81 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°81 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-28.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-28.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°82 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°82 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-29.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-29.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°83 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°83 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-30.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-30.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°84 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°84 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-31.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-31.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°85 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°85 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-32.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-32.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°86 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°86 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-33.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-33.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°87 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°87 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-34.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-34.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°88 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°88 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-35.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-35.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°89 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°89 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-36.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-36.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°90 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°90 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-37.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-37.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°91 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°91 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-38.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-38.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°92 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°92 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-39.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-39.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°93 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°93 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-40.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-40.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°94 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°94 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-41.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-41.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°95 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°95 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-42.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-42.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°96 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°96 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-43.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-43.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°97 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°97 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-44.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-44.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°98 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°98 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-45.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-45.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°99 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°99 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-46.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-46.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°100 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°100 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-47.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-47.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°101 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°101 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-48.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-48.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°102 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°102 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-49.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-49.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°103 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°103 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-50.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-50.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°104 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°104 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-51.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-51.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°105 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°105 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-52.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-52.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°106 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°106 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-53.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-53.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°107 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°107 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-54.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-54.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°108 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°108 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-55.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-55.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°109 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°109 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-56.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-56.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°110 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°110 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-57.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-57.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°111 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°111 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-58.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-58.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°112 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°112 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-59.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-59.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°113 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°113 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-60.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-60.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°114 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°114 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-61.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-61.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°115 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°115 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-62.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-62.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°116 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°116 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-63.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-63.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°117 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°117 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-64.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-64.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°118 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°118 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-65.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-65.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°119 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°119 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-66.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-66.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°120 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°120 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-67.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-67.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°121 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°121 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-68.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-68.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°122 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°122 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-69.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-69.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°123 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°123 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-70.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-70.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°124 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°124 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-71.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-71.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°125 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°125 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-72.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-72.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°126 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°126 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-73.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-73.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°127 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°127 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-74.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-74.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°128 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°128 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-75.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-75.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°129 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°129 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-76.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-76.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°130 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°130 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-77.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-77.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°131 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°131 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-78.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-78.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°132 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°132 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-79.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-79.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°133 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°133 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/salles-expo-boisrond-80.jpg)
+<figure class="photo-figure"><img src="/images/salles-expo-boisrond-80.jpg" alt="Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°134 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salles de lexposition François Boisrond, \Une rétrospective\. Musée Paul Valéry, Sète le 24 juin 2022 — Photographie n°134 — © Gilles Hutchinson</figcaption></figure>

@@ -11,28 +11,28 @@ FRÉDÉRIQUE SONNET, MUSICIENNE (FLÛTE TRAVERSIÈRE, VOIX)
 
 Journées Paul Valéry, Sète 27 septembre 2020 / Photos Gilles Hutchinson
 
-![LAURENT GRISON, POÈTE. Journées Paul Valéry](/images/journees_paul_valery_2020_174.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_174.jpg" alt="LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson" loading="lazy" /><figcaption>LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson</figcaption></figure>
 
-![LAURENT GRISON, POÈTE. Journées Paul Valéry](/images/journees_paul_valery_2020_173.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_173.jpg" alt="LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson" loading="lazy" /><figcaption>LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson</figcaption></figure>
 
-![LAURENT GRISON, POÈTE. Journées Paul Valéry](/images/journees_paul_valery_2020_172.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_172.jpg" alt="LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson" loading="lazy" /><figcaption>LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson</figcaption></figure>
 
-![LAURENT GRISON, POÈTE. Journées Paul Valéry](/images/journees_paul_valery_2020_171.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_171.jpg" alt="LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson" loading="lazy" /><figcaption>LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson</figcaption></figure>
 
-![LAURENT GRISON, POÈTE. Journées Paul Valéry](/images/journees_paul_valery_2020_170.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_170.jpg" alt="LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson" loading="lazy" /><figcaption>LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson</figcaption></figure>
 
-![LAURENT GRISON, POÈTE. Journées Paul Valéry](/images/journees_paul_valery_2020_169.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_169.jpg" alt="LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson" loading="lazy" /><figcaption>LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson</figcaption></figure>
 
-![LAURENT GRISON, POÈTE. Journées Paul Valéry](/images/journees_paul_valery_2020_168.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_168.jpg" alt="LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson" loading="lazy" /><figcaption>LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson</figcaption></figure>
 
-![LAURENT GRISON, POÈTE. Journées Paul Valéry](/images/journees_paul_valery_2020_167.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_167.jpg" alt="LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson" loading="lazy" /><figcaption>LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson</figcaption></figure>
 
-![LAURENT GRISON, POÈTE. Journées Paul Valéry](/images/journees_paul_valery_2020_166.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_166.jpg" alt="LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson" loading="lazy" /><figcaption>LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson</figcaption></figure>
 
-![LAURENT GRISON, POÈTE. Journées Paul Valéry](/images/journees_paul_valery_2020_165.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_165.jpg" alt="LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson" loading="lazy" /><figcaption>LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson</figcaption></figure>
 
-![LAURENT GRISON, POÈTE. Journées Paul Valéry](/images/journees_paul_valery_2020_164.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_164.jpg" alt="LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson" loading="lazy" /><figcaption>LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson</figcaption></figure>
 
-![LAURENT GRISON, POÈTE. Journées Paul Valéry](/images/journees_paul_valery_2020_163.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_163.jpg" alt="LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson" loading="lazy" /><figcaption>LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson</figcaption></figure>
 
-![LAURENT GRISON, POÈTE. Journées Paul Valéry](/images/journees_paul_valery_2020_162.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_162.jpg" alt="LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson" loading="lazy" /><figcaption>LAURENT GRISON, POÈTE. Journées Paul Valéry — LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY — © Gilles Hutchinson</figcaption></figure>

@@ -6,48 +6,48 @@ categories:
 coverImage: "dsf4672-panorama-2-hutchinson_1-1.jpg"
 ---
 
-![](/images/dsf4672-panorama-2-hutchinson_1.jpg)
+<figure class="photo-figure"><img src="/images/dsf4672-panorama-2-hutchinson_1.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°1 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°1 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4672-panorama-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4672-panorama-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°2 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°2 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4673-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4673-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°3 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°3 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4676-panorama-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4676-panorama-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°4 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°4 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4679-panorama-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4679-panorama-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°5 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°5 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4682-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4682-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°6 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°6 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4683-panorama_1-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4683-panorama_1-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°7 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°7 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4685-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4685-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°8 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°8 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4686-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4686-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°9 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°9 — © Gilles Hutchinson</figcaption></figure>
 
 <!--more-->
 
-![](/images/dsf4687-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4687-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°10 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°10 — © Gilles Hutchinson</figcaption></figure>
 
-![Paul Valéry par Vincent Bioulès](/images/dsf4672-panorama-2-hutchinson_1-1.jpg)
+<figure class="photo-figure"><img src="/images/dsf4672-panorama-2-hutchinson_1-1.jpg" alt="Paul Valéry par Vincent Bioulès — Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — © Gilles Hutchinson" loading="lazy" /><figcaption>Paul Valéry par Vincent Bioulès — Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4707-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4707-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°12 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°12 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4704-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4704-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°13 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°13 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4700-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4700-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°14 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°14 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4699-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4699-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°15 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°15 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4698-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4698-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°16 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°16 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4697-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4697-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°17 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°17 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4696-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4696-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°18 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°18 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4693-panorama-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4693-panorama-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°19 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°19 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4692-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4692-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°20 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°20 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4689-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4689-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°21 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°21 — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/dsf4688-hutchinson.jpg)
+<figure class="photo-figure"><img src="/images/dsf4688-hutchinson.jpg" alt="Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°22 — © Gilles Hutchinson" loading="lazy" /><figcaption>Réorganisation de la salle Paul Valéry au musée du même nom avec lacquisition d’un portrait de Paul Valéry par Vincent Bioulès — Photographie n°22 — © Gilles Hutchinson</figcaption></figure>

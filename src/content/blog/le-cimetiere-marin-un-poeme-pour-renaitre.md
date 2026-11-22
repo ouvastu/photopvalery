@@ -12,28 +12,28 @@ JEAN-LOUIS CIANNI
 
 Journées Paul Valéry, Sète 26 septembre 2020 / Photos Gilles Hutchinson
 
-![LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI](/images/journees_paul_valery_2020_130.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_130.jpg" alt="LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson" loading="lazy" /><figcaption>LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson</figcaption></figure>
 
-![LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI](/images/journees_paul_valery_2020_129.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_129.jpg" alt="LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson" loading="lazy" /><figcaption>LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson</figcaption></figure>
 
-![LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI](/images/journees_paul_valery_2020_128.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_128.jpg" alt="LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson" loading="lazy" /><figcaption>LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson</figcaption></figure>
 
-![LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI](/images/journees_paul_valery_2020_127.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_127.jpg" alt="LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson" loading="lazy" /><figcaption>LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson</figcaption></figure>
 
-![](/images/journees_paul_valery_2020_126.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_126.jpg" alt="LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — Photographie n°5 — © Gilles Hutchinson" loading="lazy" /><figcaption>LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — Photographie n°5 — © Gilles Hutchinson</figcaption></figure>
 
-![LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI](/images/journees_paul_valery_2020_125.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_125.jpg" alt="LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson" loading="lazy" /><figcaption>LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson</figcaption></figure>
 
-![LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI](/images/journees_paul_valery_2020_124.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_124.jpg" alt="LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson" loading="lazy" /><figcaption>LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson</figcaption></figure>
 
-![LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE DE JEAN-LOUIS CIANNI](/images/journees_paul_valery_2020_123.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_123.jpg" alt="LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE DE JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson" loading="lazy" /><figcaption>LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE DE JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson</figcaption></figure>
 
-![LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI](/images/journees_paul_valery_2020_122.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_122.jpg" alt="LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson" loading="lazy" /><figcaption>LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson</figcaption></figure>
 
-![LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI](/images/journees_paul_valery_2020_121.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_121.jpg" alt="LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson" loading="lazy" /><figcaption>LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson</figcaption></figure>
 
-![LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI](/images/journees_paul_valery_2020_120.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_120.jpg" alt="LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson" loading="lazy" /><figcaption>LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson</figcaption></figure>
 
-![LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI](/images/journees_paul_valery_2020_119.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_119.jpg" alt="LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson" loading="lazy" /><figcaption>LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson</figcaption></figure>
 
-![LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI](/images/journees_paul_valery_2020_118.jpg)
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_118.jpg" alt="LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson" loading="lazy" /><figcaption>LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE de JEAN-LOUIS CIANNI — LE CIMETIÈRE MARIN, UN POÈME POUR RENAÎTRE — © Gilles Hutchinson</figcaption></figure>
