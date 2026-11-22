@@ -4,7 +4,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
-import { estJournees, parDate } from '../lib/rubriques';
+import { estJournees, parDate, photoDeCouverture } from '../lib/rubriques';
 
 const posts = (await getCollection('blog')).sort(parDate);
 
@@ -23,8 +23,7 @@ const colonnes = [
 	},
 ];
 
-const formatDate = (date: Date) =>
-	date.toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' });
+const jourMois = (date: Date) => date.toLocaleDateString('fr-FR', { day: 'numeric', month: 'long' });
 ---
 
 <!doctype html>
@@ -49,20 +48,39 @@ const formatDate = (date: Date) =>
 						<section class="colonne" aria-labelledby={`titre-${col.id}`}>
 							<h2 id={`titre-${col.id}`}>
 								<a href={col.lien}>{col.titre}</a>
-								<span class="compte">{col.articles.length}</span>
+								<span class="compte">{col.articles.length} reportages</span>
 							</h2>
-							<ul>
-								{col.articles.map((post) => (
-									<li>
-										<a href={`/blog/${post.id}/`}>
-											<time datetime={post.data.pubDate.toISOString()}>
-												{formatDate(post.data.pubDate)}
-											</time>
-											<span class="titre">{post.data.title}</span>
-										</a>
-									</li>
-								))}
-							</ul>
+							<ol class="frise">
+								{col.articles.map((post) => {
+									const photo = photoDeCouverture(post);
+									return (
+										<li>
+											<a href={`/blog/${post.id}/`}>
+												<span class="annee">{post.data.pubDate.getFullYear()}</span>
+												<span class="repere" aria-hidden="true" />
+												<span class="vignette">
+													{photo && (
+														<img
+															src={photo.src}
+															width={photo.w}
+															height={photo.h}
+															alt=""
+															loading="lazy"
+															decoding="async"
+														/>
+													)}
+												</span>
+												<span class="texte">
+													<span class="titre">{post.data.title}</span>
+													<time datetime={post.data.pubDate.toISOString()}>
+														{jourMois(post.data.pubDate)}
+													</time>
+												</span>
+											</a>
+										</li>
+									);
+								})}
+							</ol>
 						</section>
 					))
 				}
@@ -110,7 +128,7 @@ const formatDate = (date: Date) =>
 		justify-content: space-between;
 		gap: 1rem;
 		font-size: 1.6rem;
-		margin: 0 0 0.5rem;
+		margin: 0 0 1rem;
 		padding-bottom: 0.75rem;
 		border-bottom: 1px solid rgb(var(--black));
 	}
@@ -121,45 +139,151 @@ const formatDate = (date: Date) =>
 		color: var(--accent);
 	}
 	.compte {
-		font-size: 0.78rem;
-		letter-spacing: 0.14em;
-		color: var(--accent);
-	}
-	ul {
-		list-style: none;
-		margin: 0;
-		padding: 0;
-	}
-	li {
-		margin: 0;
-		border-bottom: 1px solid rgb(var(--gray-light));
-	}
-	li a {
-		display: block;
-		padding: 0.9rem 0;
-		color: rgb(var(--black));
-		text-decoration: none;
-	}
-	time {
-		display: block;
+		font-family: var(--font-atkinson), sans-serif;
 		font-size: 0.72rem;
 		letter-spacing: 0.14em;
 		text-transform: uppercase;
 		color: var(--accent);
-		margin-bottom: 0.25rem;
+		white-space: nowrap;
+	}
+
+	/* ---------- Frise chronologique ---------- */
+	.frise {
+		--annee: 3.1rem;
+		--rail: 1.5rem;
+		--vignette: 92px;
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.frise li {
+		position: relative;
+		margin: 0;
+	}
+	/* Le fil vertical, continu d'un reportage à l'autre */
+	.frise li::before {
+		content: '';
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		left: calc(var(--annee) + var(--rail) / 2);
+		width: 1px;
+		background-color: rgb(var(--gray-light));
+	}
+	.frise li:first-child::before {
+		top: 1.55rem;
+	}
+	.frise li:last-child::before {
+		bottom: calc(100% - 1.55rem);
+	}
+	.frise a {
+		display: grid;
+		grid-template-columns: var(--annee) var(--rail) var(--vignette) minmax(0, 1fr);
+		align-items: start;
+		padding: 0.85rem 0;
+		color: rgb(var(--black));
+		text-decoration: none;
+	}
+	.annee {
+		padding-top: 0.15rem;
+		font-family: 'Playfair Display', Georgia, serif;
+		font-size: 1.05rem;
+		color: rgb(var(--gray));
+		text-align: right;
+		font-variant-numeric: lining-nums tabular-nums;
+	}
+	.repere {
+		position: relative;
+		height: 1.4rem;
+	}
+	/* Le point sur le fil, aligné sur l'année */
+	.repere::after {
+		content: '';
+		position: absolute;
+		top: 0.7rem;
+		left: 50%;
+		width: 7px;
+		height: 7px;
+		border: 1px solid rgb(var(--gray));
+		border-radius: 50%;
+		background-color: #faf9f6;
+		transform: translate(-50%, 0);
+		transition: background-color 0.2s ease, border-color 0.2s ease;
+	}
+	.vignette {
+		display: block;
+		width: var(--vignette);
+		aspect-ratio: 3 / 2;
+		overflow: hidden;
+		border-radius: 2px;
+		background-color: rgb(var(--gray-light));
+	}
+	.vignette img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		margin: 0;
+		box-shadow: none;
+		border-radius: 0;
+		transition: transform 0.4s ease;
+	}
+	.texte {
+		display: flex;
+		flex-direction: column;
+		gap: 0.3rem;
+		padding: 0.1rem 0 0 1rem;
 	}
 	.titre {
-		display: block;
-		font-size: 1.02rem;
+		font-size: 1rem;
 		line-height: 1.4;
 		transition: color 0.2s ease;
 	}
-	li a:hover .titre {
+	time {
+		font-size: 0.7rem;
+		letter-spacing: 0.14em;
+		text-transform: uppercase;
 		color: var(--accent);
 	}
+	.frise a:hover .titre,
+	.frise a:focus-visible .titre {
+		color: var(--accent);
+	}
+	.frise a:hover .repere::after,
+	.frise a:focus-visible .repere::after {
+		background-color: var(--accent);
+		border-color: var(--accent);
+	}
+	.frise a:hover .vignette img {
+		transform: scale(1.06);
+	}
+
 	@media (max-width: 720px) {
 		.colonnes {
 			grid-template-columns: 1fr;
+		}
+		.frise {
+			--annee: 2.7rem;
+			--rail: 1.25rem;
+			--vignette: 72px;
+		}
+		.annee {
+			font-size: 0.95rem;
+		}
+		.titre {
+			font-size: 0.95rem;
+		}
+		.texte {
+			padding-left: 0.75rem;
+		}
+	}
+	@media (prefers-reduced-motion: reduce) {
+		.vignette img,
+		.titre,
+		.repere::after {
+			transition: none;
+		}
+		.frise a:hover .vignette img {
+			transform: none;
 		}
 	}
 </style>

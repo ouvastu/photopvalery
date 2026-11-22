@@ -11,6 +11,8 @@ const blog = defineCollection({
 			title: z.string(),
 			description: z.string().optional().default(''),
 			categories: z.array(z.string()).optional().default([]),
+			// Image à la une de l'ancien blog WordPress (nom de fichier dans public/images)
+			coverImage: z.string().optional(),
 			// Transform string to Date object
 			pubDate: z.coerce.date(),
 			updatedDate: z.coerce.date().optional(),
