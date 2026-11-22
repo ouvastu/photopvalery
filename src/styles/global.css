@@ -64,17 +64,76 @@ img {
 	display: block;
 }
 
-/* Mise en valeur des photos dans les expositions */
+/* Photos isolées dans les articles */
 article img {
 	margin: 2.5rem auto;
 	box-shadow: var(--box-shadow);
-	cursor: zoom-in;
-	transition: transform 0.35s ease, box-shadow 0.35s ease;
 }
 
-article img:hover {
-	transform: scale(1.01);
-	box-shadow: 0 16px 40px rgba(0, 0, 0, 0.12);
+/* Galeries de photos (voir src/lib/rehype-galerie.mjs) */
+.galerie {
+	--gouttiere: 0.75rem;
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: var(--gouttiere);
+	/* La galerie déborde de la colonne de texte, jusqu'à 1100px */
+	width: min(1100px, calc(100vw - 2rem));
+	margin: 2.5rem 0 2.5rem calc(50% - min(550px, 50vw - 1rem));
+}
+.galerie figure.photo-figure {
+	margin: 0;
+	overflow: hidden;
+	border-radius: 2px;
+	background-color: rgb(var(--gray-light));
+}
+.galerie figure.photo-figure img {
+	width: 100%;
+	height: 100%;
+	aspect-ratio: 3 / 2;
+	object-fit: cover;
+	margin: 0;
+	border-radius: 0;
+	box-shadow: none;
+	cursor: zoom-in;
+	transition: transform 0.5s ease, opacity 0.3s ease;
+}
+.galerie figure.photo-figure.panorama {
+	grid-column: 1 / -1;
+}
+.galerie figure.photo-figure.panorama img {
+	aspect-ratio: auto;
+	height: auto;
+}
+.galerie figure.photo-figure img:hover {
+	transform: scale(1.04);
+}
+.galerie figure.photo-figure img:focus-visible {
+	outline: 2px solid var(--accent);
+	outline-offset: -2px;
+}
+/* Les légendes restent dans la page (référencement, lecteurs d'écran)
+   et s'affichent dans la visionneuse */
+.galerie figcaption {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
+	clip: rect(0 0 0 0);
+	white-space: nowrap;
+}
+@media (max-width: 720px) {
+	.galerie {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		--gouttiere: 0.4rem;
+	}
+}
+@media (prefers-reduced-motion: reduce) {
+	.galerie figure.photo-figure img {
+		transition: none;
+	}
+	.galerie figure.photo-figure img:hover {
+		transform: none;
+	}
 }
 
 hr {

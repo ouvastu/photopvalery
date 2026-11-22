@@ -3,11 +3,12 @@
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig, fontProviders } from 'astro/config';
+import galerie from './src/lib/galerie.mjs';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://example.com',
-	integrations: [mdx(), sitemap()],
+	site: 'https://photopvalery.pages.dev',
+	integrations: [mdx(), sitemap(), galerie()],
 	fonts: [
 		{
 			provider: fontProviders.local(),

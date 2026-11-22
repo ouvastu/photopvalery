@@ -21,8 +21,8 @@ const rubrique = categories.includes(JOURNEES) ? '/journees-paul-valery' : '/blo
 		/>
 		<style>
 			main {
-				width: calc(100% - 2em);
-				max-width: 100%;
+				width: auto;
+				max-width: none;
 				margin: 0;
 			}
 			.hero-image {
@@ -57,6 +57,170 @@ const rubrique = categories.includes(JOURNEES) ? '/journees-paul-valery' : '/blo
 			.last-updated-on {
 				font-style: italic;
 			}
+
+			/* ---------- Visionneuse ---------- */
+			.lb-overlay {
+				position: fixed;
+				inset: 0;
+				z-index: 9999;
+				background-color: #faf9f6;
+				color: rgb(var(--black));
+				display: none;
+				flex-direction: column;
+			}
+			.lb-overlay.is-open {
+				display: flex;
+			}
+			.lb-toolbar {
+				display: flex;
+				align-items: center;
+				gap: 0.75rem;
+				padding: 0.9rem 1.25rem;
+			}
+			.lb-counter {
+				margin-right: auto;
+				font-size: 0.78rem;
+				letter-spacing: 0.14em;
+				color: var(--accent);
+				font-variant-numeric: tabular-nums;
+			}
+			.lb-btn {
+				background: transparent;
+				border: 1px solid rgb(var(--gray-light));
+				color: rgb(var(--black));
+				padding: 0.45rem 0.9rem;
+				font: inherit;
+				font-size: 0.75rem;
+				letter-spacing: 0.12em;
+				text-transform: uppercase;
+				border-radius: 2px;
+				cursor: pointer;
+				transition: border-color 0.2s ease, color 0.2s ease;
+			}
+			.lb-btn:hover,
+			.lb-btn:focus-visible {
+				border-color: var(--accent);
+				color: var(--accent);
+			}
+			.lb-btn[hidden] {
+				display: none;
+			}
+			.lb-stage {
+				position: relative;
+				flex: 1;
+				min-height: 0;
+				margin: 0;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				padding: 0 4.5rem;
+				touch-action: pan-y pinch-zoom;
+			}
+			.lb-img {
+				max-width: 100%;
+				max-height: 100%;
+				width: auto;
+				height: auto;
+				object-fit: contain;
+				margin: 0;
+				border-radius: 2px;
+				box-shadow: 0 18px 50px rgba(0, 0, 0, 0.18);
+				cursor: default;
+				transition: opacity 0.25s ease;
+			}
+			.lb-img:hover {
+				transform: none;
+			}
+			.lb-overlay.is-loading .lb-img {
+				opacity: 0.35;
+			}
+			.lb-spinner {
+				position: absolute;
+				width: 34px;
+				height: 34px;
+				border: 2px solid rgb(var(--gray-light));
+				border-top-color: var(--accent);
+				border-radius: 50%;
+				opacity: 0;
+				pointer-events: none;
+				animation: lb-tourne 0.9s linear infinite;
+				transition: opacity 0.2s ease 0.15s;
+			}
+			.lb-overlay.is-loading .lb-spinner {
+				opacity: 1;
+			}
+			@keyframes lb-tourne {
+				to {
+					transform: rotate(360deg);
+				}
+			}
+			.lb-nav {
+				position: absolute;
+				top: 50%;
+				transform: translateY(-50%);
+				width: 3.25rem;
+				height: 3.25rem;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				background: rgba(250, 249, 246, 0.85);
+				border: 1px solid rgb(var(--gray-light));
+				border-radius: 50%;
+				color: rgb(var(--black));
+				font-size: 1.8rem;
+				line-height: 1;
+				cursor: pointer;
+				transition: border-color 0.2s ease, color 0.2s ease;
+			}
+			.lb-nav:hover,
+			.lb-nav:focus-visible {
+				border-color: var(--accent);
+				color: var(--accent);
+			}
+			.lb-prev {
+				left: 0.75rem;
+			}
+			.lb-next {
+				right: 0.75rem;
+			}
+			.lb-caption {
+				min-height: 3.5rem;
+				max-width: 900px;
+				margin: 0 auto;
+				padding: 0.9rem 1.25rem 1.1rem;
+				text-align: center;
+				font-size: 0.9rem;
+				line-height: 1.5;
+				color: rgb(var(--gray));
+			}
+			@media (max-width: 720px) {
+				.lb-stage {
+					padding: 0;
+				}
+				.lb-nav {
+					display: none;
+				}
+				.lb-toolbar {
+					padding: 0.75rem;
+					gap: 0.5rem;
+				}
+				.lb-btn {
+					padding: 0.4rem 0.65rem;
+					white-space: nowrap;
+				}
+				.lb-full {
+					display: none;
+				}
+				.lb-caption {
+					font-size: 0.82rem;
+				}
+			}
+			@media (prefers-reduced-motion: reduce) {
+				.lb-img,
+				.lb-spinner {
+					transition: none;
+				}
+			}
 		</style>
 	</head>
 
@@ -86,109 +250,206 @@ const rubrique = categories.includes(JOURNEES) ? '/journees-paul-valery' : '/blo
 		</main>
 		<Footer />
 
-		<div id="lightbox" class="lb-overlay" aria-hidden="true">
+		<div
+			id="lightbox"
+			class="lb-overlay"
+			role="dialog"
+			aria-modal="true"
+			aria-label="Visionneuse de photos"
+			aria-hidden="true"
+		>
 			<div class="lb-toolbar">
-				<button id="lb-play" class="lb-btn" type="button" aria-label="Diaporama automatique">▶ Diaporama</button>
-				<button id="lb-close" class="lb-btn lb-close" type="button" aria-label="Fermer">✕</button>
+				<span id="lb-counter" class="lb-counter" aria-live="polite"></span>
+				<button id="lb-play" class="lb-btn" type="button">▶ Diaporama</button>
+				<button id="lb-full" class="lb-btn lb-full" type="button" hidden>Plein écran</button>
+				<button id="lb-close" class="lb-btn" type="button" aria-label="Fermer la visionneuse">✕ Fermer</button>
 			</div>
-
-			<button id="lb-prev" class="lb-nav lb-prev" type="button" aria-label="Photo précédente">‹</button>
-
-			<figure class="lb-stage">
-				<img id="lb-img" src="" alt="" />
-				<figcaption class="lb-footer">
-					<span id="lb-counter" class="lb-counter">1/1</span>
-					<span id="lb-caption" class="lb-caption"></span>
-				</figcaption>
+			<figure class="lb-stage" id="lb-stage">
+				<img id="lb-img" class="lb-img" alt="" />
+				<span class="lb-spinner" aria-hidden="true"></span>
+				<button id="lb-prev" class="lb-nav lb-prev" type="button" aria-label="Photo précédente">‹</button>
+				<button id="lb-next" class="lb-nav lb-next" type="button" aria-label="Photo suivante">›</button>
 			</figure>
-
-			<button id="lb-next" class="lb-nav lb-next" type="button" aria-label="Photo suivante">›</button>
+			<p id="lb-caption" class="lb-caption"></p>
 		</div>
 
 		<script is:inline>
-			document.addEventListener('DOMContentLoaded', () => {
-				const images = Array.from(document.querySelectorAll('article img'));
-				if (!images.length) return;
+			(() => {
+				const photos = Array.from(document.querySelectorAll('.prose figure.photo-figure img'));
+				if (!photos.length) return;
 
-				const overlay = document.getElementById('lightbox');
-				const lbImg = document.getElementById('lb-img');
-				const lbCounter = document.getElementById('lb-counter');
-				const lbCaption = document.getElementById('lb-caption');
-				const btnClose = document.getElementById('lb-close');
-				const btnPrev = document.getElementById('lb-prev');
-				const btnNext = document.getElementById('lb-next');
-				const btnPlay = document.getElementById('lb-play');
+				const $ = (id) => document.getElementById(id);
+				const overlay = $('lightbox');
+				const stage = $('lb-stage');
+				const lbImg = $('lb-img');
+				const counter = $('lb-counter');
+				const caption = $('lb-caption');
+				const btnPlay = $('lb-play');
+				const btnFull = $('lb-full');
+				const btnClose = $('lb-close');
+				const INTERVALLE = 4000;
 
-				let current = 0;
-				let timer = null;
-				const INTERVAL_MS = 4000;
+				let courant = 0;
+				let minuteur = null;
+				let demande = 0;
+				let declencheur = null;
 
-				function show(index) {
-					current = (index + images.length) % images.length;
-					const img = images[current];
-					lbImg.src = img.currentSrc || img.src;
-					lbImg.alt = img.alt || '';
-					lbCounter.textContent = `${current + 1}/${images.length}`;
-					lbCaption.textContent = img.alt || '';
+				const source = (img) => img.dataset.full || img.currentSrc || img.src;
+				const legende = (img) =>
+					img.closest('figure')?.querySelector('figcaption')?.textContent.trim() || img.alt || '';
+
+				const prechargees = new Map();
+				function precharger(i) {
+					const img = photos[(i + photos.length) % photos.length];
+					const url = source(img);
+					if (!prechargees.has(url)) {
+						const p = new Image();
+						p.decoding = 'async';
+						p.src = url;
+						prechargees.set(url, p);
+					}
+					return prechargees.get(url);
 				}
 
-				function startAutoplay() {
-					stopAutoplay();
-					timer = setInterval(() => show(current + 1), INTERVAL_MS);
+				function afficher(i) {
+					courant = (i + photos.length) % photos.length;
+					const img = photos[courant];
+					const url = source(img);
+					const numero = ++demande;
+
+					counter.textContent = `${courant + 1} / ${photos.length}`;
+					caption.textContent = legende(img);
+					lbImg.alt = img.alt || '';
+
+					const chargee = precharger(courant);
+					const poser = () => {
+						if (numero !== demande) return;
+						lbImg.src = url;
+						overlay.classList.remove('is-loading');
+					};
+					if (chargee.complete && chargee.naturalWidth) {
+						poser();
+					} else {
+						// En attendant la photo d'origine, on montre la vignette déjà chargée.
+						lbImg.src = img.currentSrc || img.src;
+						overlay.classList.add('is-loading');
+						chargee.addEventListener('load', poser, { once: true });
+						chargee.addEventListener('error', () => {
+							if (numero === demande) overlay.classList.remove('is-loading');
+						}, { once: true });
+					}
+					precharger(courant + 1);
+					precharger(courant - 1);
+				}
+
+				function lancer() {
+					arreter();
+					minuteur = setInterval(() => afficher(courant + 1), INTERVALLE);
 					btnPlay.textContent = '⏸ Pause';
 				}
-
-				function stopAutoplay() {
-					if (timer) {
-						clearInterval(timer);
-						timer = null;
-					}
+				function arreter() {
+					if (minuteur) clearInterval(minuteur);
+					minuteur = null;
 					btnPlay.textContent = '▶ Diaporama';
 				}
+				const bascule = () => (minuteur ? arreter() : lancer());
+				const precedente = () => { arreter(); afficher(courant - 1); };
+				const suivante = () => { arreter(); afficher(courant + 1); };
 
-				function open(index) {
-					show(index);
+				function ouvrir(i) {
+					declencheur = document.activeElement;
+					afficher(i);
 					overlay.classList.add('is-open');
 					overlay.setAttribute('aria-hidden', 'false');
 					document.body.style.overflow = 'hidden';
-					startAutoplay();
+					btnClose.focus({ preventScroll: true });
 				}
-
-				function close() {
-					stopAutoplay();
+				function fermer() {
+					arreter();
+					if (document.fullscreenElement) document.exitFullscreen?.();
 					overlay.classList.remove('is-open');
 					overlay.setAttribute('aria-hidden', 'true');
 					document.body.style.overflow = '';
+					// Ramène la page sur la dernière photo regardée.
+					const img = photos[courant];
+					img.scrollIntoView({ block: 'center' });
+					(img === declencheur ? img : declencheur)?.focus?.({ preventScroll: true });
 				}
 
-				images.forEach((img, idx) => {
-					img.style.cursor = 'zoom-in';
+				photos.forEach((img, i) => {
+					img.tabIndex = 0;
+					img.setAttribute('role', 'button');
+					img.setAttribute('aria-label', `Agrandir la photo ${i + 1} sur ${photos.length}`);
 					img.addEventListener('click', (e) => {
 						e.preventDefault();
-						open(idx);
+						ouvrir(i);
+					});
+					img.addEventListener('keydown', (e) => {
+						if (e.key === 'Enter' || e.key === ' ') {
+							e.preventDefault();
+							ouvrir(i);
+						}
 					});
 				});
 
-				btnClose.addEventListener('click', close);
-				btnPrev.addEventListener('click', () => { stopAutoplay(); show(current - 1); });
-				btnNext.addEventListener('click', () => { stopAutoplay(); show(current + 1); });
-				btnPlay.addEventListener('click', () => (timer ? stopAutoplay() : startAutoplay()));
+				if (document.fullscreenEnabled) {
+					btnFull.hidden = false;
+					btnFull.addEventListener('click', () =>
+						document.fullscreenElement ? document.exitFullscreen() : overlay.requestFullscreen()
+					);
+					document.addEventListener('fullscreenchange', () => {
+						btnFull.textContent = document.fullscreenElement ? 'Quitter le plein écran' : 'Plein écran';
+					});
+				}
 
-				overlay.addEventListener('click', (e) => {
-					if (e.target === overlay) close();
+				btnClose.addEventListener('click', fermer);
+				btnPlay.addEventListener('click', bascule);
+				$('lb-prev').addEventListener('click', precedente);
+				$('lb-next').addEventListener('click', suivante);
+				stage.addEventListener('click', (e) => {
+					if (e.target === stage) fermer();
+				});
+
+				// Balayage sur téléphone et tablette
+				let x0 = null;
+				let y0 = null;
+				stage.addEventListener('touchstart', (e) => {
+					if (e.touches.length !== 1) return (x0 = null);
+					x0 = e.touches[0].clientX;
+					y0 = e.touches[0].clientY;
+				}, { passive: true });
+				stage.addEventListener('touchend', (e) => {
+					if (x0 === null) return;
+					const dx = e.changedTouches[0].clientX - x0;
+					const dy = e.changedTouches[0].clientY - y0;
+					x0 = null;
+					if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy)) (dx < 0 ? suivante : precedente)();
 				});
 
 				document.addEventListener('keydown', (e) => {
 					if (!overlay.classList.contains('is-open')) return;
-					if (e.key === 'Escape') close();
-					if (e.key === 'ArrowLeft') { stopAutoplay(); show(current - 1); }
-					if (e.key === 'ArrowRight') { stopAutoplay(); show(current + 1); }
-					if (e.key === ' ') {
-						e.preventDefault();
-						timer ? stopAutoplay() : startAutoplay();
+					switch (e.key) {
+						case 'Escape': fermer(); break;
+						case 'ArrowLeft': precedente(); break;
+						case 'ArrowRight': suivante(); break;
+						case 'Home': arreter(); afficher(0); break;
+						case 'End': arreter(); afficher(photos.length - 1); break;
+						case ' ':
+							if (e.target.tagName !== 'BUTTON') { e.preventDefault(); bascule(); }
+							break;
+						case 'Tab': {
+							// Garde le focus dans la visionneuse
+							const focusables = Array.from(overlay.querySelectorAll('button:not([hidden])'))
+								.filter((b) => b.offsetParent !== null);
+							const premier = focusables[0];
+							const dernier = focusables[focusables.length - 1];
+							if (e.shiftKey && document.activeElement === premier) { e.preventDefault(); dernier.focus(); }
+							else if (!e.shiftKey && document.activeElement === dernier) { e.preventDefault(); premier.focus(); }
+							break;
+						}
 					}
 				});
-			});
+			})();
 		</script>
 	</body>
 </html>

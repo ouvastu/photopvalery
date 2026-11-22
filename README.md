@@ -61,3 +61,12 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 ## Credit
 
 This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+
+## Photos et galeries
+
+- Les photos d'origine sont dans `public/images/`.
+- Après avoir ajouté ou remplacé des photos, lancer `npm run vignettes` : cela crée les vignettes WebP
+  (`public/vignettes/`) et met à jour leurs dimensions (`src/data/photos.json`). Commiter les deux.
+- À la compilation, `src/lib/galerie.mjs` regroupe les photos consécutives d'un article en galerie
+  (vignettes dans la grille, photo d'origine dans la visionneuse). Une photo sans vignette reste affichée
+  en taille d'origine.
