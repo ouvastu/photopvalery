@@ -11,7 +11,7 @@ type Props = CollectionEntry<'blog'>['data'];
 const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 ---
 
-<html lang="en">
+<html lang="fr">
 	<head>
 		<BaseHead title={title} description={description} />
 		<style>
@@ -68,7 +68,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 							<FormattedDate date={pubDate} />
 							{updatedDate && (
 								<div class="last-updated-on">
-									Last updated on <FormattedDate date={updatedDate} />
+									Mis à jour le <FormattedDate date={updatedDate} />
 								</div>
 							)}
 						</div>
@@ -80,250 +80,53 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			</article>
 		</main>
 		<Footer />
-		<!-- Visionneuse plein écran + diaporama automatique (Fancybox) -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
-<script is:inline src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
 
-<script is:inline>
-  document.addEventListener("DOMContentLoaded", () => {
-    // Rend toutes les images de l'article cliquables dans la galerie
-    document.querySelectorAll("article img").forEach((img) => {
-      const link = document.createElement("a");
-      link.href = img.src;
-      link.dataset.fancybox = "galerie";
-      link.dataset.caption = img.alt || "";
-      img.parentNode.insertBefore(link, img);
-      link.appendChild(img);
-    });
+		<div id="lightbox" class="lb-overlay" aria-hidden="true">
+			<div class="lb-toolbar">
+				<button id="lb-play" class="lb-btn" type="button" aria-label="Diaporama automatique">▶ Diaporama</button>
+				<button id="lb-close" class="lb-btn lb-close" type="button" aria-label="Fermer">✕</button>
+			</div>
 
-    // Active le plein écran et le bouton de lecture automatique
-    Fancybox.bind('[data-fancybox="galerie"]', {
-      Slideshow: {
-        playOnStart: false, // Passez à true pour lancer le défilement dès le clic
-        timeout: 3500,      // 3,5 secondes par photo
-      },
-      Toolbar: {
-        display: {
-          left: ["infobar"],
-          middle: [],
-          right: ["slideshow", "fullscreen", "thumbs", "close"],
-        },
-      },
-    });
-  });
-  <div id="lightbox" class="lb-overlay" aria-hidden="true">
-	<div class="lb-toolbar">
-		<button id="lb-play" class="lb-btn" type="button" aria-label="Diaporama automatique">▶ Diaporama</button>
-		<button id="lb-close" class="lb-btn lb-close" type="button" aria-label="Fermer">✕</button>
-	</div>
+			<button id="lb-prev" class="lb-nav lb-prev" type="button" aria-label="Photo précédente">‹</button>
 
-	<button id="lb-prev" class="lb-nav lb-prev" type="button" aria-label="Photo précédente">‹</button>
+			<figure class="lb-stage">
+				<img id="lb-img" src="" alt="" />
+				<figcaption class="lb-footer">
+					<span id="lb-counter" class="lb-counter">1/1</span>
+					<span id="lb-caption" class="lb-caption"></span>
+				</figcaption>
+			</figure>
 
-	<figure class="lb-stage">
-		<img id="lb-img" src="" alt="" />
-		<figcaption class="lb-footer">
-			<span id="lb-counter" class="lb-counter">1/1</span>
-			<span id="lb-caption" class="lb-caption"></span>
-		</figcaption>
-	</figure>
+			<button id="lb-next" class="lb-nav lb-next" type="button" aria-label="Photo suivante">›</button>
+		</div>
 
-	<button id="lb-next" class="lb-nav lb-next" type="button" aria-label="Photo suivante">›</button>
-</div>
-
-<style is:global>
-	.lb-overlay {
-		position: fixed;
-		inset: 0;
-		z-index: 9999;
-		background-color: var(--bg, #faf9f6);
-		color: rgb(var(--black, 20, 20, 20));
-		display: none;
-		align-items: center;
-		justify-content: center;
-		padding: 4rem 3.5rem 2.5rem;
-	}
-	.lb-overlay.is-open {
-		display: flex;
-	}
-	.lb-toolbar {
-		position: fixed;
-		top: 1.25rem;
-		right: 1.5rem;
-		display: flex;
-		align-items: center;
-		gap: 0.75rem;
-		z-index: 10;
-	}
-	.lb-btn {
-		background: transparent;
-		border: 1px solid rgb(var(--gray-light, 235, 232, 226));
-		color: rgb(var(--black, 20, 20, 20));
-		padding: 0.45rem 0.9rem;
-		font-size: 0.8rem;
-		letter-spacing: 0.1em;
-		text-transform: uppercase;
-		cursor: pointer;
-		border-radius: 2px;
-		transition: border-color 0.2s ease, color 0.2s ease;
-	}
-	.lb-btn:hover {
-		border-color: var(--accent, #8c6d46);
-		color: var(--accent, #8c6d46);
-	}
-	.lb-close {
-		font-size: 1rem;
-		padding: 0.35rem 0.75rem;
-	}
-	.lb-nav {
-		position: fixed;
-		top: 50%;
-		transform: translateY(-50%);
-		background: transparent;
-		border: none;
-		color: rgb(var(--black, 20, 20, 20));
-		font-size: 2.75rem;
-		line-height: 1;
-		padding: 0.5rem 1rem;
-		cursor: pointer;
-		opacity: 0.55;
-		transition: opacity 0.2s ease, color 0.2s ease;
-		z-index: 10;
-	}
-	.lb-nav:hover {
-		opacity: 1;
-		color: var(--accent, #8c6d46);
-	}
-	.lb-prev { left: 0.75rem; }
-	.lb-next { right: 0.75rem; }
-	.lb-stage {
-		margin: 0;
-		max-width: 100%;
-		max-height: 100%;
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		justify-content: center;
-	}
-	.lb-stage img {
-		max-width: 90vw;
-		max-height: 76vh;
-		width: auto;
-		height: auto;
-		object-fit: contain;
-		box-shadow: 0 12px 36px rgba(0, 0, 0, 0.08);
-		border-radius: 2px;
-	}
-	.lb-footer {
-		margin-top: 1.25rem;
-		text-align: center;
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		gap: 0.35rem;
-	}
-	.lb-counter {
-		font-size: 0.85rem;
-		letter-spacing: 0.14em;
-		color: var(--accent, #8c6d46);
-		font-weight: 500;
-	}
-	.lb-caption {
-		font-size: 0.9rem;
-		color: rgb(var(--gray, 110, 110, 110));
-		font-style: italic;
-		max-width: 720px;
-	}
-	@media (max-width: 720px) {
-		.lb-overlay { padding: 4rem 1rem 2rem; }
-		.lb-nav { font-size: 2rem; padding: 0.5rem; }
-	}
-</style>
-
-<script is:inline>
-	document.addEventListener('DOMContentLoaded', () => {
-		const images = Array.from(document.querySelectorAll('article img'));
-		if (!images.length) return;
-
-		const overlay = document.getElementById('lightbox');
-		const lbImg = document.getElementById('lb-img');
-		const lbCounter = document.getElementById('lb-counter');
-		const lbCaption = document.getElementById('lb-caption');
-		const btnClose = document.getElementById('lb-close');
-		const btnPrev = document.getElementById('lb-prev');
-		const btnNext = document.getElementById('lb-next');
-		const btnPlay = document.getElementById('lb-play');
-
-		let current = 0;
-		let timer = null;
-		const INTERVAL_MS = 4000; // 4 secondes par photo
-
-		function show(index) {
-			current = (index + images.length) % images.length;
-			const img = images[current];
-			lbImg.src = img.currentSrc || img.src;
-			lbImg.alt = img.alt || '';
-			lbCounter.textContent = `${current + 1}/${images.length}`;
-			lbCaption.textContent = img.alt || '';
-		}
-
-		function startAutoplay() {
-			stopAutoplay();
-			timer = setInterval(() => show(current + 1), INTERVAL_MS);
-			btnPlay.textContent = '⏸ Pause';
-		}
-
-		function stopAutoplay() {
-			if (timer) {
-				clearInterval(timer);
-				timer = null;
+		<style is:global>
+			.lb-overlay {
+				position: fixed;
+				inset: 0;
+				z-index: 9999;
+				background-color: var(--bg, #faf9f6);
+				color: rgb(var(--black, 20, 20, 20));
+				display: none;
+				align-items: center;
+				justify-content: center;
+				padding: 4rem 3.5rem 2.5rem;
 			}
-			btnPlay.textContent = '▶ Diaporama';
-		}
-
-		function open(index) {
-			show(index);
-			overlay.classList.add('is-open');
-			overlay.setAttribute('aria-hidden', 'false');
-			document.body.style.overflow = 'hidden';
-			startAutoplay();
-		}
-
-		function close() {
-			stopAutoplay();
-			overlay.classList.remove('is-open');
-			overlay.setAttribute('aria-hidden', 'true');
-			document.body.style.overflow = '';
-		}
-
-		images.forEach((img, idx) => {
-			img.style.cursor = 'zoom-in';
-			img.addEventListener('click', (e) => {
-				e.preventDefault();
-				open(idx);
-			});
-		});
-
-		btnClose.addEventListener('click', close);
-		btnPrev.addEventListener('click', () => { stopAutoplay(); show(current - 1); });
-		btnNext.addEventListener('click', () => { stopAutoplay(); show(current + 1); });
-		btnPlay.addEventListener('click', () => (timer ? stopAutoplay() : startAutoplay()));
-
-		overlay.addEventListener('click', (e) => {
-			if (e.target === overlay) close();
-		});
-
-		document.addEventListener('keydown', (e) => {
-			if (!overlay.classList.contains('is-open')) return;
-			if (e.key === 'Escape') close();
-			if (e.key === 'ArrowLeft') { stopAutoplay(); show(current - 1); }
-			if (e.key === 'ArrowRight') { stopAutoplay(); show(current + 1); }
-			if (e.key === ' ') {
-				e.preventDefault();
-				timer ? stopAutoplay() : startAutoplay();
+			.lb-overlay.is-open {
+				display: flex;
 			}
-		});
-	});
-</script>
-</script>
-	</body>
-</html>
+			.lb-toolbar {
+				position: fixed;
+				top: 1.25rem;
+				right: 1.5rem;
+				display: flex;
+				align-items: center;
+				gap: 0.75rem;
+				z-index: 10;
+			}
+			.lb-btn {
+				background: transparent;
+				border: 1px solid rgb(var(--gray-light, 235, 232, 226));
+				color: rgb(var(--black, 20, 20, 20));
+				padding: 0.45rem 0.9rem;
+				font-size: 0.8rem;
