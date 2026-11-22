@@ -1,26 +1,72 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Footer from '../components/Footer.astro';
-import Header from '../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { SITE_TITLE } from '../consts';
+import HeaderLink from './HeaderLink.astro';
 ---
 
-<!doctype html>
-<html lang="fr">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body>
-		<Header />
-		<main>
-			<h1>Photographies au Musée Paul Valéry</h1>
-			<p>
-				Bienvenue sur ce site dédié aux archives photographiques des expositions, vernissages et événements du Musée Paul Valéry de Sète.
-			</p>
-			<p>
-				Parcourez l'ensemble des galeries dans la rubrique <a href="/blog">Expositions</a> : cliquez sur n'importe quelle photographie pour l'afficher en plein écran ou lancer le diaporama.
-			</p>
-		</main>
-		<Footer />
-	</body>
-</html>
+<header>
+	<nav>
+		<h2 class="site-title">
+			<a href="/">{SITE_TITLE}</a>
+		</h2>
+		<div class="internal-links">
+			<HeaderLink href="/">Accueil</HeaderLink>
+			<HeaderLink href="/blog">Expositions</HeaderLink>
+			<HeaderLink href="/about">À propos</HeaderLink>
+		</div>
+	</nav>
+</header>
+
+<style>
+	header {
+		position: sticky;
+		top: 0;
+		z-index: 100;
+		background: rgba(250, 249, 246, 0.92);
+		backdrop-filter: blur(12px);
+		border-bottom: 1px solid rgb(var(--gray-light));
+		padding: 0 2rem;
+	}
+	nav {
+		max-width: 1100px;
+		margin: 0 auto;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		height: 76px;
+	}
+	.site-title {
+		margin: 0;
+		font-family: 'Playfair Display', Georgia, serif;
+		font-size: 1.35rem;
+		font-weight: 400;
+		letter-spacing: 0.02em;
+	}
+	.site-title a {
+		color: rgb(var(--black));
+		border: none;
+		padding: 0;
+	}
+	.internal-links {
+		display: flex;
+		gap: 2rem;
+	}
+	nav a {
+		font-size: 0.8rem;
+		font-weight: 400;
+		letter-spacing: 0.14em;
+		text-transform: uppercase;
+		color: rgb(var(--gray));
+		padding: 0.5rem 0;
+		border-bottom: 1px solid transparent;
+	}
+	nav a:hover,
+	nav a.active {
+		color: rgb(var(--black));
+		border-bottom-color: var(--accent);
+	}
+	@media (max-width: 720px) {
+		header { padding: 0 1rem; }
+		nav { flex-direction: column; height: auto; padding: 1rem 0; gap: 0.75rem; }
+		.internal-links { gap: 1.25rem; }
+	}
+</style>

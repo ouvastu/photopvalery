@@ -5,7 +5,7 @@ import HeaderLink from './HeaderLink.astro';
 
 <header>
 	<nav>
-		<h2>
+		<h2 class="site-title">
 			<a href="/">{SITE_TITLE}</a>
 		</h2>
 		<div class="internal-links">
@@ -15,35 +15,58 @@ import HeaderLink from './HeaderLink.astro';
 		</div>
 	</nav>
 </header>
+
 <style>
 	header {
-		margin: 0;
-		padding: 0 1em;
-		background: white;
-		box-shadow: 0 2px 8px rgba(var(--black), 5%);
-	}
-	h2 {
-		margin: 0;
-		font-size: 1em;
-	}
-
-	h2 a,
-	h2 a.active {
-		text-decoration: none;
+		position: sticky;
+		top: 0;
+		z-index: 100;
+		background: rgba(250, 249, 246, 0.92);
+		backdrop-filter: blur(12px);
+		border-bottom: 1px solid rgb(var(--gray-light));
+		padding: 0 2rem;
 	}
 	nav {
+		max-width: 1100px;
+		margin: 0 auto;
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
+		height: 76px;
+	}
+	.site-title {
+		margin: 0;
+		font-family: 'Playfair Display', Georgia, serif;
+		font-size: 1.35rem;
+		font-weight: 400;
+		letter-spacing: 0.02em;
+	}
+	.site-title a {
+		color: rgb(var(--black));
+		border: none;
+		padding: 0;
+	}
+	.internal-links {
+		display: flex;
+		gap: 2rem;
 	}
 	nav a {
-		padding: 1em 0.5em;
-		color: var(--black);
-		border-bottom: 4px solid transparent;
-		text-decoration: none;
+		font-size: 0.8rem;
+		font-weight: 400;
+		letter-spacing: 0.14em;
+		text-transform: uppercase;
+		color: rgb(var(--gray));
+		padding: 0.5rem 0;
+		border-bottom: 1px solid transparent;
 	}
+	nav a:hover,
 	nav a.active {
-		text-decoration: none;
+		color: rgb(var(--black));
 		border-bottom-color: var(--accent);
+	}
+	@media (max-width: 720px) {
+		header { padding: 0 1rem; }
+		nav { flex-direction: column; height: auto; padding: 1rem 0; gap: 0.75rem; }
+		.internal-links { gap: 1.25rem; }
 	}
 </style>
