@@ -1,8 +1,30 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { estJournees, parDate } from '../lib/rubriques';
+
+const posts = (await getCollection('blog')).sort(parDate);
+
+const colonnes = [
+	{
+		id: 'expositions',
+		titre: 'Expositions',
+		lien: '/blog',
+		articles: posts.filter((p) => !estJournees(p)),
+	},
+	{
+		id: 'journees',
+		titre: 'Journées Paul Valéry',
+		lien: '/journees-paul-valery',
+		articles: posts.filter(estJournees),
+	},
+];
+
+const formatDate = (date: Date) =>
+	date.toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
 
 <!doctype html>
@@ -12,15 +34,38 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 	</head>
 	<body>
 		<Header />
-		<main class="hero">
-			<p class="eyebrow">Archives photographiques · Sète</p>
-			<h1>Photographies au Musée Paul Valéry</h1>
-			<p class="lead">
-				Regard photographique sur les expositions, vernissages, accrochages et rencontres qui ont marqué la vie du Musée Paul Valéry.
-			</p>
-			<div class="actions">
-				<a href="/blog" class="btn-primary">Découvrir les expositions</a>
-				<a href="/about" class="btn-secondary">À propos</a>
+		<main class="home">
+			<div class="intro">
+				<p class="eyebrow">Archives photographiques · Sète</p>
+				<h1>Expositions et Journées Paul Valéry</h1>
+				<p class="lead">
+					Expositions, vernissages, accrochages et rencontres qui ont marqué la vie du Musée Paul Valéry.
+				</p>
+			</div>
+
+			<div class="colonnes">
+				{
+					colonnes.map((col) => (
+						<section class="colonne" aria-labelledby={`titre-${col.id}`}>
+							<h2 id={`titre-${col.id}`}>
+								<a href={col.lien}>{col.titre}</a>
+								<span class="compte">{col.articles.length}</span>
+							</h2>
+							<ul>
+								{col.articles.map((post) => (
+									<li>
+										<a href={`/blog/${post.id}/`}>
+											<time datetime={post.data.pubDate.toISOString()}>
+												{formatDate(post.data.pubDate)}
+											</time>
+											<span class="titre">{post.data.title}</span>
+										</a>
+									</li>
+								))}
+							</ul>
+						</section>
+					))
+				}
 			</div>
 		</main>
 		<Footer />
@@ -28,12 +73,11 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 </html>
 
 <style>
-	.hero {
-		min-height: 68vh;
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		max-width: min(760px, calc(100% - 2.5rem));
+	.intro {
+		max-width: min(760px, 100%);
+		margin-bottom: 3.5rem;
+		padding-bottom: 2rem;
+		border-bottom: 1px solid rgb(var(--gray-light));
 	}
 	.eyebrow {
 		font-size: 0.78rem;
@@ -44,47 +88,78 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 		font-weight: 500;
 	}
 	h1 {
-		font-size: clamp(2.4rem, 5vw, 3.8rem);
-		margin-bottom: 1.5rem;
+		font-size: clamp(2.2rem, 5vw, 3.4rem);
+		margin-bottom: 1.25rem;
 		line-height: 1.12;
 	}
 	.lead {
 		font-size: 1.15rem;
 		color: rgb(var(--gray));
 		max-width: 600px;
-		margin-bottom: 2.5rem;
+		margin: 0;
 	}
-	.actions {
+	.colonnes {
+		display: grid;
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		gap: 3rem 3.5rem;
+		align-items: start;
+	}
+	.colonne h2 {
 		display: flex;
-		gap: 1.25rem;
-		align-items: center;
-		flex-wrap: wrap;
+		align-items: baseline;
+		justify-content: space-between;
+		gap: 1rem;
+		font-size: 1.6rem;
+		margin: 0 0 0.5rem;
+		padding-bottom: 0.75rem;
+		border-bottom: 1px solid rgb(var(--black));
 	}
-	.btn-primary {
-		display: inline-block;
-		background-color: rgb(var(--black));
-		color: #ffffff;
-		padding: 0.95rem 2rem;
-		font-size: 0.82rem;
-		letter-spacing: 0.14em;
-		text-transform: uppercase;
-		border-radius: 2px;
-		transition: background-color 0.25s ease, transform 0.25s ease;
-	}
-	.btn-primary:hover {
-		background-color: var(--accent);
-		color: #ffffff;
-		transform: translateY(-1px);
-	}
-	.btn-secondary {
-		font-size: 0.82rem;
-		letter-spacing: 0.14em;
-		text-transform: uppercase;
+	.colonne h2 a {
 		color: rgb(var(--black));
-		border-bottom: 1px solid rgb(var(--gray-light));
-		padding-bottom: 0.25rem;
 	}
-	.btn-secondary:hover {
-		border-bottom-color: rgb(var(--black));
+	.colonne h2 a:hover {
+		color: var(--accent);
+	}
+	.compte {
+		font-size: 0.78rem;
+		letter-spacing: 0.14em;
+		color: var(--accent);
+	}
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	li {
+		margin: 0;
+		border-bottom: 1px solid rgb(var(--gray-light));
+	}
+	li a {
+		display: block;
+		padding: 0.9rem 0;
+		color: rgb(var(--black));
+		text-decoration: none;
+	}
+	time {
+		display: block;
+		font-size: 0.72rem;
+		letter-spacing: 0.14em;
+		text-transform: uppercase;
+		color: var(--accent);
+		margin-bottom: 0.25rem;
+	}
+	.titre {
+		display: block;
+		font-size: 1.02rem;
+		line-height: 1.4;
+		transition: color 0.2s ease;
+	}
+	li a:hover .titre {
+		color: var(--accent);
+	}
+	@media (max-width: 720px) {
+		.colonnes {
+			grid-template-columns: 1fr;
+		}
 	}
 </style>
