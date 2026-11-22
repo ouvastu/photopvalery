@@ -37,6 +37,47 @@ export function transformer(html, dimensions) {
 	return { html: resultat, photos: n };
 }
 
+
+// Sommaire illustré en tête d'article : une carte par section
+// (<h2 class="section-photos" id="…">, avec data-lien quand la section renvoie à un autre article).
+const SECTION = /<h2 class="section-photos" id="([^"]+)"( data-lien="([^"]+)")?>([\s\S]*?)<\/h2>/g;
+const EMPLACEMENT = /(<nav class="sommaire-photos"[^>]*>)\s*(<\/nav>)/;
+
+function resumePhotos(html) {
+	const photos = html.match(/data-full="/g)?.length ?? 0;
+	const premiere = html.match(/<img src="(\/vignettes\/[^"]+)" data-full="[^"]+" width="(\d+)" height="(\d+)"/);
+	return { photos, vignette: premiere?.[1], w: premiere?.[2], h: premiere?.[3] };
+}
+
+const echapper = (t) => t.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;");
+const pluriel = (n) => `${n} photo${n > 1 ? "s" : ""}`;
+
+export function ajouterSommaire(html, lirePage) {
+	if (!EMPLACEMENT.test(html)) return html;
+	const titres = [...html.matchAll(SECTION)];
+	if (titres.length < 2) return html;
+	const finArticle = html.indexOf("</article>");
+	const cartes = titres.map((t, i) => {
+		const [, id, , lien, titre] = t;
+		const debut = t.index + t[0].length;
+		const fin = i + 1 < titres.length ? titres[i + 1].index : finArticle;
+		let r = resumePhotos(html.slice(debut, fin));
+		let href = `#${id}`;
+		let compte = pluriel(r.photos);
+		if (lien && r.photos === 0) {
+			const autre = lirePage(lien);
+			if (autre) r = resumePhotos(autre);
+			href = lien;
+			compte = r.photos ? `Reportage séparé · ${pluriel(r.photos)}` : "Reportage séparé";
+		}
+		const image = r.vignette
+			? `<img src="${r.vignette}" width="${r.w}" height="${r.h}" alt="" loading="eager" decoding="async">`
+			: "";
+		return `<a class="sommaire-carte" href="${href}">${image}<span class="sommaire-titre">${titre.trim()}</span><span class="sommaire-compte">${echapper(compte)}</span></a>`;
+	});
+	return html.replace(EMPLACEMENT, `$1<p class="sommaire-intro">Dans ce reportage</p><div class="sommaire-cartes">${cartes.join("")}</div>$2`);
+}
+
 function fichiersHtml(dossier) {
 	return fs.readdirSync(dossier, { withFileTypes: true }).flatMap((e) => {
 		const p = path.join(dossier, e.name);
@@ -55,7 +96,8 @@ export default function galerie() {
 				);
 				let pages = 0;
 				let photos = 0;
-				for (const fichier of fichiersHtml(path.join(racine, 'blog'))) {
+				const fichiers = fichiersHtml(path.join(racine, 'blog'));
+				for (const fichier of fichiers) {
 					const avant = fs.readFileSync(fichier, 'utf8');
 					if (!avant.includes('photo-figure')) continue;
 					const r = transformer(avant, dimensions);
@@ -63,7 +105,21 @@ export default function galerie() {
 					pages++;
 					photos += r.photos;
 				}
-				logger.info(`${photos} photos mises en galerie dans ${pages} articles`);
+				// Deuxième passage : les sommaires peuvent citer un autre article déjà transformé.
+				const lirePage = (lien) => {
+					const p = path.join(racine, ...lien.split('/').filter(Boolean), 'index.html');
+					return fs.existsSync(p) ? fs.readFileSync(p, 'utf8') : null;
+				};
+				let sommaires = 0;
+				for (const fichier of fichiers) {
+					const avant = fs.readFileSync(fichier, 'utf8');
+					const apres = ajouterSommaire(avant, lirePage);
+					if (apres !== avant) {
+						fs.writeFileSync(fichier, apres);
+						sommaires++;
+					}
+				}
+				logger.info(`${photos} photos mises en galerie dans ${pages} articles, ${sommaires} sommaires`);
 			},
 		},
 	};

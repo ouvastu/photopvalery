@@ -9,6 +9,8 @@ categories:
 
 Photos Gilles Hutchinson
 
+<h2 class="section-photos" id="salles">Les salles du musée</h2>
+
 <figure class="photo-figure"><img src="/images/ant_6173-panorama-70.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°1 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°1 — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/ant_6176-71.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°2 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°2 — © Gilles Hutchinson</figcaption></figure>
@@ -18,8 +20,6 @@ Photos Gilles Hutchinson
 <figure class="photo-figure"><img src="/images/ant_6177-panorama-73.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°4 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°4 — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/ant_6178-panorama-74.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°5 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°5 — © Gilles Hutchinson</figcaption></figure>
-
-<!--more-->
 
 <figure class="photo-figure"><img src="/images/ant_6181-modifier-75.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°6 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°6 — © Gilles Hutchinson</figcaption></figure>
 
@@ -115,129 +115,133 @@ Photos Gilles Hutchinson
 
 <figure class="photo-figure"><img src="/images/ant_6257-121.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°52 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°52 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/dsf1416-122.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°53 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°53 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6322-155.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°53 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°53 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/dsf1419-123.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°54 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°54 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6322-panorama-156.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°54 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°54 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/dsf1421-124.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°55 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°55 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6324-panorama-157.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°55 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°55 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/dsf1423-125.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°56 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°56 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6327-158.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°56 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°56 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/dsf1424-126.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°57 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°57 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6329-panorama-159.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°57 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°57 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/dsf1425-127.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°58 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°58 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6331-160.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°58 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°58 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/dsf1426-128.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°59 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°59 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6332-panorama-161.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°59 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°59 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/dsf1428-129.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°60 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°60 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6335-162.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°60 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°60 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/dsf1430-130.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°61 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°61 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6335-panorama-163.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°61 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°61 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/dsf1432-131.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°62 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°62 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6336-panorama-164.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°62 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°62 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/dsf1528-154.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°63 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°63 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6338-165.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°63 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°63 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6262-132.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°64 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°64 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6341-panorama-166.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°64 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°64 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6264-133.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°65 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°65 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6344-panorama-167.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°65 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°65 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6266-134.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°66 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°66 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6346-panorama-168.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°66 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°66 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6268-135.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°67 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°67 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6347-panorama-169.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°67 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°67 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6271-136.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°68 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°68 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6349-170.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°68 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°68 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6272-137.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°69 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°69 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6349-panorama-171.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°69 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°69 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6274-138.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°70 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°70 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6352-172.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°70 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°70 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6279-139.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°71 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°71 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6352-panorama-173.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°71 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°71 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6282-140.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°72 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°72 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6353-panorama-174.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°72 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°72 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6284-141.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°73 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°73 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6356-175.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°73 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°73 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6286-142.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°74 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°74 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6357-panorama-176.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°74 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°74 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6289-143.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°75 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°75 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6360-panorama-177.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°75 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°75 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6291-144.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°76 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°76 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6363-178.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°76 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°76 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6292-145.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°77 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°77 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6364-panorama-179.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°77 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°77 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6293-146.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°78 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°78 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6367-180.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°78 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°78 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6294-147.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°79 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°79 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6368-181.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°79 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°79 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6297-148.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°80 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°80 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6368-panorama-182.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°80 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°80 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6298-149.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°81 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°81 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6373-panorama-2-183.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°81 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°81 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6302-150.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°82 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°82 — © Gilles Hutchinson</figcaption></figure>
+<h2 class="section-photos" id="presse">Avec la presse</h2>
 
-<figure class="photo-figure"><img src="/images/ant_6306-151.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°83 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°83 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/dsf1416-122.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°82 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°82 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6308-152.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°84 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°84 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/dsf1419-123.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°83 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°83 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6309-153.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°85 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°85 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/dsf1421-124.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°84 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°84 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6322-155.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°86 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°86 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/dsf1423-125.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°85 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°85 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6322-panorama-156.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°87 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°87 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/dsf1424-126.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°86 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°86 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6324-panorama-157.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°88 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°88 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/dsf1425-127.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°87 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°87 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6327-158.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°89 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°89 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/dsf1426-128.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°88 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°88 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6329-panorama-159.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°90 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°90 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/dsf1428-129.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°89 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°89 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6331-160.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°91 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°91 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/dsf1430-130.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°90 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°90 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6332-panorama-161.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°92 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°92 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/dsf1432-131.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°91 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°91 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6335-162.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°93 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°93 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/dsf1528-154.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°92 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°92 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6335-panorama-163.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°94 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°94 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6262-132.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°93 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°93 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6336-panorama-164.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°95 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°95 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6264-133.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°94 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°94 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6338-165.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°96 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°96 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6266-134.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°95 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°95 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6341-panorama-166.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°97 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°97 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6268-135.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°96 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°96 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6344-panorama-167.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°98 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°98 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6271-136.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°97 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°97 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6346-panorama-168.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°99 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°99 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6272-137.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°98 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°98 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6347-panorama-169.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°100 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°100 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6274-138.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°99 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°99 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6349-170.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°101 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°101 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6279-139.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°100 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°100 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6349-panorama-171.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°102 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°102 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6282-140.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°101 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°101 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6352-172.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°103 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°103 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6284-141.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°102 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°102 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6352-panorama-173.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°104 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°104 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6286-142.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°103 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°103 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6353-panorama-174.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°105 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°105 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6289-143.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°104 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°104 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6356-175.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°106 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°106 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6291-144.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°105 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°105 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6357-panorama-176.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°107 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°107 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6292-145.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°106 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°106 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6360-panorama-177.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°108 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°108 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6293-146.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°107 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°107 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6363-178.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°109 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°109 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6294-147.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°108 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°108 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6364-panorama-179.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°110 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°110 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6297-148.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°109 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°109 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6367-180.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°111 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°111 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6298-149.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°110 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°110 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6368-181.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°112 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°112 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6302-150.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°111 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°111 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6368-panorama-182.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°113 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°113 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6306-151.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°112 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°112 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/ant_6373-panorama-2-183.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°114 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°114 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/ant_6308-152.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°113 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°113 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/ant_6309-153.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°114 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°114 — © Gilles Hutchinson</figcaption></figure>
+
+<h2 class="section-photos" id="vernissage">Vernissage</h2>
 
 <figure class="photo-figure"><img src="/images/ant_6444-184.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°115 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°115 — © Gilles Hutchinson</figcaption></figure>
 
@@ -350,3 +354,4 @@ Photos Gilles Hutchinson
 <figure class="photo-figure"><img src="/images/ant_6607-240.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°169 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°169 — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/ant_6609-241.jpg" alt="Exposition Titus-Carmel /musée Paul Valéry — Photographie n°170 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Titus-Carmel /musée Paul Valéry — Photographie n°170 — © Gilles Hutchinson</figcaption></figure>
+

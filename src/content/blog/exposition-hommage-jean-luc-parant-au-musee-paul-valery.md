@@ -9,6 +9,8 @@ categories:
 
 Photos Gilles Hutchinson
 
+<h2 class="section-photos" id="salles">Les salles du musée</h2>
+
 <figure class="photo-figure"><img src="/images/ant_5762-modifier-70.jpg" alt="Exposition hommage à Jean-Luc Parant au musée Paul Valéry — Photographie n°1 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition hommage à Jean-Luc Parant au musée Paul Valéry — Photographie n°1 — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/ant_5763-modifier-71.jpg" alt="Exposition hommage à Jean-Luc Parant au musée Paul Valéry — Photographie n°2 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition hommage à Jean-Luc Parant au musée Paul Valéry — Photographie n°2 — © Gilles Hutchinson</figcaption></figure>
@@ -148,6 +150,8 @@ Photos Gilles Hutchinson
 <figure class="photo-figure"><img src="/images/ant_5936-modifier-137.jpg" alt="Exposition hommage à Jean-Luc Parant au musée Paul Valéry — Photographie n°68 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition hommage à Jean-Luc Parant au musée Paul Valéry — Photographie n°68 — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/ant_5937-modifier-138.jpg" alt="Exposition hommage à Jean-Luc Parant au musée Paul Valéry — Photographie n°69 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition hommage à Jean-Luc Parant au musée Paul Valéry — Photographie n°69 — © Gilles Hutchinson</figcaption></figure>
+
+<h2 class="section-photos" id="presse-vernissage">Presse et vernissage</h2>
 
 <figure class="photo-figure"><img src="/images/dsf1333-149.jpg" alt="Exposition hommage à Jean-Luc Parant au musée Paul Valéry — Photographie n°70 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition hommage à Jean-Luc Parant au musée Paul Valéry — Photographie n°70 — © Gilles Hutchinson</figcaption></figure>
 

@@ -10,6 +10,12 @@ coverImage: "dsf7899.jpg"
 
 <figure class="photo-figure"><img src="/images/dsf7693.jpg" alt="Exposition Robert Combas « chante » Sète et Brassens au musée Paul Valéry / Presse et vernissage — Photographie n°1 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Robert Combas « chante » Sète et Brassens au musée Paul Valéry / Presse et vernissage — Photographie n°1 — © Gilles Hutchinson</figcaption></figure>
 
+<h2 class="section-photos" id="salles" data-lien="/blog/les-salles-de-lexposition-robert-combas-chante-sete-et-brassens-au-musee-paul-valery/">Les salles du musée</h2>
+
+<p class="section-photos-renvoi">Les salles de l'exposition font l'objet d'un reportage séparé : <a href="/blog/les-salles-de-lexposition-robert-combas-chante-sete-et-brassens-au-musee-paul-valery/">voir les salles de l'exposition Robert Combas</a>.</p>
+
+<h2 class="section-photos" id="temps-forts">Temps forts</h2>
+
 <figure class="photo-figure"><img src="/images/dsf7715.jpg" alt="Exposition Robert Combas « chante » Sète et Brassens au musée Paul Valéry / Presse et vernissage — Photographie n°2 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Robert Combas « chante » Sète et Brassens au musée Paul Valéry / Presse et vernissage — Photographie n°2 — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/dsf7753.jpg" alt="Exposition Robert Combas « chante » Sète et Brassens au musée Paul Valéry / Presse et vernissage — Photographie n°3 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Robert Combas « chante » Sète et Brassens au musée Paul Valéry / Presse et vernissage — Photographie n°3 — © Gilles Hutchinson</figcaption></figure>
@@ -28,7 +34,7 @@ coverImage: "dsf7899.jpg"
 
 <!--more-->
 
-Presse
+<h2 class="section-photos" id="presse">Avec la presse</h2>
 
 <figure class="photo-figure"><img src="/images/dsf7692.jpg" alt="Exposition Robert Combas « chante » Sète et Brassens au musée Paul Valéry / Presse et vernissage — Photographie n°10 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Robert Combas « chante » Sète et Brassens au musée Paul Valéry / Presse et vernissage — Photographie n°10 — © Gilles Hutchinson</figcaption></figure>
 
@@ -104,7 +110,7 @@ Presse
 
 <figure class="photo-figure"><img src="/images/dsf7848_1.jpg" alt="Exposition Robert Combas « chante » Sète et Brassens au musée Paul Valéry / Presse et vernissage — Photographie n°46 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Robert Combas « chante » Sète et Brassens au musée Paul Valéry / Presse et vernissage — Photographie n°46 — © Gilles Hutchinson</figcaption></figure>
 
-Vernissage
+<h2 class="section-photos" id="vernissage">Vernissage</h2>
 
 <figure class="photo-figure"><img src="/images/dsf7851.jpg" alt="Exposition Robert Combas « chante » Sète et Brassens au musée Paul Valéry / Presse et vernissage — Photographie n°47 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Robert Combas « chante » Sète et Brassens au musée Paul Valéry / Presse et vernissage — Photographie n°47 — © Gilles Hutchinson</figcaption></figure>
 

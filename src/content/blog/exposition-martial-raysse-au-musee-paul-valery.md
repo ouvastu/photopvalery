@@ -15,6 +15,8 @@ Près de dix ans après ses grandes rétrospectives au Centre Pompidou et au Pal
 
 _Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, juin 2023._
 
+<h2 class="section-photos" id="salles">Les salles du musée</h2>
+
 <figure class="photo-figure"><img src="/images/ant_8032-panorama-2-70.jpg" alt="Vue panoramique des salles de l'exposition Martial Raysse au musée Paul Valéry de Sète, juin 2023 - Photo Gilles Hutchinson — Exposition Martial Raysse au musée Paul Valéry — © Gilles Hutchinson" loading="lazy" /><figcaption>Vue panoramique des salles de l'exposition Martial Raysse au musée Paul Valéry de Sète, juin 2023 - Photo Gilles Hutchinson — Exposition Martial Raysse au musée Paul Valéry — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/ant_8032-panorama-71.jpg" alt="Exposition Martial Raysse au musée Paul Valéry — Photographie n°2 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Martial Raysse au musée Paul Valéry — Photographie n°2 — © Gilles Hutchinson</figcaption></figure>
@@ -177,7 +179,7 @@ _Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, juin 2023._
 
 <figure class="photo-figure"><img src="/images/ant_8660-hdr-184.jpg" alt="Exposition Martial Raysse au musée Paul Valéry — Photographie n°80 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Martial Raysse au musée Paul Valéry — Photographie n°80 — © Gilles Hutchinson</figcaption></figure>
 
-Avec la presse
+<h2 class="section-photos" id="presse">Avec la presse</h2>
 
 <figure class="photo-figure"><img src="/images/dsf2097-238.jpg" alt="Exposition Martial Raysse au musée Paul Valéry — Photographie n°81 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Martial Raysse au musée Paul Valéry — Photographie n°81 — © Gilles Hutchinson</figcaption></figure>
 
@@ -373,7 +375,7 @@ Avec la presse
 
 <figure class="photo-figure"><img src="/images/ant_8485-237.jpg" alt="Exposition Martial Raysse au musée Paul Valéry — Photographie n°177 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Martial Raysse au musée Paul Valéry — Photographie n°177 — © Gilles Hutchinson</figcaption></figure>
 
-Vernissage
+<h2 class="section-photos" id="vernissage">Vernissage</h2>
 
 <figure class="photo-figure"><img src="/images/dsf2177-119.jpg" alt="Exposition Martial Raysse au musée Paul Valéry — Photographie n°178 — © Gilles Hutchinson" loading="lazy" /><figcaption>Exposition Martial Raysse au musée Paul Valéry — Photographie n°178 — © Gilles Hutchinson</figcaption></figure>
 

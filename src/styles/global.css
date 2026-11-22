@@ -136,6 +136,84 @@ article img {
 	}
 }
 
+/* Sections des reportages (salles, presse, vernissage) et sommaire illustré */
+h2.section-photos {
+	scroll-margin-top: 100px;
+	margin: 3.5rem 0 0;
+	padding-bottom: 0.6rem;
+	border-bottom: 1px solid rgb(var(--black));
+	font-size: 1.9rem;
+}
+h2.section-photos + .galerie {
+	margin-top: 1.5rem;
+}
+.section-photos-renvoi {
+	margin-top: 1rem;
+}
+.sommaire-photos:empty {
+	display: none;
+}
+.sommaire-photos {
+	margin: 0 0 2.5rem;
+}
+.sommaire-intro {
+	font-size: 0.78rem;
+	letter-spacing: 0.2em;
+	text-transform: uppercase;
+	color: var(--accent);
+	margin: 0 0 1rem;
+	font-weight: 500;
+}
+.sommaire-cartes {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+	gap: 1rem;
+}
+.sommaire-carte {
+	display: flex;
+	flex-direction: column;
+	color: rgb(var(--black));
+	text-decoration: none;
+}
+.sommaire-carte img {
+	width: 100%;
+	aspect-ratio: 3 / 2;
+	object-fit: cover;
+	margin: 0 0 0.6rem;
+	border-radius: 2px;
+	box-shadow: none;
+	cursor: pointer;
+	transition: opacity 0.25s ease;
+}
+.sommaire-carte:hover img {
+	opacity: 0.85;
+}
+.sommaire-titre {
+	font-family: 'Playfair Display', Georgia, serif;
+	font-size: 1.15rem;
+	line-height: 1.25;
+	transition: color 0.2s ease;
+}
+.sommaire-carte:hover .sommaire-titre {
+	color: var(--accent);
+}
+.sommaire-compte {
+	margin-top: 0.2rem;
+	font-size: 0.72rem;
+	letter-spacing: 0.14em;
+	text-transform: uppercase;
+	color: rgb(var(--gray));
+}
+@media (max-width: 720px) {
+	.sommaire-cartes {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		gap: 0.75rem;
+	}
+	h2.section-photos {
+		font-size: 1.5rem;
+	}
+}
+
 hr {
 	border: none;
 	border-top: 1px solid rgb(var(--gray-light));
