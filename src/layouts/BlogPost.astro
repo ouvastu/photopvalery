@@ -100,33 +100,90 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			<button id="lb-next" class="lb-nav lb-next" type="button" aria-label="Photo suivante">›</button>
 		</div>
 
-		<style is:global>
-			.lb-overlay {
-				position: fixed;
-				inset: 0;
-				z-index: 9999;
-				background-color: var(--bg, #faf9f6);
-				color: rgb(var(--black, 20, 20, 20));
-				display: none;
-				align-items: center;
-				justify-content: center;
-				padding: 4rem 3.5rem 2.5rem;
-			}
-			.lb-overlay.is-open {
-				display: flex;
-			}
-			.lb-toolbar {
-				position: fixed;
-				top: 1.25rem;
-				right: 1.5rem;
-				display: flex;
-				align-items: center;
-				gap: 0.75rem;
-				z-index: 10;
-			}
-			.lb-btn {
-				background: transparent;
-				border: 1px solid rgb(var(--gray-light, 235, 232, 226));
-				color: rgb(var(--black, 20, 20, 20));
-				padding: 0.45rem 0.9rem;
-				font-size: 0.8rem;
+		<script is:inline>
+			document.addEventListener('DOMContentLoaded', () => {
+				const images = Array.from(document.querySelectorAll('article img'));
+				if (!images.length) return;
+
+				const overlay = document.getElementById('lightbox');
+				const lbImg = document.getElementById('lb-img');
+				const lbCounter = document.getElementById('lb-counter');
+				const lbCaption = document.getElementById('lb-caption');
+				const btnClose = document.getElementById('lb-close');
+				const btnPrev = document.getElementById('lb-prev');
+				const btnNext = document.getElementById('lb-next');
+				const btnPlay = document.getElementById('lb-play');
+
+				let current = 0;
+				let timer = null;
+				const INTERVAL_MS = 4000;
+
+				function show(index) {
+					current = (index + images.length) % images.length;
+					const img = images[current];
+					lbImg.src = img.currentSrc || img.src;
+					lbImg.alt = img.alt || '';
+					lbCounter.textContent = `${current + 1}/${images.length}`;
+					lbCaption.textContent = img.alt || '';
+				}
+
+				function startAutoplay() {
+					stopAutoplay();
+					timer = setInterval(() => show(current + 1), INTERVAL_MS);
+					btnPlay.textContent = '⏸ Pause';
+				}
+
+				function stopAutoplay() {
+					if (timer) {
+						clearInterval(timer);
+						timer = null;
+					}
+					btnPlay.textContent = '▶ Diaporama';
+				}
+
+				function open(index) {
+					show(index);
+					overlay.classList.add('is-open');
+					overlay.setAttribute('aria-hidden', 'false');
+					document.body.style.overflow = 'hidden';
+					startAutoplay();
+				}
+
+				function close() {
+					stopAutoplay();
+					overlay.classList.remove('is-open');
+					overlay.setAttribute('aria-hidden', 'true');
+					document.body.style.overflow = '';
+				}
+
+				images.forEach((img, idx) => {
+					img.style.cursor = 'zoom-in';
+					img.addEventListener('click', (e) => {
+						e.preventDefault();
+						open(idx);
+					});
+				});
+
+				btnClose.addEventListener('click', close);
+				btnPrev.addEventListener('click', () => { stopAutoplay(); show(current - 1); });
+				btnNext.addEventListener('click', () => { stopAutoplay(); show(current + 1); });
+				btnPlay.addEventListener('click', () => (timer ? stopAutoplay() : startAutoplay()));
+
+				overlay.addEventListener('click', (e) => {
+					if (e.target === overlay) close();
+				});
+
+				document.addEventListener('keydown', (e) => {
+					if (!overlay.classList.contains('is-open')) return;
+					if (e.key === 'Escape') close();
+					if (e.key === 'ArrowLeft') { stopAutoplay(); show(current - 1); }
+					if (e.key === 'ArrowRight') { stopAutoplay(); show(current + 1); }
+					if (e.key === ' ') {
+						e.preventDefault();
+						timer ? stopAutoplay() : startAutoplay();
+					}
+				});
+			});
+		</script>
+	</body>
+</html>
