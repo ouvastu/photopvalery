@@ -1,72 +1,90 @@
 ---
-import { SITE_TITLE } from '../consts';
-import HeaderLink from './HeaderLink.astro';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 ---
 
-<header>
-	<nav>
-		<h2 class="site-title">
-			<a href="/">{SITE_TITLE}</a>
-		</h2>
-		<div class="internal-links">
-			<HeaderLink href="/">Accueil</HeaderLink>
-			<HeaderLink href="/blog">Expositions</HeaderLink>
-			<HeaderLink href="/about">À propos</HeaderLink>
-		</div>
-	</nav>
-</header>
+<!doctype html>
+<html lang="fr">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main class="hero">
+			<p class="eyebrow">Archives photographiques · Sète</p>
+			<h1>Photographies au Musée Paul Valéry</h1>
+			<p class="lead">
+				Regard photographique sur les expositions, vernissages, accrochages et rencontres qui ont marqué la vie du Musée Paul Valéry.
+			</p>
+			<div class="actions">
+				<a href="/blog" class="btn-primary">Découvrir les expositions</a>
+				<a href="/about" class="btn-secondary">À propos</a>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
 
 <style>
-	header {
-		position: sticky;
-		top: 0;
-		z-index: 100;
-		background: rgba(250, 249, 246, 0.92);
-		backdrop-filter: blur(12px);
-		border-bottom: 1px solid rgb(var(--gray-light));
-		padding: 0 2rem;
-	}
-	nav {
-		max-width: 1100px;
-		margin: 0 auto;
+	.hero {
+		min-height: 68vh;
 		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		max-width: 760px;
+	}
+	.eyebrow {
+		font-size: 0.78rem;
+		letter-spacing: 0.2em;
+		text-transform: uppercase;
+		color: var(--accent);
+		margin-bottom: 1.25rem;
+		font-weight: 500;
+	}
+	h1 {
+		font-size: clamp(2.4rem, 5vw, 3.8rem);
+		margin-bottom: 1.5rem;
+		line-height: 1.12;
+	}
+	.lead {
+		font-size: 1.15rem;
+		color: rgb(var(--gray));
+		max-width: 600px;
+		margin-bottom: 2.5rem;
+	}
+	.actions {
+		display: flex;
+		gap: 1.25rem;
 		align-items: center;
-		justify-content: space-between;
-		height: 76px;
+		flex-wrap: wrap;
 	}
-	.site-title {
-		margin: 0;
-		font-family: 'Playfair Display', Georgia, serif;
-		font-size: 1.35rem;
-		font-weight: 400;
-		letter-spacing: 0.02em;
-	}
-	.site-title a {
-		color: rgb(var(--black));
-		border: none;
-		padding: 0;
-	}
-	.internal-links {
-		display: flex;
-		gap: 2rem;
-	}
-	nav a {
-		font-size: 0.8rem;
-		font-weight: 400;
+	.btn-primary {
+		display: inline-block;
+		background-color: rgb(var(--black));
+		color: #ffffff;
+		padding: 0.95rem 2rem;
+		font-size: 0.82rem;
 		letter-spacing: 0.14em;
 		text-transform: uppercase;
-		color: rgb(var(--gray));
-		padding: 0.5rem 0;
-		border-bottom: 1px solid transparent;
+		border-radius: 2px;
+		transition: background-color 0.25s ease, transform 0.25s ease;
 	}
-	nav a:hover,
-	nav a.active {
+	.btn-primary:hover {
+		background-color: var(--accent);
+		color: #ffffff;
+		transform: translateY(-1px);
+	}
+	.btn-secondary {
+		font-size: 0.82rem;
+		letter-spacing: 0.14em;
+		text-transform: uppercase;
 		color: rgb(var(--black));
-		border-bottom-color: var(--accent);
+		border-bottom: 1px solid rgb(var(--gray-light));
+		padding-bottom: 0.25rem;
 	}
-	@media (max-width: 720px) {
-		header { padding: 0 1rem; }
-		nav { flex-direction: column; height: auto; padding: 1rem 0; gap: 0.75rem; }
-		.internal-links { gap: 1.25rem; }
+	.btn-secondary:hover {
+		border-bottom-color: rgb(var(--black));
 	}
 </style>
