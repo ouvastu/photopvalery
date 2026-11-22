@@ -80,5 +80,37 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			</article>
 		</main>
 		<Footer />
+		<!-- Visionneuse plein écran + diaporama automatique (Fancybox) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
+<script is:inline src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+
+<script is:inline>
+  document.addEventListener("DOMContentLoaded", () => {
+    // Rend toutes les images de l'article cliquables dans la galerie
+    document.querySelectorAll("article img").forEach((img) => {
+      const link = document.createElement("a");
+      link.href = img.src;
+      link.dataset.fancybox = "galerie";
+      link.dataset.caption = img.alt || "";
+      img.parentNode.insertBefore(link, img);
+      link.appendChild(img);
+    });
+
+    // Active le plein écran et le bouton de lecture automatique
+    Fancybox.bind('[data-fancybox="galerie"]', {
+      Slideshow: {
+        playOnStart: false, // Passez à true pour lancer le défilement dès le clic
+        timeout: 3500,      // 3,5 secondes par photo
+      },
+      Toolbar: {
+        display: {
+          left: ["infobar"],
+          middle: [],
+          right: ["slideshow", "fullscreen", "thumbs", "close"],
+        },
+      },
+    });
+  });
+</script>
 	</body>
 </html>

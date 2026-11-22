@@ -1,0 +1,32 @@
+---
+title: "LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY"
+pubDate: 2020-10-03
+categories: 
+  - "journees-paul-valery"
+coverImage: "journees_paul_valery_2020_138.jpg"
+---
+
+DANIEL MAXIMIN, POÈTE  
+DELPHINE CHOMEL, MUSICIENNE (VOIX, VIOLON)
+
+Journées Paul Valéry, Sète 26 septembre 2020 / Photos Gilles Hutchinson
+
+![](/images/journees_paul_valery_2020_132.jpg)
+
+![DANIEL MAXIMIN, LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY](/images/journees_paul_valery_2020_133.jpg)
+
+![DANIEL MAXIMIN, LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY](/images/journees_paul_valery_2020_134.jpg)
+
+![DANIEL MAXIMIN, LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY](/images/journees_paul_valery_2020_135.jpg)
+
+![DANIEL MAXIMIN, LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY](/images/journees_paul_valery_2020_136.jpg)
+
+![DANIEL MAXIMIN, LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY](/images/journees_paul_valery_2020_137.jpg)
+
+![DANIEL MAXIMIN, LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY](/images/journees_paul_valery_2020_138.jpg)
+
+![DANIEL MAXIMIN, LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY](/images/journees_paul_valery_2020_139.jpg)
+
+![DANIEL MAXIMIN, LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY](/images/journees_paul_valery_2020_140.jpg)
+
+![DANIEL MAXIMIN, LECTURE POÉTIQUE MUSICALE, PRÉCÉDÉE D’UN REGARD DU POÈTE INVITÉ SUR PAUL VALÉRY](/images/journees_paul_valery_2020_131.jpg)
