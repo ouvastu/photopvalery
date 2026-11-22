@@ -1,0 +1,81 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="fr">
+	<head>
+		<BaseHead
+			title={`Page introuvable — ${SITE_TITLE}`}
+			description="Cette page n'existe pas ou a été déplacée."
+		/>
+		<meta name="robots" content="noindex" />
+	</head>
+	<body>
+		<Header />
+		<main class="not-found">
+			<p class="eyebrow">Erreur 404</p>
+			<h1>Page introuvable</h1>
+			<p class="lead">
+				La page que vous cherchez n'existe pas ou a été déplacée.
+			</p>
+			<div class="actions">
+				<a href="/blog" class="btn-primary">Voir les expositions</a>
+				<a href="/" class="btn-secondary">Retour à l'accueil</a>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.not-found {
+		min-height: 55vh;
+		max-width: min(720px, calc(100% - 2.5rem));
+	}
+	.eyebrow {
+		font-size: 0.78rem;
+		letter-spacing: 0.2em;
+		text-transform: uppercase;
+		color: var(--accent);
+		margin-bottom: 1rem;
+		font-weight: 500;
+	}
+	.lead {
+		font-size: 1.15rem;
+		color: rgb(var(--gray));
+		margin-bottom: 2.5rem;
+	}
+	.actions {
+		display: flex;
+		gap: 1.25rem;
+		align-items: center;
+		flex-wrap: wrap;
+	}
+	.btn-primary {
+		display: inline-block;
+		background-color: rgb(var(--black));
+		color: #ffffff;
+		padding: 0.95rem 2rem;
+		font-size: 0.82rem;
+		letter-spacing: 0.14em;
+		text-transform: uppercase;
+		border-radius: 2px;
+		transition: background-color 0.25s ease;
+	}
+	.btn-primary:hover {
+		background-color: var(--accent);
+		color: #ffffff;
+	}
+	.btn-secondary {
+		font-size: 0.82rem;
+		letter-spacing: 0.14em;
+		text-transform: uppercase;
+		color: rgb(var(--black));
+		border-bottom: 1px solid rgb(var(--gray-light));
+		padding-bottom: 0.25rem;
+	}
+</style>

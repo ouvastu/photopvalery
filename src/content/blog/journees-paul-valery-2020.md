@@ -629,8 +629,6 @@ L’image de Léonard de Vinci comme génie universel et polymorphe, anticipateu
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-352.jpg" alt="Journées Paul Valéry 2019 — Photographie n°266 — © Gilles Hutchinson" loading="lazy" /><figcaption>Journées Paul Valéry 2019 — Photographie n°266 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/carlo-cattaneo-351.jpg" alt="Journées Paul Valéry 2019 — Photographie n°267 — © Gilles Hutchinson" loading="lazy" /><figcaption>Journées Paul Valéry 2019 — Photographie n°267 — © Gilles Hutchinson</figcaption></figure>
-
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-350.jpg" alt="Journées Paul Valéry 2019 — Photographie n°268 — © Gilles Hutchinson" loading="lazy" /><figcaption>Journées Paul Valéry 2019 — Photographie n°268 — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-349.jpg" alt="Journées Paul Valéry 2019 — Photographie n°269 — © Gilles Hutchinson" loading="lazy" /><figcaption>Journées Paul Valéry 2019 — Photographie n°269 — © Gilles Hutchinson</figcaption></figure>
