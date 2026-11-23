@@ -6,7 +6,7 @@ categories:
 coverImage: "journees_paul_valery_2020_055.jpg"
 ---
 
-CHRISTIAN DOUMET
+Christian Doumet
 
 Journées Paul Valéry, Sète 25 septembre 2020 / Photos Gilles Hutchinson
 

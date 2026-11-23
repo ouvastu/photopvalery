@@ -6,7 +6,7 @@ categories:
 coverImage: "mg_2807-01.jpg"
 ---
 
-SERGE LINARÈS
+Serge Linarès
 
 Journées Paul Valéry, Sète 25 septembre 2020 / Photos Gilles Hutchinson
 

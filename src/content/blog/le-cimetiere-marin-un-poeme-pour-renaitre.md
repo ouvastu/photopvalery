@@ -6,7 +6,7 @@ categories:
 coverImage: "journees_paul_valery_2020_123.jpg"
 ---
 
-JEAN-LOUIS CIANNI
+Jean-Louis Cianni
 
 1920-2020 : cent ans après sa première édition, le poème étonne, charme et questionne encore… C’est sans doute parce que, au-delà de sa beauté et de son parti-pris formaliste, il invite à une méditation sur la condition humaine. Jean-Louis Cianni nous invite à suivre les enjeux et les mouvements d’un poème-méditation décisif pour la carrière et l’existence de Valéry.
 

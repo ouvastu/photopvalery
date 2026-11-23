@@ -6,7 +6,7 @@ categories:
 coverImage: "mg_3443-01.jpg"
 ---
 
-ADRIEN CAVALLARO
+Adrien Cavallaro
 
 Journées Paul Valéry, Sète 27 septembre 2020 / Photos Gilles Hutchinson
 

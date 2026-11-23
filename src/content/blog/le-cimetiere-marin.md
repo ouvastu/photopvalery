@@ -8,8 +8,8 @@ tags:
 coverImage: "journees_paul_valery_2020_065.jpg"
 ---
 
-ROULA SAFAR, MEZZO SOPRANO  
-JULIEN GUILL, COMÉDIEN
+Roula Safar, mezzo-soprano  
+Julien Guill, comédien
 
 Journées Paul Valéry, Sète 25 septembre 2020 / Photos Gilles Hutchinson
 

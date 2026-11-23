@@ -17,7 +17,7 @@ _Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, septembre 201
 
 Ouverture des journées Paul Valéry
 
-PAR FRANÇOIS COMMEINHES, MAIRE DE SÈTE
+Par François Commeinhes, maire de Sète
 
 En présence des petits-enfants de Paul Valéry et de l’ensemble des invités.
 
@@ -69,7 +69,7 @@ En présence des petits-enfants de Paul Valéry et de l’ensemble des invités.
 
 * * *
 
-Conférence inaugurale : Valéry et les peintres avec MICHEL JARRETY
+Conférence inaugurale : Valéry et les peintres, avec Michel Jarrety
 
 Le regard de Valéry sur la peinture a connu une évolution qu’il est utile de retracer puisqu’il est passé de la fréquentation du Musée de Montpellier à la découverte de bien d’autres œuvres après son installation à Paris, et qu’il a surtout connu de nombreux peintres : Degas au premier chef, mais aussi Renoir ou Monet, d’autres encore. Chose étrange, il n’a jamais écrit sur eux, mais préfacé des catalogues d’expositions sur Véronèse, Corot, Manet, Berthe Morisot, où il s’interroge bien souvent sur le discours à tenir en simple amateur : comment commenter la peinture si l’on ignore tout de sa technique et qu’on se refuse au discours abstrait de l’esthétique ?
 
@@ -143,7 +143,9 @@ Le regard de Valéry sur la peinture a connu une évolution qu’il est utile de
 
 Lecture poétique musicale, précédée d’un regard du poète invité sur Paul Valéry
 
-PILAR GONZALEZ ESPAÑA (ESPAGNE), POÈTE PATRICK VENDRIN, COMÉDIEN OLIVIER-ROMAN GARCIA, GUITARE
+Pilar González España (Espagne), poète  
+Patrick Vendrin, comédien  
+Olivier-Roman Garcia, guitare
 
 <figure class="photo-figure"><img src="/images/journees-paul-valery-2020-106.jpg" alt="Allée du jardin longeant la falaise vers le lieu de la lecture — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Allée du jardin longeant la falaise vers le lieu de la lecture — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
@@ -177,7 +179,7 @@ PILAR GONZALEZ ESPAÑA (ESPAGNE), POÈTE PATRICK VENDRIN, COMÉDIEN OLIVIER-ROMA
 
 * * *
 
-Conférence : Les “digressions” de Valéry sur les peintres par BERNARD VOUILLOUX
+Conférence : Les “digressions” de Valéry sur les peintres, par Bernard Vouilloux
 
 C’est dès l’Introduction à la méthode de Léonard de Vinci que Valéry inaugure la démarche qui sera la sienne jusqu’à la fin : ce n’est ni celle du philosophe, ni celle du critique d’art, ni celle de l’historien d’art ; il s’agit bien plutôt de remonter à chaque fois du peintre à la peinture et de comprendre celle-ci à travers tout ce qu’elle met en jeu, la perception du monde sensible et la maîtrise technique d’un art. On s’attachera donc ici à isoler quelques-unes des propositions fondamentales qui soutiennent les textes de Valéry sur les peintres et à en suivre les modulations, les inflexions, les mutations.
 
@@ -211,7 +213,8 @@ C’est dès l’Introduction à la méthode de Léonard de Vinci que Valéry in
 
 Lecture textes de Paul Valéry:  Degas Danse Dessin
 
-MICHEL ARBATZ, COMÉDIEN OLIVIER-ROMAN GARCIA, GUITARE 
+Michel Arbatz, comédien  
+Olivier-Roman Garcia, guitare
 
 Paul Valéry a souvent été sollicité pour écrire sur les peintres et la peinture. Aux préfaces et autres textes brefs qu’il réunira en 1931 sous le titre Pièces sur l’art, s’ajoute un ouvrage singulier, portrait à la fois familier et pittoresque du peintre Edgar Degas, qu’il a régulièrement fréquenté entre 1896 et 1917, date de sa disparition : Degas Danse Dessin.
 
@@ -247,7 +250,7 @@ Paul Valéry a souvent été sollicité pour écrire sur les peintres et la pein
 
 * * *
 
-Conférence : L’informe et l’inspiration La place paradoxale de la grâce dans la peinture moderne selon Valéry par THOMAS GOLSENNE
+Conférence : L’informe et l’inspiration. La place paradoxale de la grâce dans la peinture moderne selon Valéry, par Thomas Golsenne
 
 Dans Degas Danse Dessin, Paul Valéry écrit à propos du peintre  : «  Ni la grâce ni la poésie apparente ne sont ses objets.  » Ce n’est pas un reproche, le travail de Degas se déploie dans une autre direction, celle de la rigueur. Pourtant, dès le titre même de son petit livre, Valéry souligne l’importance de la danse chez le peintre. Or la danse définit, dans l’œuvre de Valéry, l’art le plus gracieux, l’idéal grec de l’art. L’art moderne, représenté notamment par Degas, oblige Valéry à repenser les figures picturales de la grâce de la même façon que Mallarmé avait repensé la figure de la danseuse..
 
@@ -341,7 +344,9 @@ Dans Degas Danse Dessin, Paul Valéry écrit à propos du peintre  : «  Ni la
 
 Lecture poétique musicale, précédée d’un regard du poète invité sur Paul Valéry
 
-STRATIS PASCALIS (GRÈCE), POÈTE PATRICK VENDRIN, COMÉDIEN PASCAL DELALÉE, VIOLON
+Stratis Pascalis (Grèce), poète  
+Patrick Vendrin, comédien  
+Pascal Delalée, violon
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-240.jpg" alt="Stratis Pascalis, Patrick Vendrin et Pascal Delalée sous les parasols du jardin — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Stratis Pascalis, Patrick Vendrin et Pascal Delalée sous les parasols du jardin — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
@@ -403,7 +408,7 @@ STRATIS PASCALIS (GRÈCE), POÈTE PATRICK VENDRIN, COMÉDIEN PASCAL DELALÉE, VI
 
 Portraits d’un grand artiste – de Léonard à Degas en passant par Corot
 
-TSUTOMU IMAI (JAPON)
+Tsutomu Imai (Japon)
 
 Valéry a dessiné quelques portraits d’un grand artiste dont l’Introduction à la méthode de Léonard de Vinci en 1895, Autour de Corot en 1932 et Degas Danse Dessin en 1936. Tous ces essais sont constitués autour d’une idée principale du « Grand Art » qui s’exprime souvent chez Valéry contre l’art moderne. Afin de mettre en relief la portée de cette idée clef, nous analyserons l’hommage de Valéry à ces peintres privilégiés : de Léonard, héros artistique de l’imaginaire, à Degas, celui du réel que le poète fréquentait familièrement, en passant par Corot, « essentiellement poète ».
 
@@ -467,7 +472,7 @@ Visite commentée du fonds Paul Valéry (acquisitions récentes)
 
 Lettres de Paul Valéry à sa fille Agathe
 
-MICHEL JARRETY Et les enfants d’Agathe : MARTINE BOIVIN-CHAMPEAUX VINCENT ROUART
+Michel Jarrety, et les enfants d’Agathe : Martine Boivin-Champeaux et Vincent Rouart
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-294.jpg" alt="Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart assis face au public — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart assis face au public — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
@@ -501,7 +506,7 @@ MICHEL JARRETY Et les enfants d’Agathe : MARTINE BOIVIN-CHAMPEAUX VINCENT ROUA
 
 L’O Connexion présente Crépuscule de l’amour Corona et Coronilla Poèmes de Paul Valéry à Jean Voilier (Jeanne Loviton)
 
-SPECTACLE LECTURE MIS EN MUSIQUE SUR UNE IDÉE ORIGINALE DE VALÉRIE ELOÏSE LABRO ACCOMPAGNÉE PAR HUGO DORI, BASSE 
+Spectacle-lecture mis en musique sur une idée originale de Valérie Eloïse Labro, accompagnée par Hugo Dori, basse
 
 « Crépuscule de l’amour » est une lecture musicale tirée du recueil Corona & Coronilla, œuvre onirique, érotique, mystique et bucolique. Écrits en secret de 1937 à 1945, les poèmes, qui arrivent assez tard dans l’œuvre de Valéry, ont été dédiés à sa jeune maîtresse Jeanne Loviton (Jean Voilier de son nom de plume) et n’ont été publiés qu’en 2008. En une heure, le spectacle représente l’histoire de cette liaison charnelle et le quotidien de cette passion fatale, mais aussi la renaissance lyrique d’un géant de la poésie française. «  Crépuscule de l’amour » est un voyage-émotion, qui donne à voir l’embrasement charnel d’un homme de raison surpris par l’amour au soir de sa vie.
 
@@ -565,7 +570,8 @@ SPECTACLE LECTURE MIS EN MUSIQUE SUR UNE IDÉE ORIGINALE DE VALÉRIE ELOÏSE LAB
 
 Lecture poétique musicale, précédée d’un regard du poète invité sur Paul Valéry
 
-BRUNO DOUCEY (FRANCE), POÈTE PASCAL DELALÉE, VIOLON
+Bruno Doucey (France), poète  
+Pascal Delalée, violon
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-336.jpg" alt="Bruno Doucey parle au micro, assis, Pascal Delalée à côté de lui — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Bruno Doucey parle au micro, assis, Pascal Delalée à côté de lui — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
@@ -595,7 +601,7 @@ BRUNO DOUCEY (FRANCE), POÈTE PASCAL DELALÉE, VIOLON
 
 Le Langage de Léonard
 
-ANTONIETTA SANNA (ITALIE)
+Antonietta Sanna (Italie)
 
 L’image de Léonard de Vinci comme génie universel et polymorphe, anticipateur, sinon fondateur, de la science moderne, s’est imposée en Europe à partir de la fin du XIXe siècle après la publication de ses manuscrits. Paul Valéry fut parmi ceux qui se sont emparés très tôt de ces documents. Il le fit d’abord pour faire sur commande un article intitulé Introduction à la méthode de Léonard de Vinci (1895). Il ne dressa pas un portrait, ni une biographie, mais un équivalent abstrait pour tenter d’analyser le fonctionnement de l’esprit créateur. Il fit de Léonard une idole, un modèle et un thème. Un thème avec variations qui a nourri sa réflexion sur le langage.
 
@@ -621,7 +627,7 @@ L’image de Léonard de Vinci comme génie universel et polymorphe, anticipateu
 
 Paul Valéry, amateur ou philosophe de l’art ?
 
-RÉGIS DEBRAY, JEAN-MARIE ROUART
+Régis Debray, Jean-Marie Rouart
 
 Du livre récent de Régis Debray émerge la figure nouvelle d’un Valéry, campé en penseur visionnaire, indocile et impertinent, loin de la figure compassée de l’écrivain aux goûts académiques. Issu d’une famille qui a compté tant de peintres et de collectionneurs, Jean-Marie Rouart est un fin connaisseur du milieu intellectuel et artistique où a évolué Valéry. La rencontre entre les deux écrivains, nourrie d’une connaissance intime de l’homme, de son milieu et de son œuvre, promet d’ouvrir des perspectives inattendues et captivantes.
 
@@ -743,7 +749,8 @@ Du livre récent de Régis Debray émerge la figure nouvelle d’un Valéry, cam
 
 Lecture textes de Paul Valéry Poèmes en vers et en prose
 
-PATRICK VENDRIN, COMÉDIEN PASCAL DELALÉE, VIOLON
+Patrick Vendrin, comédien  
+Pascal Delalée, violon
 
 Lecture de poèmes extraits des recueils et des Cahiers de Paul Valéry.
 

@@ -6,7 +6,7 @@ categories:
 coverImage: "mg_3168-01.jpg"
 ---
 
-MICHEL JARRETY
+Michel Jarrety
 
 Journées Paul Valéry, Sète 26 septembre 2020 / Photos Gilles Hutchinson
 
