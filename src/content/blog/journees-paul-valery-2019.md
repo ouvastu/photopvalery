@@ -5,17 +5,19 @@ categories:
   - "journees-paul-valery"
 ---
 
-Du 25 au 28 septembre 2019, les **Journées Paul Valéry** avaient pour thème **« Paul Valéry et les peintres »**. Pendant quatre jours, le musée de Sète a accueilli conférences, lectures poétiques et musicales, table ronde et visites commentées.
+Du 25 au 28 septembre 2019, le **Musée Paul Valéry de Sète** accueillait les **Journées Paul Valéry** : quatre jours de conférences, de lectures poétiques et musicales, une table ronde et des visites commentées.
 
-Ce reportage suit le programme dans l'ordre : l'ouverture par François Commeinhes, maire de Sète, la conférence inaugurale de Michel Jarrety, puis les interventions et les lectures des invités.
+Le thème de cette édition était :
+
+> **« Paul Valéry et les peintres »**
+
+Le reportage suit le programme séance par séance, de l'ouverture par François Commeinhes, maire de Sète, jusqu'à la dernière lecture. Choisissez une séance dans le sommaire ci-dessous pour en voir les photos.
 
 _Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, septembre 2019._
 
 <!--more-->
 
-* * *
-
-Ouverture des journées Paul Valéry
+<h2 class="section-photos" id="ouverture">Ouverture des Journées</h2>
 
 Par François Commeinhes, maire de Sète
 
@@ -67,9 +69,9 @@ En présence des petits-enfants de Paul Valéry et de l’ensemble des invités.
 
 <figure class="photo-figure"><img src="/images/journees-paul-valery-2020-49.jpg" alt="Fin de l'ouverture, le public face à la tribune, un spectateur en rouge à droite — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Fin de l'ouverture, le public face à la tribune, un spectateur en rouge à droite — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-* * *
+<h2 class="section-photos" id="conference-inaugurale">Conférence inaugurale : Valéry et les peintres</h2>
 
-Conférence inaugurale : Valéry et les peintres, avec Michel Jarrety
+_Par Michel Jarrety_
 
 Le regard de Valéry sur la peinture a connu une évolution qu’il est utile de retracer puisqu’il est passé de la fréquentation du Musée de Montpellier à la découverte de bien d’autres œuvres après son installation à Paris, et qu’il a surtout connu de nombreux peintres : Degas au premier chef, mais aussi Renoir ou Monet, d’autres encore. Chose étrange, il n’a jamais écrit sur eux, mais préfacé des catalogues d’expositions sur Véronèse, Corot, Manet, Berthe Morisot, où il s’interroge bien souvent sur le discours à tenir en simple amateur : comment commenter la peinture si l’on ignore tout de sa technique et qu’on se refuse au discours abstrait de l’esthétique ?
 
@@ -139,9 +141,9 @@ Le regard de Valéry sur la peinture a connu une évolution qu’il est utile de
 
 <figure class="photo-figure"><img src="/images/journees-paul-valery-2020-105.jpg" alt="Deux hommes en costume bavardent contre la rambarde rouge de la terrasse — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Deux hommes en costume bavardent contre la rambarde rouge de la terrasse — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-* * *
+<h2 class="section-photos" id="lecture-gonzalez-espana">Lecture poétique : Pilar González España</h2>
 
-Lecture poétique musicale, précédée d’un regard du poète invité sur Paul Valéry
+_Lecture poétique musicale, précédée d’un regard du poète invité sur Paul Valéry_
 
 Pilar González España (Espagne), poète  
 Patrick Vendrin, comédien  
@@ -177,9 +179,9 @@ Olivier-Roman Garcia, guitare
 
 <figure class="photo-figure"><img src="/images/journees-paul-valery-2020-121.jpg" alt="Trois femmes réunies dans le jardin après la lecture — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Trois femmes réunies dans le jardin après la lecture — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-* * *
+<h2 class="section-photos" id="conference-vouilloux">Les « digressions » de Valéry sur les peintres</h2>
 
-Conférence : Les “digressions” de Valéry sur les peintres, par Bernard Vouilloux
+_Conférence de Bernard Vouilloux_
 
 C’est dès l’Introduction à la méthode de Léonard de Vinci que Valéry inaugure la démarche qui sera la sienne jusqu’à la fin : ce n’est ni celle du philosophe, ni celle du critique d’art, ni celle de l’historien d’art ; il s’agit bien plutôt de remonter à chaque fois du peintre à la peinture et de comprendre celle-ci à travers tout ce qu’elle met en jeu, la perception du monde sensible et la maîtrise technique d’un art. On s’attachera donc ici à isoler quelques-unes des propositions fondamentales qui soutiennent les textes de Valéry sur les peintres et à en suivre les modulations, les inflexions, les mutations.
 
@@ -209,9 +211,9 @@ C’est dès l’Introduction à la méthode de Léonard de Vinci que Valéry in
 
 <figure class="photo-figure"><img src="/images/journees-paul-valery-2020-135.jpg" alt="Bernard Vouilloux en conversation avec un petit groupe d'auditeurs — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Bernard Vouilloux en conversation avec un petit groupe d'auditeurs — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-* * *
+<h2 class="section-photos" id="degas-danse-dessin">Lecture : Degas Danse Dessin</h2>
 
-Lecture textes de Paul Valéry:  Degas Danse Dessin
+_Lecture de textes de Paul Valéry_
 
 Michel Arbatz, comédien  
 Olivier-Roman Garcia, guitare
@@ -248,9 +250,9 @@ Paul Valéry a souvent été sollicité pour écrire sur les peintres et la pein
 
 <figure class="photo-figure"><img src="/images/journees-paul-valery-2020-150.jpg" alt="Michel Arbatz au pupitre, vue d'ensemble de la salle dans la pénombre — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Michel Arbatz au pupitre, vue d'ensemble de la salle dans la pénombre — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-* * *
+<h2 class="section-photos" id="conference-golsenne">L’informe et l’inspiration</h2>
 
-Conférence : L’informe et l’inspiration. La place paradoxale de la grâce dans la peinture moderne selon Valéry, par Thomas Golsenne
+_Conférence de Thomas Golsenne : la place paradoxale de la grâce dans la peinture moderne selon Valéry_
 
 Dans Degas Danse Dessin, Paul Valéry écrit à propos du peintre  : «  Ni la grâce ni la poésie apparente ne sont ses objets.  » Ce n’est pas un reproche, le travail de Degas se déploie dans une autre direction, celle de la rigueur. Pourtant, dès le titre même de son petit livre, Valéry souligne l’importance de la danse chez le peintre. Or la danse définit, dans l’œuvre de Valéry, l’art le plus gracieux, l’idéal grec de l’art. L’art moderne, représenté notamment par Degas, oblige Valéry à repenser les figures picturales de la grâce de la même façon que Mallarmé avait repensé la figure de la danseuse..
 
@@ -340,9 +342,9 @@ Dans Degas Danse Dessin, Paul Valéry écrit à propos du peintre  : «  Ni la
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-239.jpg" alt="Thomas Golsenne poursuit la discussion avec deux auditeurs — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Thomas Golsenne poursuit la discussion avec deux auditeurs — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-* * *
+<h2 class="section-photos" id="lecture-pascalis">Lecture poétique : Stratis Pascalis</h2>
 
-Lecture poétique musicale, précédée d’un regard du poète invité sur Paul Valéry
+_Lecture poétique musicale, précédée d’un regard du poète invité sur Paul Valéry_
 
 Stratis Pascalis (Grèce), poète  
 Patrick Vendrin, comédien  
@@ -404,9 +406,9 @@ Pascal Delalée, violon
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-267.jpg" alt="Patrick Vendrin et Stratis Pascalis en conversation avec une spectatrice, autre vue — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Patrick Vendrin et Stratis Pascalis en conversation avec une spectatrice, autre vue — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-* * *
+<h2 class="section-photos" id="conference-imai">Portraits d’un grand artiste</h2>
 
-Portraits d’un grand artiste – de Léonard à Degas en passant par Corot
+_De Léonard à Degas en passant par Corot_
 
 Tsutomu Imai (Japon)
 
@@ -456,9 +458,9 @@ Valéry a dessiné quelques portraits d’un grand artiste dont l’Introduction
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-289.jpg" alt="Conversation entre plusieurs personnes dans le jardin après la conférence — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Conversation entre plusieurs personnes dans le jardin après la conférence — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-* * *
+<h2 class="section-photos" id="visite-fonds">Visite commentée du fonds Paul Valéry</h2>
 
-Visite commentée du fonds Paul Valéry (acquisitions récentes)
+_Acquisitions récentes_
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-290.jpg" alt="Visite commentée du fonds Paul Valéry : visiteurs devant les vitrines — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Visite commentée du fonds Paul Valéry : visiteurs devant les vitrines — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
@@ -468,9 +470,9 @@ Visite commentée du fonds Paul Valéry (acquisitions récentes)
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-293.jpg" alt="La mer au crépuscule et les voiliers, vue depuis le musée — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>La mer au crépuscule et les voiliers, vue depuis le musée — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-* * *
+<h2 class="section-photos" id="table-ronde-agathe">Table ronde : Lettres à Agathe</h2>
 
-Table ronde : Lettres de Paul Valéry à sa fille Agathe
+_Lettres de Paul Valéry à sa fille Agathe_
 
 Samedi 28 septembre, de 18 h à 19 h
 
@@ -504,9 +506,9 @@ Avec Michel Jarrety, et les enfants d’Agathe : Martine Boivin-Champeaux et Vin
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-307.jpg" alt="Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart près de la baie vitrée, en fin de journée — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart près de la baie vitrée, en fin de journée — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-* * *
+<h2 class="section-photos" id="crepuscule-de-l-amour">Crépuscule de l’amour</h2>
 
-L’O Connexion présente Crépuscule de l’amour Corona et Coronilla Poèmes de Paul Valéry à Jean Voilier (Jeanne Loviton)
+_L’O Connexion présente « Crépuscule de l’amour » : Corona et Coronilla, poèmes de Paul Valéry à Jean Voilier (Jeanne Loviton)_
 
 Spectacle-lecture mis en musique sur une idée originale de Valérie Eloïse Labro, accompagnée par Hugo Dori, basse
 
@@ -568,9 +570,9 @@ Spectacle-lecture mis en musique sur une idée originale de Valérie Eloïse Lab
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-335.jpg" alt="Valérie Eloïse Labro désigne Hugo Dori aux applaudissements du public — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Valérie Eloïse Labro désigne Hugo Dori aux applaudissements du public — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-* * *
+<h2 class="section-photos" id="lecture-doucey">Lecture poétique : Bruno Doucey</h2>
 
-Lecture poétique musicale, précédée d’un regard du poète invité sur Paul Valéry
+_Lecture poétique musicale, précédée d’un regard du poète invité sur Paul Valéry_
 
 Bruno Doucey (France), poète  
 Pascal Delalée, violon
@@ -599,9 +601,7 @@ Pascal Delalée, violon
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-347.jpg" alt="Bruno Doucey assis, en conversation avec les spectateurs — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Bruno Doucey assis, en conversation avec les spectateurs — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-* * *
-
-Le Langage de Léonard
+<h2 class="section-photos" id="langage-de-leonard">Le Langage de Léonard</h2>
 
 Antonietta Sanna (Italie)
 
@@ -625,11 +625,9 @@ L’image de Léonard de Vinci comme génie universel et polymorphe, anticipateu
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-349.jpg" alt="Antonietta Sanna au fond de la salle comble, l'écran à côté d'elle — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Antonietta Sanna au fond de la salle comble, l'écran à côté d'elle — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-* * *
+<h2 class="section-photos" id="amateur-ou-philosophe">Paul Valéry, amateur ou philosophe de l’art ?</h2>
 
-Paul Valéry, amateur ou philosophe de l’art ?
-
-Régis Debray, Jean-Marie Rouart
+Avec Régis Debray et Michel Jarrety
 
 Du livre récent de Régis Debray émerge la figure nouvelle d’un Valéry, campé en penseur visionnaire, indocile et impertinent, loin de la figure compassée de l’écrivain aux goûts académiques. Issu d’une famille qui a compté tant de peintres et de collectionneurs, Jean-Marie Rouart est un fin connaisseur du milieu intellectuel et artistique où a évolué Valéry. La rencontre entre les deux écrivains, nourrie d’une connaissance intime de l’homme, de son milieu et de son œuvre, promet d’ouvrir des perspectives inattendues et captivantes.
 
@@ -747,9 +745,9 @@ Du livre récent de Régis Debray émerge la figure nouvelle d’un Valéry, cam
 
 <figure class="photo-figure"><img src="/images/regis-debray-paul-valery-571.jpg" alt="Une spectatrice regarde la dédicace qu'elle vient de recevoir — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Une spectatrice regarde la dédicace qu'elle vient de recevoir — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-* * *
+<h2 class="section-photos" id="poemes-en-vers-et-en-prose">Lecture : poèmes en vers et en prose</h2>
 
-Lecture textes de Paul Valéry Poèmes en vers et en prose
+_Lecture de textes de Paul Valéry_
 
 Patrick Vendrin, comédien  
 Pascal Delalée, violon
