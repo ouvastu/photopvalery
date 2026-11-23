@@ -6,7 +6,11 @@ categories:
 coverImage: "expo-4x4-mars2020-gh_44.jpg"
 ---
 
-Isabelle Leduc et Cécile Borne en compagnie de Bashar Alhroub et Pierre-Luc Poujol
+En mars 2020, le **Musée Paul Valéry de Sète** réunissait quatre expositions consacrées à quatre artistes : **Isabelle Leduc**, **Cécile Borne**, **Bashar Alhroub** et **Pierre-Luc Poujol**.
+
+Ce reportage passe d'un accrochage à l'autre : grands panneaux et installations de filets, toiles peuplées de figures, photographies de paysages, sculptures jaunes torsadées. Les vues d'ensemble montrent comment les quatre univers se succèdent dans le musée ; les plans plus serrés s'attardent sur les œuvres.
+
+_Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, mars 2020._
 
 <figure class="photo-figure"><img src="/images/expo-4x4-mars2020-gh_80.jpg" alt="Deux grands panneaux aux motifs verts et une installation de filets turquoise au mur — 4 expositions à 4 artistes : Isabelle Leduc, Cécile Borne, Bashar Alhroub et Pierre-Luc Poujol, musée Paul Valéry, Sète, mars 2020 — © Gilles Hutchinson" loading="lazy" /><figcaption>Deux grands panneaux aux motifs verts et une installation de filets turquoise au mur — 4 expositions à 4 artistes : Isabelle Leduc, Cécile Borne, Bashar Alhroub et Pierre-Luc Poujol, musée Paul Valéry, Sète, mars 2020 — © Gilles Hutchinson</figcaption></figure>
 

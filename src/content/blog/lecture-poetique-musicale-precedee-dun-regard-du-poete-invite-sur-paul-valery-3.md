@@ -6,10 +6,7 @@ categories:
 coverImage: "journees_paul_valery_2020_167.jpg"
 ---
 
-Lecture poétique musicale, précédée d’un regard du poète invité sur Paul Valéry.
-
-Laurent Grison, poète  
-Frédérique Sonnet, musicienne (flûte traversière, voix)
+Le 27 septembre 2020, lors des **Journées Paul Valéry**, le poète **Laurent Grison** portait d'abord son regard sur Paul Valéry, puis donnait une lecture poétique musicale avec **Frédérique Sonnet** à la flûte traversière et à la voix. Dans le public, un dessinateur croquait la scène.
 
 Journées Paul Valéry, Sète 27 septembre 2020 / Photos Gilles Hutchinson
 

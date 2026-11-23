@@ -75,7 +75,11 @@ export function ajouterSommaire(html, lirePage) {
 			: "";
 		return `<a class="sommaire-carte" href="${href}">${image}<span class="sommaire-titre">${titre.trim()}</span><span class="sommaire-compte">${echapper(compte)}</span></a>`;
 	});
-	return html.replace(EMPLACEMENT, `$1<p class="sommaire-intro">Dans ce reportage</p><div class="sommaire-cartes">${cartes.join("")}</div>$2`);
+	// Le sommaire se place après le texte d'introduction, juste avant la première section.
+	const [, ouverture, fermeture] = html.match(EMPLACEMENT);
+	const sans = html.replace(EMPLACEMENT, "");
+	const i = sans.search(/<h2 class="section-photos"/);
+	return sans.slice(0, i) + `${ouverture}<p class="sommaire-intro">Dans ce reportage</p><div class="sommaire-cartes">${cartes.join("")}</div>${fermeture}` + sans.slice(i);
 }
 
 function fichiersHtml(dossier) {

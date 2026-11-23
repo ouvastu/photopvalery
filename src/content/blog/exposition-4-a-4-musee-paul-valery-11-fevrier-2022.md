@@ -5,7 +5,11 @@ categories:
   - "exposition"
 ---
 
-4 Artistes: Alain Campos, Aroldo Governatori, Nissrine Seffar et Zhang Hong Mei.
+Le 11 février 2022, le **Musée Paul Valéry de Sète** présentait **« 4 à 4 »**, une exposition réunissant quatre artistes : **Alain Campos**, **Aroldo Governatori**, **Nissrine Seffar** et **Zhang Hong Mei**.
+
+De salle en salle, les photographies suivent l'accrochage : portraits sombres encadrés, grandes toiles de vagues, figures sur fonds jaunes et verts, personnages rouges, compositions aux carrés de couleur.
+
+_Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, février 2022._
 
 <figure class="photo-figure"><img src="/images/salles-expo-4x4-2022-1.jpg" alt="Salle blanche aux tableaux sombres en ligne sur deux murs, cloison au fond — Exposition « 4 à 4 » : Alain Campos, Aroldo Governatori, Nissrine Seffar et Zhang Hong Mei, musée Paul Valéry, Sète, février 2022 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salle blanche aux tableaux sombres en ligne sur deux murs, cloison au fond — Exposition « 4 à 4 » : Alain Campos, Aroldo Governatori, Nissrine Seffar et Zhang Hong Mei, musée Paul Valéry, Sète, février 2022 — © Gilles Hutchinson</figcaption></figure>
 

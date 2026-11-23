@@ -6,7 +6,11 @@ categories:
 coverImage: "mg_5654.jpg"
 ---
 
-Photos Gilles Hutchinson
+En octobre 2021, le **Musée Paul Valéry de Sète** présentait l'exposition **« Robert Combas chante Sète et Brassens »**.
+
+Ce reportage parcourt les salles : grandes toiles foisonnantes aux couleurs vives, portraits, textes manuscrits au mur, chaises sculptées, mur d'écrans violets et salle sombre aux disques. La presse et le vernissage font l'objet d'un [reportage séparé](/blog/exposition-robert-combas-chante-sete-et-brassens-au-musee-paul-valery-presse-et-vernissage/).
+
+_Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, octobre 2021._
 
 <figure class="photo-figure"><img src="/images/mg_5468.jpg" alt="Première salle : grandes toiles foisonnantes aux couleurs vives, petite sculpture colorée au sol — Salles de l'exposition Robert Combas « chante » Sète et Brassens, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>Première salle : grandes toiles foisonnantes aux couleurs vives, petite sculpture colorée au sol — Salles de l'exposition Robert Combas « chante » Sète et Brassens, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson</figcaption></figure>
 

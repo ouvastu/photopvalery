@@ -5,9 +5,11 @@ categories:
   - "exposition"
 ---
 
-L'élegance de la Force
+Le 12 décembre 2019, j'ai photographié l'exposition **« Marcel Gromaire, l'élégance de la force »** au **Musée Paul Valéry de Sète**.
 
-Musée Paul Valéry, Sète le 12 décembre 2019 / photos Gilles Hutchinson
+Les images parcourent l'accrochage, des murs jaunes aux cloisons grises suspendues : grands tableaux de personnages dans leurs cadres dorés, portraits de femmes, nus et dessins.
+
+_Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, décembre 2019._
 
 <figure class="photo-figure"><img src="/images/expostion-marcel-gromaire-584.jpg" alt="Entrée de l'exposition « Marcel Gromaire, l'élégance de la force », portrait photographique du peintre sur une cloison — Exposition « Marcel Gromaire, l'élégance de la force », musée Paul Valéry, Sète, décembre 2019 — © Gilles Hutchinson" loading="lazy" /><figcaption>Entrée de l'exposition « Marcel Gromaire, l'élégance de la force », portrait photographique du peintre sur une cloison — Exposition « Marcel Gromaire, l'élégance de la force », musée Paul Valéry, Sète, décembre 2019 — © Gilles Hutchinson</figcaption></figure>
 

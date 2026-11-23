@@ -6,7 +6,11 @@ categories:
 coverImage: "salles-expo-boisrond-134.jpg"
 ---
 
-Photos Gilles Hutchinson
+Le 24 juin 2022, j'ai photographié les salles de l'exposition **« François Boisrond, une rétrospective »** au **Musée Paul Valéry de Sète**.
+
+Le parcours mène des grandes toiles mythologiques aux paysages en noir et blanc, des scènes nocturnes à l'atelier reconstitué avec son chevalet et son bateau orange, jusqu'aux grandes toiles colorées de foules et de villes réunies sous l'inscription « F. Boisrond ».
+
+_Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, juin 2022._
 
 <figure class="photo-figure"><img src="/images/salles-expo-boisrond-81.jpg" alt="Deux grandes toiles mythologiques foisonnantes sur cloisons blanches, salle claire au fond — Exposition François Boisrond, « Une rétrospective », musée Paul Valéry, Sète, juin 2022 — © Gilles Hutchinson" loading="lazy" /><figcaption>Deux grandes toiles mythologiques foisonnantes sur cloisons blanches, salle claire au fond — Exposition François Boisrond, « Une rétrospective », musée Paul Valéry, Sète, juin 2022 — © Gilles Hutchinson</figcaption></figure>
 

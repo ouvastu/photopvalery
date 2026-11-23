@@ -6,10 +6,7 @@ categories:
 coverImage: "mg_2954-01.jpg"
 ---
 
-Lecture poétique musicale, précédée d’un regard du poète invité sur Paul Valéry.
-
-Jean Portante, poète  
-Farouk Benlarech, musicien (oud)
+Le 25 septembre 2020, lors des **Journées Paul Valéry**, le poète **Jean Portante** portait d'abord son regard sur Paul Valéry, puis donnait une lecture poétique musicale avec **Farouk Benlarech** à l'oud.
 
 Journées Paul Valéry, Sète 25 septembre 2020 / Photos Gilles Hutchinson
 

@@ -6,10 +6,7 @@ categories:
 coverImage: "journees_paul_valery_2020_138.jpg"
 ---
 
-Lecture poétique musicale, précédée d’un regard du poète invité sur Paul Valéry.
-
-Daniel Maximin, poète  
-Delphine Chomel, musicienne (voix, violon)
+Le 26 septembre 2020, lors des **Journées Paul Valéry**, le poète **Daniel Maximin** portait d'abord son regard sur Paul Valéry, puis donnait une lecture poétique musicale avec **Delphine Chomel** au violon et à la voix.
 
 Journées Paul Valéry, Sète 26 septembre 2020 / Photos Gilles Hutchinson
 

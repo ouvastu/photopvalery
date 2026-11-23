@@ -6,6 +6,10 @@ categories:
 coverImage: "journees_paul_valery_2020_142.jpg"
 ---
 
+Le 26 septembre 2020, pendant les **Journées Paul Valéry**, une visite commentée présentait le premier manuscrit du **Cimetière marin**, conservé dans le fonds du musée.
+
+Devant la vitrine, le guide montrait aux visiteurs les feuillets du poème.
+
 Journées Paul Valéry, Sète 26 septembre 2020 / Photos Gilles Hutchinson
 
 <figure class="photo-figure"><img src="/images/journees_paul_valery_2020_145.jpg" alt="Un homme masqué commente le premier manuscrit du Cimetière marin, exposé en vitrine — Visite commentée du premier manuscrit du Cimetière marin conservé dans le fonds du musée, Journées Paul Valéry, Sète, 26 septembre 2020 — © Gilles Hutchinson" loading="lazy" /><figcaption>Un homme masqué commente le premier manuscrit du Cimetière marin, exposé en vitrine — Visite commentée du premier manuscrit du Cimetière marin conservé dans le fonds du musée, Journées Paul Valéry, Sète, 26 septembre 2020 — © Gilles Hutchinson</figcaption></figure>

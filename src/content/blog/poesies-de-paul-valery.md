@@ -6,8 +6,9 @@ categories:
 coverImage: "journees_paul_valery_2020_210.jpg"
 ---
 
-YVES FERRY, COMÉDIEN  
-FRÉDÉRIQUE SONNET, MUSICIENNE (FLÛTE TRAVERSIÈRE, VOIX)
+Le 27 septembre 2020, lors des **Journées Paul Valéry**, le comédien **Yves Ferry** disait des poèmes de Paul Valéry, accompagné par **Frédérique Sonnet** à la flûte traversière et à la voix.
+
+Une partie des photographies a été prise à travers la baie vitrée du musée, où le reflet du lecteur se mêle à la mer et au jardin.
 
 Journées Paul Valéry, Sète 27 septembre 2020 / Photos Gilles Hutchinson
 

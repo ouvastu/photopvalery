@@ -6,9 +6,9 @@ categories:
 coverImage: "journees_paul_valery_2020_156.jpg"
 ---
 
-MUSIQUE DU XIXE SIÈCLE ET POÉSIES DE PAUL VALÉRY
+Le 26 septembre 2020, pendant les **Journées Paul Valéry**, les professeurs du **Conservatoire à rayonnement intercommunal de Sète agglopôle Méditerranée** et le comédien **Patrick Vendrin** proposaient un programme de musique du XIXᵉ siècle et de poésies de Paul Valéry, autour du piano de Jeannie Valéry.
 
-PAR LES PROFESSEURS DU CONSERVATOIRE À RAYONNEMENT INTERCOMMUNAL DE SÈTE AGGLOPÔLE MÉDITERRANÉE ET PATRICK VENDRIN, COMÉDIEN
+Violon, piano et chant alternaient avec la lecture des poèmes, devant une salle comble.
 
 Journées Paul Valéry, Sète 26 septembre 2020 / Photos Gilles Hutchinson
 

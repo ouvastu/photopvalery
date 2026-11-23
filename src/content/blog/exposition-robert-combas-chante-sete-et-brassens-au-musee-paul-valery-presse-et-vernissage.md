@@ -8,6 +8,12 @@ categories:
 coverImage: "dsf7899.jpg"
 ---
 
+En octobre 2021, le **Musée Paul Valéry de Sète** inaugurait l'exposition **« Robert Combas chante Sète et Brassens »**.
+
+Ce reportage est consacré à la rencontre avec la presse et au vernissage : prises de parole au micro, journalistes autour des invités, foule devant la verrière colorée. Les salles de l'exposition font l'objet d'un reportage séparé.
+
+_Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, octobre 2021._
+
 <h2 class="section-photos" id="salles" data-lien="/blog/les-salles-de-lexposition-robert-combas-chante-sete-et-brassens-au-musee-paul-valery/">Les salles du musée</h2>
 
 <p class="section-photos-renvoi">Les salles de l'exposition font l'objet d'un reportage séparé : <a href="/blog/les-salles-de-lexposition-robert-combas-chante-sete-et-brassens-au-musee-paul-valery/">voir les salles de l'exposition Robert Combas</a>.</p>

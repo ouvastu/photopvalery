@@ -6,6 +6,12 @@ categories:
 coverImage: "mg_5681-01.jpg"
 ---
 
+En juin 2019, le **Musée Paul Valéry de Sète** présentait l'exposition **« Marquet, la Méditerranée d'une rive à l'autre »**.
+
+Ce reportage parcourt les salles aux murs turquoise, verts et bleus : marines dans leurs cadres dorés, vues de ports et de Venise, villages aux toits rouges, séries de dessins, jusqu'à la salle sombre où les tableaux sont éclairés un à un.
+
+_Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, juin 2019._
+
 <figure class="photo-figure"><img src="/images/mg_5681-01.jpg" alt="Entrée de l'exposition « Marquet, la Méditerranée d'une rive à l'autre », portrait photographique du peintre à lunettes — Exposition « Marquet, la Méditerranée d'une rive à l'autre », musée Paul Valéry, Sète, juin 2019 — © Gilles Hutchinson" loading="lazy" /><figcaption>Entrée de l'exposition « Marquet, la Méditerranée d'une rive à l'autre », portrait photographique du peintre à lunettes — Exposition « Marquet, la Méditerranée d'une rive à l'autre », musée Paul Valéry, Sète, juin 2019 — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/mg_5683-01.jpg" alt="Texte d'introduction et grand portrait photographique de Marquet, murs turquoise au fond — Exposition « Marquet, la Méditerranée d'une rive à l'autre », musée Paul Valéry, Sète, juin 2019 — © Gilles Hutchinson" loading="lazy" /><figcaption>Texte d'introduction et grand portrait photographique de Marquet, murs turquoise au fond — Exposition « Marquet, la Méditerranée d'une rive à l'autre », musée Paul Valéry, Sète, juin 2019 — © Gilles Hutchinson</figcaption></figure>

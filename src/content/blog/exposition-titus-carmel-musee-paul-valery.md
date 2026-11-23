@@ -7,7 +7,11 @@ categories:
   - "exposition-vernissage"
 ---
 
-Photos Gilles Hutchinson
+En décembre 2022, le **Musée Paul Valéry de Sète** présentait l'exposition de **Gérard Titus-Carmel**, **« Forestières & autres arpents »**.
+
+Le reportage s'ouvre sur les salles (grandes toiles de feuillages, palmes, dessins de branches, petits formats dans une lumière chaude), puis suit la visite de presse et le vernissage.
+
+_Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, décembre 2022._
 
 <h2 class="section-photos" id="salles">Les salles du musée</h2>
 

@@ -6,6 +6,12 @@ categories:
 coverImage: "dsf4672-panorama-2-hutchinson_1-1.jpg"
 ---
 
+En juin 2021, la **salle Paul Valéry** du musée de Sète était réorganisée à l'occasion d'une nouvelle acquisition : un portrait du poète par **Vincent Bioulès**.
+
+Les photographies montrent la nouvelle présentation de la salle : le grand portrait en pied sur fond bleu, les tableaux et dessins encadrés, la tête sculptée sous vitrine, et les vitrines de livres, de manuscrits et de photographies.
+
+_Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, juin 2021._
+
 <figure class="photo-figure"><img src="/images/dsf4672-panorama-2-hutchinson_1.jpg" alt="Salle Paul Valéry : grand portrait en pied sur fond bleu, tableaux et vitrine au premier plan — Salle Paul Valéry réorganisée, musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salle Paul Valéry : grand portrait en pied sur fond bleu, tableaux et vitrine au premier plan — Salle Paul Valéry réorganisée, musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/dsf4672-panorama-hutchinson.jpg" alt="Le portrait en pied sur fond bleu entre deux petits tableaux, vitrine à droite — Salle Paul Valéry réorganisée, musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>Le portrait en pied sur fond bleu entre deux petits tableaux, vitrine à droite — Salle Paul Valéry réorganisée, musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson</figcaption></figure>

@@ -7,7 +7,11 @@ categories:
   - "exposition-vernissage"
 ---
 
-Photos Gilles Hutchinson
+En novembre 2022, le **Musée Paul Valéry de Sète** rendait hommage à **Jean-Luc Parant** avec l'exposition **« En mémoire du merveilleux »**.
+
+La première partie du reportage parcourt les salles : bibliothèques d'objets et de livres, boules entassées au sol, grands reliefs noirs, ours colorés. La seconde suit la presse et le vernissage, quand le public a rempli le musée.
+
+_Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, novembre 2022._
 
 <h2 class="section-photos" id="salles">Les salles du musée</h2>
 

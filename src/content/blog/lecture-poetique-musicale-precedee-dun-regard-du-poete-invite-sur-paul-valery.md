@@ -6,8 +6,7 @@ categories:
 coverImage: "journees_paul_valery_2020_103.jpg"
 ---
 
-JACQUES ANCET, POÈTE   
-DELPHINE CHOMEL, MUSICIENNE (VOIX, VIOLON)
+Le 26 septembre 2020, lors des **Journées Paul Valéry**, le poète **Jacques Ancet**, présent par vidéo sur grand écran, portait son regard sur Paul Valéry avant une lecture poétique musicale accompagnée au violon et à la voix par **Delphine Chomel**.
 
 Journées Paul Valéry, Sète 26 septembre 2020 / Photos Gilles Hutchinson
 

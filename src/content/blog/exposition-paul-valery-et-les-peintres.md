@@ -6,7 +6,11 @@ categories:
 coverImage: "mg_2897-01-2.jpg"
 ---
 
-Musée Paul Valéry, Sète vendredi 25 septembre 2020 / Photos Gilles Hutchinson
+Le vendredi 25 septembre 2020, le **Musée Paul Valéry de Sète** présentait l'exposition **« Paul Valéry et les peintres »**.
+
+Le reportage suit trois temps : les salles du musée, avec leurs paysages, nus et dessins accrochés sur les murs jaunes et les cloisons bleues ; la visite de presse ; puis le vernissage.
+
+_Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, septembre 2020._
 
 <h2 class="section-photos" id="salles">Les salles du musée</h2>
 
