@@ -127,7 +127,7 @@ Le regard de Valéry sur la peinture a connu une évolution qu’il est utile de
 
 <figure class="photo-figure"><img src="/images/journees-paul-valery-2020-98.jpg" alt="L'affiche des Journées au premier plan, la conférence de Michel Jarrety au fond — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>L'affiche des Journées au premier plan, la conférence de Michel Jarrety au fond — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-99.jpg" alt="Après la conférence, trois hommes discutent près de la table de l'intervenant — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Après la conférence, trois hommes discutent près de la table de l'intervenant — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-99.jpg" alt="Après la conférence, Bernard Vouilloux, Michel Jarrety et un auditeur en chemise à carreaux près de la table de l'intervenant — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Après la conférence, Bernard Vouilloux, Michel Jarrety et un auditeur en chemise à carreaux près de la table de l'intervenant — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/journees-paul-valery-2020-100.jpg" alt="Michel Jarrety échange avec un auditeur en chemise à carreaux — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Michel Jarrety échange avec un auditeur en chemise à carreaux — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
@@ -135,11 +135,11 @@ Le regard de Valéry sur la peinture a connu une évolution qu’il est utile de
 
 <figure class="photo-figure"><img src="/images/journees-paul-valery-2020-102.jpg" alt="Échange animé entre Maïthé Vallès-Bled, Michel Jarrety et deux autres hommes dans le hall — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Échange animé entre Maïthé Vallès-Bled, Michel Jarrety et deux autres hommes dans le hall — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-103.jpg" alt="Deux hommes en costume discutent près de la baie vitrée — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Deux hommes en costume discutent près de la baie vitrée — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-103.jpg" alt="Michel Jarrety et Bernard Vouilloux discutent près de la baie vitrée — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Michel Jarrety et Bernard Vouilloux discutent près de la baie vitrée — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-104.jpg" alt="Un invité en costume vu à travers les plantes et la vitre — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Un invité en costume vu à travers les plantes et la vitre — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-104.jpg" alt="Tsutomu Imai vu à travers les plantes et la vitre — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Tsutomu Imai vu à travers les plantes et la vitre — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-105.jpg" alt="Deux hommes en costume bavardent contre la rambarde rouge de la terrasse — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Deux hommes en costume bavardent contre la rambarde rouge de la terrasse — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-105.jpg" alt="Bernard Vouilloux et Michel Jarrety bavardent contre la rambarde rouge de la terrasse — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Bernard Vouilloux et Michel Jarrety bavardent contre la rambarde rouge de la terrasse — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <h2 class="section-photos" id="lecture-gonzalez-espana">Lecture poétique : Pilar González España</h2>
 
@@ -322,7 +322,7 @@ Dans Degas Danse Dessin, Paul Valéry écrit à propos du peintre  : «  Ni la
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-229.jpg" alt="Thomas Golsenne au fond de la salle, une silhouette floue au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Thomas Golsenne au fond de la salle, une silhouette floue au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/carlo-cattaneo-230.jpg" alt="Auditeurs au premier rang, un homme aux cheveux blancs écoute — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Auditeurs au premier rang, un homme aux cheveux blancs écoute — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/carlo-cattaneo-230.jpg" alt="Au premier rang, Michel Jarrety et Vincent Rouart écoutent — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Au premier rang, Michel Jarrety et Vincent Rouart écoutent — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-231.jpg" alt="Une auditrice lève la main au premier rang — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Une auditrice lève la main au premier rang — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
@@ -334,13 +334,13 @@ Dans Degas Danse Dessin, Paul Valéry écrit à propos du peintre  : «  Ni la
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-235.jpg" alt="Une auditrice en veste orange écoute, la main levée — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Une auditrice en veste orange écoute, la main levée — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/carlo-cattaneo-236.jpg" alt="Un auditeur en costume fait un geste de la main en posant une question — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Un auditeur en costume fait un geste de la main en posant une question — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/carlo-cattaneo-236.jpg" alt="Michel Jarrety fait un geste de la main en posant une question, Vincent Rouart au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Michel Jarrety fait un geste de la main en posant une question, Vincent Rouart au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/carlo-cattaneo-237.jpg" alt="Un auditeur en costume prend la parole depuis son siège — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Un auditeur en costume prend la parole depuis son siège — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/carlo-cattaneo-237.jpg" alt="Michel Jarrety prend la parole depuis son siège — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Michel Jarrety prend la parole depuis son siège — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/carlo-cattaneo-238.jpg" alt="Thomas Golsenne échange avec deux hommes après sa conférence — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Thomas Golsenne échange avec deux hommes après sa conférence — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/carlo-cattaneo-238.jpg" alt="Thomas Golsenne échange avec Bernard Vouilloux et Michel Jarrety après sa conférence — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Thomas Golsenne échange avec Bernard Vouilloux et Michel Jarrety après sa conférence — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/carlo-cattaneo-239.jpg" alt="Thomas Golsenne poursuit la discussion avec deux auditeurs — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Thomas Golsenne poursuit la discussion avec deux auditeurs — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/carlo-cattaneo-239.jpg" alt="Thomas Golsenne poursuit la discussion avec Bernard Vouilloux et Michel Jarrety — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Thomas Golsenne poursuit la discussion avec Bernard Vouilloux et Michel Jarrety — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <h2 class="section-photos" id="lecture-pascalis">Lecture poétique : Stratis Pascalis</h2>
 
@@ -452,11 +452,11 @@ Valéry a dessiné quelques portraits d’un grand artiste dont l’Introduction
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-286.jpg" alt="Tsutomu Imai debout lit un feuillet devant le public — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Tsutomu Imai debout lit un feuillet devant le public — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/carlo-cattaneo-287.jpg" alt="Un homme en costume prend la parole au micro, Tsutomu Imai de dos — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Un homme en costume prend la parole au micro, Tsutomu Imai de dos — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/carlo-cattaneo-287.jpg" alt="Michel Jarrety prend la parole au micro, Tsutomu Imai de dos — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Michel Jarrety prend la parole au micro, Tsutomu Imai de dos — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-288.jpg" alt="Une auditrice à l'étole grise pose une question à Tsutomu Imai — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Une auditrice à l'étole grise pose une question à Tsutomu Imai — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/carlo-cattaneo-289.jpg" alt="Conversation entre Maïthé Vallès-Bled et plusieurs personnes dans le jardin après la conférence — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Conversation entre Maïthé Vallès-Bled et plusieurs personnes dans le jardin après la conférence — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/carlo-cattaneo-289.jpg" alt="Conversation entre Maïthé Vallès-Bled, Michel Jarrety et plusieurs personnes dans le jardin après la conférence — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Conversation entre Maïthé Vallès-Bled, Michel Jarrety et plusieurs personnes dans le jardin après la conférence — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <h2 class="section-photos" id="visite-fonds">Visite commentée du fonds Paul Valéry</h2>
 
@@ -621,7 +621,7 @@ L’image de Léonard de Vinci comme génie universel et polymorphe, anticipateu
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-352.jpg" alt="Deux personnes se reposent dans des chaises longues du jardin — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Deux personnes se reposent dans des chaises longues du jardin — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/carlo-cattaneo-350.jpg" alt="Deux hommes assis sur les marches de l'escalier, deux femmes devant eux — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Deux hommes assis sur les marches de l'escalier, deux femmes devant eux — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/carlo-cattaneo-350.jpg" alt="Bernard Vouilloux et Michel Jarrety assis sur les marches de l'escalier, deux femmes devant eux — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Bernard Vouilloux et Michel Jarrety assis sur les marches de l'escalier, deux femmes devant eux — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-349.jpg" alt="Antonietta Sanna au fond de la salle comble, l'écran à côté d'elle — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Antonietta Sanna au fond de la salle comble, l'écran à côté d'elle — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
