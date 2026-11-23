@@ -21,7 +21,7 @@ Par François Commeinhes, maire de Sète
 
 En présence des petits-enfants de Paul Valéry et de l’ensemble des invités.
 
-<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-72.jpg" alt="Trois invités attablés en terrasse, verres et documents sur la table — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Trois invités attablés en terrasse, verres et documents sur la table — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-72.jpg" alt="Vincent Rouart, petit-fils de Paul Valéry, en compagnie de Michel Jarrety à une table de la terrasse, Tsutomu Imai à droite — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Vincent Rouart, petit-fils de Paul Valéry, en compagnie de Michel Jarrety à une table de la terrasse, Tsutomu Imai à droite — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/journees-paul-valery-2020-71.jpg" alt="Dans l'herbe du jardin, un invité au chapeau de paille assis parmi les autres — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Dans l'herbe du jardin, un invité au chapeau de paille assis parmi les autres — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
@@ -161,13 +161,13 @@ Olivier-Roman Garcia, guitare
 
 <figure class="photo-figure"><img src="/images/journees-paul-valery-2020-113.jpg" alt="Patrick Vendrin tend une feuille, Pilar González España lit au micro — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Patrick Vendrin tend une feuille, Pilar González España lit au micro — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-114.jpg" alt="Vue de la scène du jardin : les trois interprètes sous les parasols — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Vue de la scène du jardin : les trois interprètes sous les parasols — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-114.jpg" alt="Vue de la scène du jardin : Pilar González España, Patrick Vendrin et Olivier-Roman Garcia sous les parasols — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Vue de la scène du jardin : Pilar González España, Patrick Vendrin et Olivier-Roman Garcia sous les parasols — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/journees-paul-valery-2020-115.jpg" alt="Patrick Vendrin lit, Pilar González España écoute, Olivier-Roman Garcia joue de la guitare — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Patrick Vendrin lit, Pilar González España écoute, Olivier-Roman Garcia joue de la guitare — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/journees-paul-valery-2020-116.jpg" alt="Pilar González España et Olivier-Roman Garcia vus à travers les branches — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Pilar González España et Olivier-Roman Garcia vus à travers les branches — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-117.jpg" alt="Les trois interprètes réunis au micro à la fin de la lecture — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Les trois interprètes réunis au micro à la fin de la lecture — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-117.jpg" alt="Pilar González España, Patrick Vendrin et Olivier-Roman Garcia réunis au micro à la fin de la lecture — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Pilar González España, Patrick Vendrin et Olivier-Roman Garcia réunis au micro à la fin de la lecture — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/journees-paul-valery-2020-118.jpg" alt="Après la lecture, Pilar González España en conversation avec des spectatrices — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Après la lecture, Pilar González España en conversation avec des spectatrices — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
@@ -354,7 +354,7 @@ Pascal Delalée, violon
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-242.jpg" alt="Patrick Vendrin, Stratis Pascalis et Pascal Delalée sur la scène du jardin, Topolino devant — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Patrick Vendrin, Stratis Pascalis et Pascal Delalée sur la scène du jardin, Topolino devant — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/carlo-cattaneo-243.jpg" alt="Les trois interprètes assis sur la scène verte, Topolino au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Les trois interprètes assis sur la scène verte, Topolino au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/carlo-cattaneo-243.jpg" alt="Stratis Pascalis, Patrick Vendrin et Pascal Delalée assis sur la scène verte, Topolino au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Stratis Pascalis, Patrick Vendrin et Pascal Delalée assis sur la scène verte, Topolino au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-244.jpg" alt="Vue de la scène du jardin et du public assis sous les parasols — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Vue de la scène du jardin et du public assis sous les parasols — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
@@ -476,7 +476,7 @@ Michel Jarrety, et les enfants d’Agathe : Martine Boivin-Champeaux et Vincent 
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-294.jpg" alt="Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart assis face au public — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart assis face au public — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/carlo-cattaneo-295.jpg" alt="Lettres de Paul Valéry à sa fille Agathe : les trois intervenants vus depuis la salle — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Lettres de Paul Valéry à sa fille Agathe : les trois intervenants vus depuis la salle — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/carlo-cattaneo-295.jpg" alt="Lettres de Paul Valéry à sa fille Agathe : Michel Jarrety avec Martine Boivin-Champeaux et Vincent Rouart, enfants d'Agathe, vus depuis la salle — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Lettres de Paul Valéry à sa fille Agathe : Michel Jarrety avec Martine Boivin-Champeaux et Vincent Rouart, enfants d'Agathe, vus depuis la salle — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-296.jpg" alt="Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart, le public au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart, le public au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
@@ -484,11 +484,11 @@ Michel Jarrety, et les enfants d’Agathe : Martine Boivin-Champeaux et Vincent 
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-298.jpg" alt="Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart, plan plus serré — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart, plan plus serré — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/carlo-cattaneo-299.jpg" alt="Les trois intervenants et le public, vue depuis le côté — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Les trois intervenants et le public, vue depuis le côté — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/carlo-cattaneo-299.jpg" alt="Martine Boivin-Champeaux, Michel Jarrety, Vincent Rouart et le public, vue depuis le côté — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Martine Boivin-Champeaux, Michel Jarrety, Vincent Rouart et le public, vue depuis le côté — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-300.jpg" alt="Les intervenants au fond de la salle comble — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Les intervenants au fond de la salle comble — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/carlo-cattaneo-301.jpg" alt="Le public de dos face aux trois intervenants — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Le public de dos face aux trois intervenants — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/carlo-cattaneo-301.jpg" alt="Le public de dos face à Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Le public de dos face à Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-302.jpg" alt="Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart vus de côté — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart vus de côté — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
@@ -496,11 +496,11 @@ Michel Jarrety, et les enfants d’Agathe : Martine Boivin-Champeaux et Vincent 
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-304.jpg" alt="Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart, micros en main — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart, micros en main — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/carlo-cattaneo-305.jpg" alt="Les trois intervenants dans leurs fauteuils, un spectateur au chapeau au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Les trois intervenants dans leurs fauteuils, un spectateur au chapeau au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/carlo-cattaneo-305.jpg" alt="Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart dans leurs fauteuils, un spectateur au chapeau au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart dans leurs fauteuils, un spectateur au chapeau au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-306.jpg" alt="Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart, plan large — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart, plan large — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/carlo-cattaneo-307.jpg" alt="Les trois intervenants près de la baie vitrée, en fin de journée — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Les trois intervenants près de la baie vitrée, en fin de journée — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/carlo-cattaneo-307.jpg" alt="Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart près de la baie vitrée, en fin de journée — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart près de la baie vitrée, en fin de journée — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 * * *
 
@@ -631,13 +631,13 @@ Régis Debray, Jean-Marie Rouart
 
 Du livre récent de Régis Debray émerge la figure nouvelle d’un Valéry, campé en penseur visionnaire, indocile et impertinent, loin de la figure compassée de l’écrivain aux goûts académiques. Issu d’une famille qui a compté tant de peintres et de collectionneurs, Jean-Marie Rouart est un fin connaisseur du milieu intellectuel et artistique où a évolué Valéry. La rencontre entre les deux écrivains, nourrie d’une connaissance intime de l’homme, de son milieu et de son œuvre, promet d’ouvrir des perspectives inattendues et captivantes.
 
-<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-515.jpg" alt="Avant la rencontre, une femme et deux hommes attablés au café du musée — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Avant la rencontre, une femme et deux hommes attablés au café du musée — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-515.jpg" alt="Avant la rencontre, Régis Debray et Jean-Marie Rouart attablés au café du musée avec une femme — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Avant la rencontre, Régis Debray et Jean-Marie Rouart attablés au café du musée avec une femme — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-516.jpg" alt="Une femme et deux hommes à une table du café, autre vue — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Une femme et deux hommes à une table du café, autre vue — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-516.jpg" alt="Régis Debray, Jean-Marie Rouart et une femme à une table du café, autre vue — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Régis Debray, Jean-Marie Rouart et une femme à une table du café, autre vue — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-517.jpg" alt="Deux hommes descendent l'allée du jardin — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Deux hommes descendent l'allée du jardin — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-517.jpg" alt="Régis Debray et Jean-Marie Rouart descendent l'allée du jardin — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Régis Debray et Jean-Marie Rouart descendent l'allée du jardin — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-518.jpg" alt="Deux hommes marchent dans l'allée du jardin, un document à la main — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Deux hommes marchent dans l'allée du jardin, un document à la main — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-518.jpg" alt="Régis Debray et Jean-Marie Rouart marchent dans l'allée du jardin, un document à la main — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Régis Debray et Jean-Marie Rouart marchent dans l'allée du jardin, un document à la main — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/regis-debray-paul-valery-519.jpg" alt="Rencontre avec Régis Debray et Jean-Marie Rouart : le public sous les arbres — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Rencontre avec Régis Debray et Jean-Marie Rouart : le public sous les arbres — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
@@ -687,7 +687,7 @@ Du livre récent de Régis Debray émerge la figure nouvelle d’un Valéry, cam
 
 <figure class="photo-figure"><img src="/images/regis-debray-paul-valery-542.jpg" alt="Régis Debray et Jean-Marie Rouart vus derrière les spectateurs — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Régis Debray et Jean-Marie Rouart vus derrière les spectateurs — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-543.jpg" alt="Le public assis et les deux intervenants au fond, sous les parasols — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Le public assis et les deux intervenants au fond, sous les parasols — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-543.jpg" alt="Le public assis, Régis Debray et Jean-Marie Rouart au fond, sous les parasols — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Le public assis, Régis Debray et Jean-Marie Rouart au fond, sous les parasols — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/regis-debray-paul-valery-544.jpg" alt="Un spectateur debout prend la parole au micro, sac en bandoulière — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Un spectateur debout prend la parole au micro, sac en bandoulière — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
@@ -699,7 +699,7 @@ Du livre récent de Régis Debray émerge la figure nouvelle d’un Valéry, cam
 
 <figure class="photo-figure"><img src="/images/regis-debray-paul-valery-548.jpg" alt="Régis Debray et Jean-Marie Rouart sur la scène, le public au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Régis Debray et Jean-Marie Rouart sur la scène, le public au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-549.jpg" alt="Les deux intervenants au loin, sous les parasols, le public attentif — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Les deux intervenants au loin, sous les parasols, le public attentif — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-549.jpg" alt="Régis Debray et Jean-Marie Rouart au loin, sous les parasols, le public attentif — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Régis Debray et Jean-Marie Rouart au loin, sous les parasols, le public attentif — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/regis-debray-paul-valery-550.jpg" alt="Régis Debray et Jean-Marie Rouart dans leurs fauteuils, plan large — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Régis Debray et Jean-Marie Rouart dans leurs fauteuils, plan large — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
@@ -711,7 +711,7 @@ Du livre récent de Régis Debray émerge la figure nouvelle d’un Valéry, cam
 
 <figure class="photo-figure"><img src="/images/regis-debray-paul-valery-554.jpg" alt="Régis Debray et Jean-Marie Rouart sur la scène, une femme debout à gauche — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Régis Debray et Jean-Marie Rouart sur la scène, une femme debout à gauche — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-555.jpg" alt="Les deux intervenants vus de dos, face au public sous les parasols — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Les deux intervenants vus de dos, face au public sous les parasols — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-555.jpg" alt="Régis Debray et Jean-Marie Rouart vus de dos, face au public sous les parasols — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Régis Debray et Jean-Marie Rouart vus de dos, face au public sous les parasols — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/regis-debray-paul-valery-556.jpg" alt="Le public vu par-dessus l'épaule d'un des intervenants — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Le public vu par-dessus l'épaule d'un des intervenants — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
@@ -723,9 +723,9 @@ Du livre récent de Régis Debray émerge la figure nouvelle d’un Valéry, cam
 
 <figure class="photo-figure"><img src="/images/regis-debray-paul-valery-560.jpg" alt="L'un des intervenants parle au micro, la foule devant lui — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>L'un des intervenants parle au micro, la foule devant lui — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-561.jpg" alt="Les deux intervenants de dos dans leurs fauteuils, face au public — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Les deux intervenants de dos dans leurs fauteuils, face au public — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-561.jpg" alt="Régis Debray et Jean-Marie Rouart de dos dans leurs fauteuils, face au public — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Régis Debray et Jean-Marie Rouart de dos dans leurs fauteuils, face au public — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-562.jpg" alt="Les deux intervenants de dos, le public attentif — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Les deux intervenants de dos, le public attentif — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/regis-debray-paul-valery-562.jpg" alt="Régis Debray et Jean-Marie Rouart de dos, le public attentif — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Régis Debray et Jean-Marie Rouart de dos, le public attentif — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/regis-debray-paul-valery-563.jpg" alt="Un des intervenants vu de dos, le public sous les arbres — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Un des intervenants vu de dos, le public sous les arbres — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
