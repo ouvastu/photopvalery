@@ -5,7 +5,7 @@ categories:
   - "journees-paul-valery"
 ---
 
-Les 25, 26 et 27 septembre 2019, les **Journées Paul Valéry** avaient pour thème **« Paul Valéry et les peintres »**. Pendant trois jours, le musée de Sète a accueilli conférences, lectures poétiques et musicales et visites commentées.
+Du 25 au 28 septembre 2019, les **Journées Paul Valéry** avaient pour thème **« Paul Valéry et les peintres »**. Pendant quatre jours, le musée de Sète a accueilli conférences, lectures poétiques et musicales, table ronde et visites commentées.
 
 Ce reportage suit le programme dans l'ordre : l'ouverture par François Commeinhes, maire de Sète, la conférence inaugurale de Michel Jarrety, puis les interventions et les lectures des invités.
 
