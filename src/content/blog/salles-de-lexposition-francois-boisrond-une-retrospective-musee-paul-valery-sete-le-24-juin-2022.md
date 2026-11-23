@@ -6,7 +6,7 @@ categories:
 coverImage: "salles-expo-boisrond-134.jpg"
 ---
 
-Le 24 juin 2022, j'ai photographié les salles de l'exposition **« François Boisrond, une rétrospective »** au **Musée Paul Valéry de Sète**.
+Le 24 juin 2022, le **Musée Paul Valéry de Sète** présentait l'exposition **« François Boisrond, une rétrospective »**.
 
 Le parcours mène des grandes toiles mythologiques aux paysages en noir et blanc, des scènes nocturnes à l'atelier reconstitué avec son chevalet et son bateau orange, jusqu'aux grandes toiles colorées de foules et de villes réunies sous l'inscription « F. Boisrond ».
 

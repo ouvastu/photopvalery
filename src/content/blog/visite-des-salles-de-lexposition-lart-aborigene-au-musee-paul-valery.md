@@ -6,7 +6,7 @@ categories:
 coverImage: "mg_3988-.jpg"
 ---
 
-Le 9 juin 2021, j'ai photographié les salles de l'exposition **« L'art aborigène »** au **Musée Paul Valéry de Sète**.
+Le 9 juin 2021, le **Musée Paul Valéry de Sète** présentait l'exposition **« L'art aborigène »**.
 
 Sur les cloisons orange, ocre et blanches se succèdent des toiles à points, aux motifs entrelacés, rayonnants ou en lignes, dans des tons de rose, de violet, de vert et d'ocre. Vues d'ensemble et plans rapprochés restituent le rythme de l'accrochage.
 

@@ -7,7 +7,7 @@ categories:
   - "exposition-vernissage"
 ---
 
-En juin 2023, à l’occasion du vernissage et de la visite presse au **Musée Paul Valéry de Sète**, j’ai photographié l’accrochage de l’exposition **« Martial Raysse – Œuvres récentes »** (présentée du 17 juin au 5 novembre 2023, sous le commissariat de Stéphane Tarroux et la scénographie de Maud Martinot).
+En juin 2023, le **Musée Paul Valéry de Sète** ouvrait l’exposition **« Martial Raysse – Œuvres récentes »** (présentée du 17 juin au 5 novembre 2023, sous le commissariat de Stéphane Tarroux et la scénographie de Maud Martinot), avec une visite de presse et un vernissage.
 
 Près de dix ans après ses grandes rétrospectives au Centre Pompidou et au Palazzo Grassi, Martial Raysse choisissait les cimaises sétoises pour dévoiler un ensemble majeur de créations réalisées au cours de la décennie écoulée — grandes toiles narratives, dessins et sculptures.
 

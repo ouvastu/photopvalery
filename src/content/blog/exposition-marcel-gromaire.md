@@ -5,7 +5,7 @@ categories:
   - "exposition"
 ---
 
-Le 12 décembre 2019, j'ai photographié l'exposition **« Marcel Gromaire, l'élégance de la force »** au **Musée Paul Valéry de Sète**.
+Le 12 décembre 2019, le **Musée Paul Valéry de Sète** présentait l'exposition **« Marcel Gromaire, l'élégance de la force »**.
 
 Les images parcourent l'accrochage, des murs jaunes aux cloisons grises suspendues : grands tableaux de personnages dans leurs cadres dorés, portraits de femmes, nus et dessins.
 
