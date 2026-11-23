@@ -1,5 +1,5 @@
 ---
-title: "Le « Temple neuf » de l’Album de vers anciens"
+title: "Le « Temple neuf » de l’Album de vers anciens, par Serge Linarès"
 pubDate: 2020-10-02
 categories: 
   - "journees-paul-valery"

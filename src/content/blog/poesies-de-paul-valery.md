@@ -1,5 +1,5 @@
 ---
-title: "Poésies de Paul Valéry"
+title: "Poésies de Paul Valéry, par Yves Ferry et Frédérique Sonnet"
 pubDate: 2020-10-04
 categories: 
   - "journees-paul-valery"

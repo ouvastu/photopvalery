@@ -1,5 +1,5 @@
 ---
-title: "Le Cimetière marin, un poème pour renaître"
+title: "Le Cimetière marin, un poème pour renaître, par Jean-Louis Cianni"
 pubDate: 2020-10-03
 categories: 
   - "journees-paul-valery"

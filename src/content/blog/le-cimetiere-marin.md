@@ -1,5 +1,5 @@
 ---
-title: "Le Cimetière marin"
+title: "Le Cimetière marin, par Roula Safar et Julien Guill"
 pubDate: 2020-10-03
 categories: 
   - "journees-paul-valery"

@@ -1,5 +1,5 @@
 ---
-title: "Valéry et la poésie en prose"
+title: "Valéry et la poésie en prose, par Adrien Cavallaro"
 pubDate: 2020-10-04
 categories: 
   - "journees-paul-valery"

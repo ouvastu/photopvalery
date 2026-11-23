@@ -1,5 +1,5 @@
 ---
-title: "Valéry et le souci de ne pas comprendre"
+title: "Valéry et le souci de ne pas comprendre, par Christian Doumet"
 pubDate: 2020-10-03
 categories: 
   - "journees-paul-valery"

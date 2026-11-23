@@ -1,5 +1,5 @@
 ---
-title: "Valéry, Bonnefoy : évolution d’une incompréhension"
+title: "Valéry, Bonnefoy : évolution d’une incompréhension, par Michel Jarrety"
 pubDate: 2020-10-02
 categories: 
   - "journees-paul-valery"

@@ -1,5 +1,5 @@
 ---
-title: "Autour du piano de Jeannie Valéry"
+title: "Autour du piano de Jeannie Valéry, par les professeurs du conservatoire de Sète et Patrick Vendrin"
 pubDate: 2020-10-03
 categories: 
   - "journees-paul-valery"

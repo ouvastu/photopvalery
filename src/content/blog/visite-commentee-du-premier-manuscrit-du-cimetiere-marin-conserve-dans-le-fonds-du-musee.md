@@ -1,5 +1,5 @@
 ---
-title: "Visite commentée du premier manuscrit du Cimetière marin conservé dans le fonds du musée, avec Jean-Louis Cianni"
+title: "Visite commentée du premier manuscrit du Cimetière marin conservé dans le fonds du musée, par Jean-Louis Cianni"
 pubDate: 2020-10-03
 categories: 
   - "journees-paul-valery"
