@@ -111,14 +111,17 @@ const rubrique = categories.includes(JOURNEES) ? '/journees-paul-valery' : '/blo
 				min-height: 0;
 				margin: 0;
 				display: flex;
+				flex-direction: column;
 				align-items: center;
 				justify-content: center;
+				gap: 0.7rem;
 				padding: 0 4.5rem;
 				touch-action: pan-y pinch-zoom;
 			}
 			.lb-img {
 				max-width: 100%;
-				max-height: 100%;
+				/* place réservée à la légende, juste sous la photo */
+				max-height: calc(100% - 4.6rem);
 				width: auto;
 				height: auto;
 				object-fit: contain;
@@ -184,18 +187,72 @@ const rubrique = categories.includes(JOURNEES) ? '/journees-paul-valery' : '/blo
 				right: 0.75rem;
 			}
 			.lb-caption {
-				min-height: 3.5rem;
+				flex: none;
 				max-width: 900px;
-				margin: 0 auto;
-				padding: 0.9rem 1.25rem 1.1rem;
+				margin: 0;
+				padding: 0 1.25rem;
 				text-align: center;
 				font-size: 0.9rem;
 				line-height: 1.5;
 				color: rgb(var(--gray));
 			}
+			.lb-strip {
+				flex: none;
+				display: flex;
+				justify-content: safe center;
+				gap: 6px;
+				overflow-x: auto;
+				padding: 0.75rem 1.25rem 0.9rem;
+				scrollbar-width: thin;
+				scroll-behavior: smooth;
+			}
+			.lb-strip[hidden] {
+				display: none;
+			}
+			:global(.lb-thumb) {
+				flex: none;
+				height: 64px;
+				padding: 0;
+				border: 2px solid transparent;
+				border-radius: 3px;
+				background: rgb(var(--gray-light));
+				cursor: pointer;
+				opacity: 0.55;
+				transition: opacity 0.2s ease, border-color 0.2s ease;
+			}
+			:global(.lb-thumb:hover),
+			:global(.lb-thumb:focus-visible) {
+				opacity: 1;
+			}
+			:global(.lb-thumb.is-active) {
+				border-color: var(--accent);
+				opacity: 1;
+			}
+			:global(.lb-thumb img) {
+				display: block;
+				height: 100%;
+				width: auto;
+				margin: 0;
+				border-radius: 1px;
+				box-shadow: none;
+				object-fit: cover;
+			}
+			:global(.lb-thumb img:hover) {
+				transform: none;
+			}
 			@media (max-width: 720px) {
 				.lb-stage {
 					padding: 0;
+					gap: 0.5rem;
+				}
+				.lb-img {
+					max-height: calc(100% - 6rem);
+				}
+				:global(.lb-thumb) {
+					height: 48px;
+				}
+				.lb-strip {
+					padding: 0.6rem 0.75rem 0.75rem;
 				}
 				.lb-nav {
 					display: none;
@@ -270,14 +327,32 @@ const rubrique = categories.includes(JOURNEES) ? '/journees-paul-valery' : '/blo
 				<span class="lb-spinner" aria-hidden="true"></span>
 				<button id="lb-prev" class="lb-nav lb-prev" type="button" aria-label="Photo précédente">‹</button>
 				<button id="lb-next" class="lb-nav lb-next" type="button" aria-label="Photo suivante">›</button>
+				<figcaption id="lb-caption" class="lb-caption"></figcaption>
 			</figure>
-			<p id="lb-caption" class="lb-caption"></p>
+			<nav id="lb-strip" class="lb-strip" aria-label="Photos de la section"></nav>
 		</div>
 
 		<script is:inline>
 			(() => {
-				const photos = Array.from(document.querySelectorAll('.prose figure.photo-figure img'));
-				if (!photos.length) return;
+				// Les photos sont regroupées par section (« Les salles du musée », « Avec la presse »,
+				// « Vernissage »…) : la visionneuse, son compteur et ses vignettes restent dans la section.
+				const groupes = [];
+				let groupe = null;
+				document
+					.querySelectorAll('.prose h2.section-photos, .prose figure.photo-figure img')
+					.forEach((el) => {
+						if (el.tagName === 'H2') {
+							groupe = null;
+							groupes.push((groupe = { titre: el.textContent.trim(), photos: [] }));
+							return;
+						}
+						if (!groupe) groupes.push((groupe = { titre: '', photos: [] }));
+						groupe.photos.push(el);
+					});
+				const sections = groupes.filter((g) => g.photos.length);
+				if (!sections.length) return;
+				const groupeDe = new Map();
+				sections.forEach((g) => g.photos.forEach((img, i) => groupeDe.set(img, { g, i })));
 
 				const $ = (id) => document.getElementById(id);
 				const overlay = $('lightbox');
@@ -288,8 +363,12 @@ const rubrique = categories.includes(JOURNEES) ? '/journees-paul-valery' : '/blo
 				const btnPlay = $('lb-play');
 				const btnFull = $('lb-full');
 				const btnClose = $('lb-close');
+				const strip = $('lb-strip');
 				const INTERVALLE = 4000;
 
+				let section = sections[0];
+				let photos = section.photos;
+				let vignettes = [];
 				let courant = 0;
 				let minuteur = null;
 				let demande = 0;
@@ -318,9 +397,10 @@ const rubrique = categories.includes(JOURNEES) ? '/journees-paul-valery' : '/blo
 					const url = source(img);
 					const numero = ++demande;
 
-					counter.textContent = `${courant + 1} / ${photos.length}`;
+					counter.textContent = `${section.titre ? section.titre + ' · ' : ''}${courant + 1} / ${photos.length}`;
 					caption.textContent = legende(img);
 					lbImg.alt = img.alt || '';
+					marquerVignette();
 
 					const chargee = precharger(courant);
 					const poser = () => {
@@ -357,8 +437,54 @@ const rubrique = categories.includes(JOURNEES) ? '/journees-paul-valery' : '/blo
 				const precedente = () => { arreter(); afficher(courant - 1); };
 				const suivante = () => { arreter(); afficher(courant + 1); };
 
-				function ouvrir(i) {
+				// Bande de vignettes de la section en bas de la visionneuse
+				function construireBande() {
+					strip.replaceChildren();
+					vignettes = photos.map((img, k) => {
+						const b = document.createElement('button');
+						b.type = 'button';
+						b.className = 'lb-thumb';
+						b.setAttribute('aria-label', `Photo ${k + 1} sur ${photos.length}`);
+						const v = document.createElement('img');
+						v.src = img.currentSrc || img.src;
+						v.alt = '';
+						v.loading = 'lazy';
+						v.decoding = 'async';
+						const w = Number(img.getAttribute('width'));
+						const h = Number(img.getAttribute('height'));
+						if (w && h) {
+							v.width = Math.round((64 * w) / h);
+							v.height = 64;
+						}
+						b.append(v);
+						b.addEventListener('click', () => { arreter(); afficher(k); });
+						strip.append(b);
+						return b;
+					});
+					strip.hidden = photos.length < 2;
+				}
+				function marquerVignette() {
+					vignettes.forEach((b, k) => {
+						const actif = k === courant;
+						b.classList.toggle('is-active', actif);
+						if (actif) b.setAttribute('aria-current', 'true');
+						else b.removeAttribute('aria-current');
+					});
+					const b = vignettes[courant];
+					if (b && !strip.hidden) {
+						strip.scrollTo({ left: b.offsetLeft - strip.clientWidth / 2 + b.offsetWidth / 2 });
+					}
+				}
+
+				function ouvrir(imgCliquee) {
 					declencheur = document.activeElement;
+					const { g, i } = groupeDe.get(imgCliquee);
+					if (g !== section || !vignettes.length) {
+						section = g;
+						photos = g.photos;
+						construireBande();
+					}
+					overlay.classList.add('is-open');
 					afficher(i);
 					overlay.classList.add('is-open');
 					overlay.setAttribute('aria-hidden', 'false');
@@ -377,18 +503,18 @@ const rubrique = categories.includes(JOURNEES) ? '/journees-paul-valery' : '/blo
 					(img === declencheur ? img : declencheur)?.focus?.({ preventScroll: true });
 				}
 
-				photos.forEach((img, i) => {
+				groupeDe.forEach(({ g, i }, img) => {
 					img.tabIndex = 0;
 					img.setAttribute('role', 'button');
-					img.setAttribute('aria-label', `Agrandir la photo ${i + 1} sur ${photos.length}`);
+					img.setAttribute('aria-label', `Agrandir la photo ${i + 1} sur ${g.photos.length}`);
 					img.addEventListener('click', (e) => {
 						e.preventDefault();
-						ouvrir(i);
+						ouvrir(img);
 					});
 					img.addEventListener('keydown', (e) => {
 						if (e.key === 'Enter' || e.key === ' ') {
 							e.preventDefault();
-							ouvrir(i);
+							ouvrir(img);
 						}
 					});
 				});
