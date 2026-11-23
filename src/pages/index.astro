@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { AUTEUR, MUSEE, SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import { estJournees, parDate, photoDeCouverture } from '../lib/rubriques';
 
 const posts = (await getCollection('blog')).sort(parDate);
@@ -23,13 +23,29 @@ const colonnes = [
 	},
 ];
 
+const jsonLd = {
+	'@context': 'https://schema.org',
+	'@type': 'WebSite',
+	name: SITE_TITLE,
+	url: new URL('/', Astro.site).href,
+	description: SITE_DESCRIPTION,
+	inLanguage: 'fr',
+	author: AUTEUR,
+	publisher: AUTEUR,
+	about: MUSEE,
+};
+
 const jourMois = (date: Date) => date.toLocaleDateString('fr-FR', { day: 'numeric', month: 'long' });
 ---
 
 <!doctype html>
 <html lang="fr">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<BaseHead
+			title="Musée Paul Valéry, Sète : expositions et Journées en photos"
+			description={SITE_DESCRIPTION}
+			jsonLd={jsonLd}
+		/>
 	</head>
 	<body>
 		<Header />
