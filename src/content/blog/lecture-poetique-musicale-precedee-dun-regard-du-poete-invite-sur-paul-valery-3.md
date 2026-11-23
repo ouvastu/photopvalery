@@ -6,13 +6,13 @@ categories:
 coverImage: "journees_paul_valery_2020_167.jpg"
 ---
 
-Le 27 septembre 2020, lors des **Journées Paul Valéry**, le poète **Laurent Grison** portait d'abord son regard sur Paul Valéry, puis donnait une lecture poétique musicale avec **Frédérique Sonnet** à la flûte traversière et à la voix. Dans le public, un dessinateur croquait la scène.
+Le 27 septembre 2020, lors des **Journées Paul Valéry**, le poète **Laurent Grison** portait d'abord son regard sur Paul Valéry, puis donnait une lecture poétique musicale avec **Frédérique Sonnet** à la flûte traversière et à la voix. Dans le public, le dessinateur Topolino (Marc Combas), frère cadet de Robert Combas, croquait la scène.
 
 Journées Paul Valéry, Sète 27 septembre 2020 / Photos Gilles Hutchinson
 
-<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_174.jpg" alt="Dans le public, un dessinateur croque Laurent Grison en pleine lecture — Lecture de Laurent Grison, Journées Paul Valéry, Sète, 27 septembre 2020 — © Gilles Hutchinson" loading="lazy" /><figcaption>Dans le public, un dessinateur croque Laurent Grison en pleine lecture — Lecture de Laurent Grison, Journées Paul Valéry, Sète, 27 septembre 2020 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_174.jpg" alt="Dans le public, le dessinateur Topolino (Marc Combas) croque Laurent Grison en pleine lecture — Lecture de Laurent Grison, Journées Paul Valéry, Sète, 27 septembre 2020 — © Gilles Hutchinson" loading="lazy" /><figcaption>Dans le public, le dessinateur Topolino (Marc Combas) croque Laurent Grison en pleine lecture — Lecture de Laurent Grison, Journées Paul Valéry, Sète, 27 septembre 2020 — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_173.jpg" alt="Le dessinateur poursuit son croquis, Laurent Grison et Frédérique Sonnet au fond — Lecture de Laurent Grison, Journées Paul Valéry, Sète, 27 septembre 2020 — © Gilles Hutchinson" loading="lazy" /><figcaption>Le dessinateur poursuit son croquis, Laurent Grison et Frédérique Sonnet au fond — Lecture de Laurent Grison, Journées Paul Valéry, Sète, 27 septembre 2020 — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/journees_paul_valery_2020_173.jpg" alt="Topolino poursuit son croquis, Laurent Grison et Frédérique Sonnet au fond — Lecture de Laurent Grison, Journées Paul Valéry, Sète, 27 septembre 2020 — © Gilles Hutchinson" loading="lazy" /><figcaption>Topolino poursuit son croquis, Laurent Grison et Frédérique Sonnet au fond — Lecture de Laurent Grison, Journées Paul Valéry, Sète, 27 septembre 2020 — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/journees_paul_valery_2020_172.jpg" alt="Livres et revues sur Paul Valéry présentés sur une table du musée — Lecture de Laurent Grison, Journées Paul Valéry, Sète, 27 septembre 2020 — © Gilles Hutchinson" loading="lazy" /><figcaption>Livres et revues sur Paul Valéry présentés sur une table du musée — Lecture de Laurent Grison, Journées Paul Valéry, Sète, 27 septembre 2020 — © Gilles Hutchinson</figcaption></figure>
 
