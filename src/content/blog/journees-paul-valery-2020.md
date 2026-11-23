@@ -9,24 +9,6 @@ Paul Valéry et les peintres
 
 Musée Paul Valéry, Sète le 25,26 et 27 septembre 2019
 
-<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-53.jpg" alt="Ouverture des Journées : François Commeinhes, maire de Sète, à la tribune, une intervenante au micro à ses côtés — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Ouverture des Journées : François Commeinhes, maire de Sète, à la tribune, une intervenante au micro à ses côtés — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-73.jpg" alt="Discours d'ouverture à la tribune, le public de dos au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Discours d'ouverture à la tribune, le public de dos au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-109.jpg" alt="Lecture poétique sous les parasols du jardin : Pilar González España au pupitre, Olivier-Roman Garcia à la guitare — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Lecture poétique sous les parasols du jardin : Pilar González España au pupitre, Olivier-Roman Garcia à la guitare — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-125.jpg" alt="Bernard Vouilloux, cheveux blancs, parle au micro pendant sa conférence sur Valéry et les peintres — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Bernard Vouilloux, cheveux blancs, parle au micro pendant sa conférence sur Valéry et les peintres — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-57.jpg" alt="Un visiteur en veste rouge feuillette les livres de la table de vente, entouré d'invités — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Un visiteur en veste rouge feuillette les livres de la table de vente, entouré d'invités — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-60.jpg" alt="Les invités réunis sous les parasols du jardin pour l'ouverture — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Les invités réunis sous les parasols du jardin pour l'ouverture — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-65.jpg" alt="Invités en conversation dans le hall du musée avant l'ouverture — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Invités en conversation dans le hall du musée avant l'ouverture — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-66.jpg" alt="Invités debout dans une salle du musée, un sac de la librairie à la main — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Invités debout dans une salle du musée, un sac de la librairie à la main — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/journees-paul-valery-2020-49.jpg" alt="La tribune d'ouverture vue du fond de la salle, un spectateur en veste rouge au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>La tribune d'ouverture vue du fond de la salle, un spectateur en veste rouge au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
-
 <!--more-->
 
 * * *

@@ -8,29 +8,9 @@ categories:
 coverImage: "dsf7899.jpg"
 ---
 
-<figure class="photo-figure"><img src="/images/dsf7693.jpg" alt="Un homme parle au micro devant la baie vitrée, un homme aux cheveux gris assis dans un fauteuil — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>Un homme parle au micro devant la baie vitrée, un homme aux cheveux gris assis dans un fauteuil — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson</figcaption></figure>
-
 <h2 class="section-photos" id="salles" data-lien="/blog/les-salles-de-lexposition-robert-combas-chante-sete-et-brassens-au-musee-paul-valery/">Les salles du musée</h2>
 
 <p class="section-photos-renvoi">Les salles de l'exposition font l'objet d'un reportage séparé : <a href="/blog/les-salles-de-lexposition-robert-combas-chante-sete-et-brassens-au-musee-paul-valery/">voir les salles de l'exposition Robert Combas</a>.</p>
-
-<h2 class="section-photos" id="temps-forts">Temps forts</h2>
-
-<figure class="photo-figure"><img src="/images/dsf7715.jpg" alt="La salle de rencontre pleine, une caméra de télévision au fond — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>La salle de rencontre pleine, une caméra de télévision au fond — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/dsf7753.jpg" alt="Un homme aux cheveux gris en veste noire montre une toile très colorée à des journalistes munis de micros — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>Un homme aux cheveux gris en veste noire montre une toile très colorée à des journalistes munis de micros — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/dsf7772.jpg" alt="L'homme en veste noire désigne du doigt une grande toile aux poissons, une caméra derrière lui — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme en veste noire désigne du doigt une grande toile aux poissons, une caméra derrière lui — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/dsf7848_1.jpg" alt="L'homme en veste noire pose devant l'affiche « Robert Combas chante Sète et Georges Brassens » — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme en veste noire pose devant l'affiche « Robert Combas chante Sète et Georges Brassens » — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/dsf7973.jpg" alt="L'homme en veste noire, bras tendu, devant une toile fleurie, journalistes autour de lui — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme en veste noire, bras tendu, devant une toile fleurie, journalistes autour de lui — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/dsf7907.jpg" alt="Le public descend l'escalier du musée, un homme en costume en tête — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>Le public descend l'escalier du musée, un homme en costume en tête — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/dsf7959.jpg" alt="L'homme en veste noire montre la toile aux poissons à un homme en polo bleu — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme en veste noire montre la toile aux poissons à un homme en polo bleu — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/dsf7967.jpg" alt="L'homme en veste noire pointe la toile, un cameraman le filme — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme en veste noire pointe la toile, un cameraman le filme — Exposition Robert Combas « chante » Sète et Brassens, presse et vernissage, musée Paul Valéry, Sète, octobre 2021 — © Gilles Hutchinson</figcaption></figure>
 
 <!--more-->
 

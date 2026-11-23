@@ -8,24 +8,6 @@ coverImage: "mg_3988-.jpg"
 
 Sète, le 9 juin 2021
 
-<figure class="photo-figure"><img src="/images/dsf4602-panorama-hutchinson.jpg" alt="Toile aborigène aux motifs ocre et verts sur mur orange, toile rose sur cloison blanche — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>Toile aborigène aux motifs ocre et verts sur mur orange, toile rose sur cloison blanche — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/dsf4587-panorama-3-hutchinson.jpg" alt="Salle aux cloisons orange et ocre, toiles à points colorés et banc — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salle aux cloisons orange et ocre, toiles à points colorés et banc — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/dsf4600-panorama-hutchinson.jpg" alt="Toile rose à points sur cloison blanche, toile verte au fond — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>Toile rose à points sur cloison blanche, toile verte au fond — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/mg_3990-.jpg" alt="Grande toile rose et violette sur cloison ocre, petites toiles alignées — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>Grande toile rose et violette sur cloison ocre, petites toiles alignées — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/dsf4632-hutchinson.jpg" alt="Enfilade de cloisons, toile sombre éclairée sur mur ocre — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>Enfilade de cloisons, toile sombre éclairée sur mur ocre — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/dsf4617-panorama-hutchinson.jpg" alt="Toiles à motifs sur cloisons blanches, toile violette au fond — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>Toiles à motifs sur cloisons blanches, toile violette au fond — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/dsf4607-panorama-hutchinson.jpg" alt="Toile verte, toile rose et toile violette sur murs et cloisons blancs — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>Toile verte, toile rose et toile violette sur murs et cloisons blancs — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/dsf4593-hutchinson.jpg" alt="Toiles aux motifs verts et bleus sur murs orange — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>Toiles aux motifs verts et bleus sur murs orange — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/dsf4649-hutchinson.jpg" alt="Toile violette rayonnante et petites toiles sur mur ocre — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>Toile violette rayonnante et petites toiles sur mur ocre — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson</figcaption></figure>
-
 <!--more-->
 
 <figure class="photo-figure"><img src="/images/dsf4570-hutchinson.jpg" alt="Grande toile aux motifs entrelacés sur cloison ocre, visiteuses au fond — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson" loading="lazy" /><figcaption>Grande toile aux motifs entrelacés sur cloison ocre, visiteuses au fond — Exposition « L'art aborigène », musée Paul Valéry, Sète, juin 2021 — © Gilles Hutchinson</figcaption></figure>
