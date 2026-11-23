@@ -470,13 +470,15 @@ Visite commentée du fonds Paul Valéry (acquisitions récentes)
 
 * * *
 
-Lettres de Paul Valéry à sa fille Agathe
+Table ronde : Lettres de Paul Valéry à sa fille Agathe
 
-Michel Jarrety, et les enfants d’Agathe : Martine Boivin-Champeaux et Vincent Rouart
+Samedi 28 septembre, de 18 h à 19 h
+
+Avec Michel Jarrety, et les enfants d’Agathe : Martine Boivin-Champeaux et Vincent Rouart
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-294.jpg" alt="Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart assis face au public — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart assis face au public — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/carlo-cattaneo-295.jpg" alt="Lettres de Paul Valéry à sa fille Agathe : Michel Jarrety avec Martine Boivin-Champeaux et Vincent Rouart, enfants d'Agathe, vus depuis la salle — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Lettres de Paul Valéry à sa fille Agathe : Michel Jarrety avec Martine Boivin-Champeaux et Vincent Rouart, enfants d'Agathe, vus depuis la salle — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
+<figure class="photo-figure"><img src="/images/carlo-cattaneo-295.jpg" alt="Table ronde « Lettres de Paul Valéry à sa fille Agathe » : Michel Jarrety avec Martine Boivin-Champeaux et Vincent Rouart, enfants d'Agathe, vus depuis la salle — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Table ronde « Lettres de Paul Valéry à sa fille Agathe » : Michel Jarrety avec Martine Boivin-Champeaux et Vincent Rouart, enfants d'Agathe, vus depuis la salle — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/carlo-cattaneo-296.jpg" alt="Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart, le public au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Martine Boivin-Champeaux, Michel Jarrety et Vincent Rouart, le public au premier plan — Journées Paul Valéry 2019, Sète — © Gilles Hutchinson</figcaption></figure>
 
