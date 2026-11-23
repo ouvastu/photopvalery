@@ -79,7 +79,7 @@ export function ajouterSommaire(html, lirePage) {
 	const [, ouverture, fermeture] = html.match(EMPLACEMENT);
 	const sans = html.replace(EMPLACEMENT, "");
 	const i = sans.search(/<h2 class="section-photos"/);
-	return sans.slice(0, i) + `${ouverture}<p class="sommaire-intro">Dans ce reportage</p><div class="sommaire-cartes">${cartes.join("")}</div>${fermeture}` + sans.slice(i);
+	return sans.slice(0, i) + `${ouverture}<p class="sommaire-intro">Les photographies</p><div class="sommaire-cartes">${cartes.join("")}</div>${fermeture}` + sans.slice(i);
 }
 
 function fichiersHtml(dossier) {
