@@ -10,15 +10,15 @@ Salle jaune et banc, la toile des baigneurs sur une cloison blanche
 La toile des baigneurs à droite, banc jaune et fenêtre au fond
 Salle au mur jaune : portrait d'homme et petites toiles sur les cloisons
 Mur jaune avec deux portraits, cloison blanche et dessins à droite
-Tableau de nu de dos sur une cloison, enfilade de murs jaunes
-Le nu de dos sur cloison blanche, deux tableaux sur le mur jaune
+Le nu de dos d’Edgar Degas sur une cloison, enfilade de murs jaunes
+Le nu de dos de Degas sur cloison blanche, deux tableaux sur le mur jaune
 Grand paysage marin sombre et petite marine encadrée sur le mur blanc
-Le nu de dos sur sa cloison, cadres et mur jaune au fond
-Paysage vénitien à gauche, mur jaune et nu de dos au centre
-Mur jaune aux deux tableaux de nus, le nu de dos sur une cloison
+Le nu de Degas sur sa cloison, cadres et mur jaune au fond
+Paysage vénitien à gauche, mur jaune et nu de Degas au centre
+Mur jaune aux deux tableaux de nus, le nu de Degas sur une cloison
 Salle aux petits tableaux en ligne, banc jaune et cloison jaune
 Petits formats alignés et danseuse sur la cloison jaune, banc au premier plan
-Le nu de dos au premier plan, une visiteuse floue passe dans la salle
+Le nu de Degas au premier plan, une visiteuse floue passe dans la salle
 Deux tableaux de nus colorés sur le mur jaune, une visiteuse au fond
 Deux visiteurs debout dans la salle jaune, banc au centre
 Grand tableau sombre d'un personnage, mur jaune et nus à droite
@@ -39,9 +39,9 @@ Tableau coloré de femmes au salon sur une cloison, salle bleue au fond
 Le tableau des femmes au salon et un portrait de femme en bleu
 Le tableau des femmes au salon de plus près, cloisons jaunes au fond
 Tableau sur une cloison, dessins sur le mur bleu
-Nature morte colorée sur cloison blanche, salle bleue en perspective
+Guitare sur un tapis rouge de Pablo Picasso sur cloison blanche, salle bleue en perspective
 Dessin encadré au premier plan, tableaux sur les murs bleus
-Petite nature morte et tableaux sur fond bleu et blanc
+Guitare sur un tapis rouge de Picasso au centre, petits tableaux sur fond bleu et blanc
 Portrait de femme d’Henri Matisse, chapeau et étole noirs, robe violette sur fond bleu ; au fond, la Sainte Agathe de Zurbarán dans son cadre cintré
 Visiteuses devant la cloison jaune, tableaux dans leurs cadres dorés
 Visiteurs dans la salle jaune, grand tableau sombre sur le mur blanc
@@ -49,8 +49,8 @@ Dessins et gravures encadrés sur le mur jaune
 Dessins encadrés sur le mur jaune et une cloison blanche
 Un visiteur regarde les dessins sur le mur jaune
 Tableau sombre, nu allongé dans un cadre doré et mur jaune au fond
-Salle jaune et cloison blanche, petits tableaux et salle bleue au fond
-Murs jaunes, un visiteur au loin dans l'enfilade
+Salle jaune et cloison blanche, petits tableaux, la Sainte Agathe de Zurbarán à droite, salle bleue au fond
+Murs jaunes, la Sainte Agathe de Zurbarán à droite, un visiteur au loin dans l’enfilade
 Une visiteuse devant des dessins sur le mur jaune
 Cloisons blanches et texte de salle, salle bleue au fond
 Cloisons et dessins encadrés, un visiteur dans la salle bleue au loin
@@ -68,7 +68,7 @@ Presse : silhouettes de journalistes à contre-jour, un tableau rouge au mur
 Quatre visiteuses de dos devant un grand tableau sur le mur jaune
 Une visiteuse devant la salle bleue, deux femmes avancent un document à la main
 Un cameraman filme les tableaux, deux journalistes à côté de lui
-Une journaliste regarde un portrait d'homme et un portrait de fillette
+Une journaliste regarde deux Renoir : le Portrait de Stéphane Mallarmé et Julie Manet ou L’Enfant au chat
 Journalistes masqués devant les portraits du mur jaune
 Groupe de presse dans la salle jaune, une femme en veste orangée
 Les journalistes alignés le long du mur jaune
@@ -116,8 +116,8 @@ Un homme à l’écharpe assis sur un muret près du buffet, un livre à la main
 Invités debout dans l'allée près de tables hautes
 Trois visiteurs regardent un tableau de pont sur le mur bleu
 Trois visiteurs de dos devant un tableau rouge et or
-Visiteurs devant une nature morte cubiste, un homme en jaune
+Visiteurs devant Guitare sur un tapis rouge de Picasso, un homme en jaune
 Une visiteuse en jaune lève la main vers un tableau, un homme à côté
 Visiteurs dans la salle jaune devant de petits tableaux
 Quatre visiteurs devant des portraits sur le mur jaune
-Trois visiteurs devant des portraits sur le mur blanc
+Trois visiteurs devant le Portrait de Stéphane Mallarmé et L’Enfant au chat de Renoir
