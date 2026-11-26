@@ -12,11 +12,231 @@ Le thème de cette édition était :
 
 > **« Paul Valéry et la génération surréaliste »**
 
-Le reportage suit la journée du dimanche 6 octobre, séance par séance, de la conférence du matin au spectacle du soir. Choisissez une séance dans le sommaire ci-dessous pour en voir les photos.
+Le reportage suit les deux journées, samedi 5 et dimanche 6 octobre, séance par séance, de l’ouverture officielle au spectacle du dimanche soir. Choisissez une séance dans le sommaire ci-dessous pour en voir les photos.
 
 _Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, octobre 2024._
 
 <!--more-->
+
+<h2 class="section-photos" id="ouverture">Ouverture des Journées</h2>
+
+_Ouverture officielle par François Commeinhes, maire de Sète, puis café dans le patio — samedi 5 octobre, 10 h_
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-001.webp" alt="Deux visiteuses lisent le programme sur le banc rouge du patio du musée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Deux visiteuses lisent le programme sur le banc rouge du patio du musée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-002.webp" alt="Le patio du musée au matin : galerie vitrée, bassin et massifs de plantes — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Le patio du musée au matin : galerie vitrée, bassin et massifs de plantes — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-003.webp" alt="Ouverture officielle : un intervenant au pupitre transparent, le public de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Ouverture officielle : un intervenant au pupitre transparent, le public de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-004.webp" alt="Deux intervenants au pupitre devant l'affiche des Journées, la salle encore en train de se remplir — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Deux intervenants au pupitre devant l'affiche des Journées, la salle encore en train de se remplir — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-005.webp" alt="Les deux intervenants sur l'estrade, l'un au micro, l'autre en écharpe à motifs — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Les deux intervenants sur l'estrade, l'un au micro, l'autre en écharpe à motifs — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-007.webp" alt="L'estrade et le grand tableau d'atelier au cadre doré, les deux intervenants au pupitre — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>L'estrade et le grand tableau d'atelier au cadre doré, les deux intervenants au pupitre — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-008.webp" alt="Les deux intervenants au pupitre à côté du tableau aux deux figures nues — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Les deux intervenants au pupitre à côté du tableau aux deux figures nues — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-009.webp" alt="Café sous la galerie du patio, visiteurs debout et assis sur les banquettes blanches — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Café sous la galerie du patio, visiteurs debout et assis sur les banquettes blanches — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-010.webp" alt="Conversations dans le patio ensoleillé, fauteuils rouges au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Conversations dans le patio ensoleillé, fauteuils rouges au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-011.webp" alt="Un groupe en conversation autour de la table des boissons, dont un homme à l'écharpe bleue — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Un groupe en conversation autour de la table des boissons, dont un homme à l'écharpe bleue — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-012.webp" alt="L'homme à l'écharpe bleue et ses interlocuteurs, le profil d'une femme au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme à l'écharpe bleue et ses interlocuteurs, le profil d'une femme au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-013.webp" alt="Trois hommes en conversation à l'ombre de la galerie, l'un en casquette — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Trois hommes en conversation à l'ombre de la galerie, l'un en casquette — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-014.webp" alt="L'homme à l'écharpe bleue sourit, entre un homme à lunettes et un homme en casquette — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme à l'écharpe bleue sourit, entre un homme à lunettes et un homme en casquette — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-015.webp" alt="La conversation continue, une femme en doudoune turquoise s'est jointe au groupe — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>La conversation continue, une femme en doudoune turquoise s'est jointe au groupe — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<h2 class="section-photos" id="agora-lyceenne">« Agora lycéenne »</h2>
+
+_Avec Philippe Vergès, Ludivine Fanton et les élèves de terminale « Humanités, littérature, philosophie » — samedi 5 octobre, 11 h, lycée Paul Valéry_
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-016.webp" alt="Dans la cour du lycée Paul Valéry, le public se rassemble au soleil, programmes à la main — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Dans la cour du lycée Paul Valéry, le public se rassemble au soleil, programmes à la main — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-017.webp" alt="Lycéens et visiteurs en cercle dans la cour, devant le bâtiment aux auvents en fonte — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Lycéens et visiteurs en cercle dans la cour, devant le bâtiment aux auvents en fonte — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-018.webp" alt="Lecture debout dans la cour, textes en main, en contre-jour — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Lecture debout dans la cour, textes en main, en contre-jour — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-019.webp" alt="Un homme en pull rouge et une femme en veste bleue lisent dans la cour — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Un homme en pull rouge et une femme en veste bleue lisent dans la cour — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-020.webp" alt="L'Agora lycéenne : élèves et public assis en cercle, textes à la main — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>L'Agora lycéenne : élèves et public assis en cercle, textes à la main — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-021.webp" alt="Le grand cercle de chaises, lycéens et visiteurs mêlés, vue d'ensemble — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Le grand cercle de chaises, lycéens et visiteurs mêlés, vue d'ensemble — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-022.webp" alt="Le cercle de l'Agora, un lycéen en sweat vert à l'arrière-plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Le cercle de l'Agora, un lycéen en sweat vert à l'arrière-plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-023.webp" alt="Un homme en veste beige parle debout au milieu du cercle, sous une toile colorée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Un homme en veste beige parle debout au milieu du cercle, sous une toile colorée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-024.webp" alt="L'homme en veste beige s'adresse à l'assistance, une femme au foulard rose écoute — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme en veste beige s'adresse à l'assistance, une femme au foulard rose écoute — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-025.webp" alt="L'homme en veste beige, debout, face aux rangs de l'Agora — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme en veste beige, debout, face aux rangs de l'Agora — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-026.webp" alt="Échange dans le cercle : une femme au foulard rose et ses voisins, textes en main — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Échange dans le cercle : une femme au foulard rose et ses voisins, textes en main — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-027.webp" alt="Vue plongeante sur l'Agora, la toile colorée au mur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Vue plongeante sur l'Agora, la toile colorée au mur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-028.webp" alt="Fin de l'Agora : conversations debout autour de la table des boissons — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Fin de l'Agora : conversations debout autour de la table des boissons — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<h2 class="section-photos" id="introduction-breton">Paul Valéry, une introduction à André Breton et au surréalisme</h2>
+
+_Conférence de Georges Sebbag — samedi 5 octobre, 14 h 30_
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-029.webp" alt="Georges Sebbag à sa table devant l'affiche des Journées, la salle comble de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag à sa table devant l'affiche des Journées, la salle comble de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-030.webp" alt="Georges Sebbag au micro, l'affiche à la flamme orange derrière lui — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag au micro, l'affiche à la flamme orange derrière lui — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-031.webp" alt="Georges Sebbag au fond de la salle, entre l'affiche et le tableau d'intérieur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag au fond de la salle, entre l'affiche et le tableau d'intérieur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-032.webp" alt="Georges Sebbag à sa table, à gauche du grand tableau d'atelier au cadre doré — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag à sa table, à gauche du grand tableau d'atelier au cadre doré — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-033.webp" alt="La salle comble face à Georges Sebbag, l'affiche et le tableau d'atelier au fond — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>La salle comble face à Georges Sebbag, l'affiche et le tableau d'atelier au fond — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-034.webp" alt="Georges Sebbag au loin, un spectateur au crâne rasé au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag au loin, un spectateur au crâne rasé au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-035.webp" alt="Vue d'ensemble de la salle pendant la conférence, deux grands tableaux au mur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Vue d'ensemble de la salle pendant la conférence, deux grands tableaux au mur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-036.webp" alt="La conférence vue du fond, la salle pleine sous les tableaux — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>La conférence vue du fond, la salle pleine sous les tableaux — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-037.webp" alt="Georges Sebbag à côté du tableau aux deux figures nues — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag à côté du tableau aux deux figures nues — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-038.webp" alt="Georges Sebbag de dos à sa table, face au public assis sous les tableaux — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag de dos à sa table, face au public assis sous les tableaux — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-039.webp" alt="Georges Sebbag parle, la main levée, face à la salle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag parle, la main levée, face à la salle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-040.webp" alt="Georges Sebbag au micro en gros plan, un tableau sombre au mur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag au micro en gros plan, un tableau sombre au mur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-041.webp" alt="Georges Sebbag, la main tendue vers le public — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag, la main tendue vers le public — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-042.webp" alt="Georges Sebbag, la main levée, devant les deux tableaux — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag, la main levée, devant les deux tableaux — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-001.webp" alt="Georges Sebbag face au public, vue en enfilade de la salle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag face au public, vue en enfilade de la salle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-002.webp" alt="Georges Sebbag de profil, le public attentif au premier rang — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag de profil, le public attentif au premier rang — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-003.webp" alt="Georges Sebbag lève la main, les auditeurs du premier rang en face — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag lève la main, les auditeurs du premier rang en face — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-004.webp" alt="Georges Sebbag, la main ouverte, le public en face — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag, la main ouverte, le public en face — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-005.webp" alt="Georges Sebbag, la main tendue, un auditeur debout au fond — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag, la main tendue, un auditeur debout au fond — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-006.webp" alt="Georges Sebbag en plan rapproché, la main levée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag en plan rapproché, la main levée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-007.webp" alt="Georges Sebbag de profil, la main tendue vers la salle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag de profil, la main tendue vers la salle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<h2 class="section-photos" id="poesies-en-dialogue">Poésies en dialogue : Breton-Valéry</h2>
+
+_Lecture musicale par Irène Jacob (comédienne), Françoise Duffaud et Bertrand Mahieu (violons) — samedi 5 octobre, 16 h_
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-008.webp" alt="Poésies en dialogue : Irène Jacob et les deux violonistes devant la salle comble — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Poésies en dialogue : Irène Jacob et les deux violonistes devant la salle comble — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-009.webp" alt="La lecture musicale vue du fond de la salle, l'affiche et le tableau d'atelier — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>La lecture musicale vue du fond de la salle, l'affiche et le tableau d'atelier — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-010.webp" alt="Irène Jacob au pupitre, la salle pleine au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Irène Jacob au pupitre, la salle pleine au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-011.webp" alt="Irène Jacob et les violonistes sur l'estrade, vue plus serrée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Irène Jacob et les violonistes sur l'estrade, vue plus serrée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-012.webp" alt="La salle comble pendant la lecture, vue latérale — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>La salle comble pendant la lecture, vue latérale — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-013.webp" alt="Irène Jacob lit, la violoniste à côté d'elle, le public au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Irène Jacob lit, la violoniste à côté d'elle, le public au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-014.webp" alt="Irène Jacob au pupitre, les deux violonistes jouent devant le tableau d'atelier — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Irène Jacob au pupitre, les deux violonistes jouent devant le tableau d'atelier — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-015.webp" alt="Irène Jacob lit au pupitre, les violonistes derrière elle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Irène Jacob lit au pupitre, les violonistes derrière elle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-016.webp" alt="Irène Jacob, la feuille à la main, les deux musiciens au fond — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Irène Jacob, la feuille à la main, les deux musiciens au fond — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-017.webp" alt="L'estrade de profil : Irène Jacob et les violonistes, la salle à droite — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>L'estrade de profil : Irène Jacob et les violonistes, la salle à droite — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-018.webp" alt="Irène Jacob au micro, les violonistes en arrière-plan, le public sur le côté — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Irène Jacob au micro, les violonistes en arrière-plan, le public sur le côté — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-019.webp" alt="Irène Jacob lit, les deux violonistes jouent, vue de biais — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Irène Jacob lit, les deux violonistes jouent, vue de biais — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-020.webp" alt="Irène Jacob au micro, la violoniste et le violoniste derrière elle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Irène Jacob au micro, la violoniste et le violoniste derrière elle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-021.webp" alt="Irène Jacob, feuilles en main, les musiciens en arrière-plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Irène Jacob, feuilles en main, les musiciens en arrière-plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-022.webp" alt="Irène Jacob dit un poème, la main ouverte, devant le tableau d'atelier — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Irène Jacob dit un poème, la main ouverte, devant le tableau d'atelier — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-023.webp" alt="Irène Jacob, la main levée, la violoniste à côté d'elle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Irène Jacob, la main levée, la violoniste à côté d'elle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-024.webp" alt="Irène Jacob au pupitre, les deux violonistes devant le tableau — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Irène Jacob au pupitre, les deux violonistes devant le tableau — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-025.webp" alt="Irène Jacob, la violoniste et le violoniste côte à côte — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Irène Jacob, la violoniste et le violoniste côte à côte — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-026.webp" alt="Le trio sur l'estrade, vue plus large — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Le trio sur l'estrade, vue plus large — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-027.webp" alt="La salle comble et l'estrade de la lecture musicale, vue du fond — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>La salle comble et l'estrade de la lecture musicale, vue du fond — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-028.webp" alt="Fin de la lecture, le trio sur l'estrade et le public au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Fin de la lecture, le trio sur l'estrade et le public au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<h2 class="section-photos" id="assez-dada">« Ai-je été assez dada ! » La tentation de la transgression chez Valéry</h2>
+
+_Conférence de Rémi Furlanetto — samedi 5 octobre, 17 h 30_
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-029.webp" alt="Rémi Furlanetto à sa table devant l'affiche des Journées, ordinateur ouvert — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Rémi Furlanetto à sa table devant l'affiche des Journées, ordinateur ouvert — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-030.webp" alt="Rémi Furlanetto lit ses notes devant l'affiche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Rémi Furlanetto lit ses notes devant l'affiche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-031.webp" alt="Rémi Furlanetto au micro, l'affiche à la flamme orange à gauche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Rémi Furlanetto au micro, l'affiche à la flamme orange à gauche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-032.webp" alt="Rémi Furlanetto à sa table, à côté du grand tableau d'atelier — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Rémi Furlanetto à sa table, à côté du grand tableau d'atelier — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-033.webp" alt="Rémi Furlanetto en plan rapproché, les mains ouvertes — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Rémi Furlanetto en plan rapproché, les mains ouvertes — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-034.webp" alt="Rémi Furlanetto parle, le tableau d'atelier derrière lui — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Rémi Furlanetto parle, le tableau d'atelier derrière lui — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-035.webp" alt="Rémi Furlanetto, les mains jointes, devant le tableau d'atelier — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Rémi Furlanetto, les mains jointes, devant le tableau d'atelier — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-036.webp" alt="Rémi Furlanetto face au public, vue en enfilade — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Rémi Furlanetto face au public, vue en enfilade — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-037.webp" alt="Rémi Furlanetto et la salle de la conférence, vue latérale — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Rémi Furlanetto et la salle de la conférence, vue latérale — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-038.webp" alt="Rémi Furlanetto entre le tableau sombre et le tableau aux deux figures nues — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Rémi Furlanetto entre le tableau sombre et le tableau aux deux figures nues — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-039.webp" alt="Rémi Furlanetto de profil devant le tableau aux deux figures — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Rémi Furlanetto de profil devant le tableau aux deux figures — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-040.webp" alt="Rémi Furlanetto au micro sous le tableau aux deux figures nues — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Rémi Furlanetto au micro sous le tableau aux deux figures nues — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-041.webp" alt="Rémi Furlanetto parle, la main ouverte, sous le tableau aux deux figures — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Rémi Furlanetto parle, la main ouverte, sous le tableau aux deux figures — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-042.webp" alt="Rémi Furlanetto sourit, le tableau aux deux figures derrière lui — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Rémi Furlanetto sourit, le tableau aux deux figures derrière lui — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-043.webp" alt="Rémi Furlanetto à sa table, le public au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Rémi Furlanetto à sa table, le public au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-044.webp" alt="La conférence vue de la salle, les deux grands tableaux au mur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>La conférence vue de la salle, les deux grands tableaux au mur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-045.webp" alt="Rémi Furlanetto au loin, les spectateurs de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Rémi Furlanetto au loin, les spectateurs de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<h2 class="section-photos" id="cours-de-poetique">Le Cours de poétique de Paul Valéry</h2>
+
+_Discussion avec William Marx, lecture d’extraits par Jean-Marie Winling (comédien) — samedi 5 octobre, 20 h 30_
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-046.webp" alt="Le Cours de poétique : le lecteur à sa table et deux invités dans les fauteuils — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Le Cours de poétique : le lecteur à sa table et deux invités dans les fauteuils — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-047.webp" alt="La soirée vue de la salle, l'affiche et le tableau d'atelier au fond — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>La soirée vue de la salle, l'affiche et le tableau d'atelier au fond — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-048.webp" alt="Le lecteur à sa table et les deux invités, vue plus serrée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Le lecteur à sa table et les deux invités, vue plus serrée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-049.webp" alt="Le lecteur à sa table, un livre en main ; l'invité à l'écharpe orange parle, l'invité en veste beige écoute — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Le lecteur à sa table, un livre en main ; l'invité à l'écharpe orange parle, l'invité en veste beige écoute — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-050.webp" alt="L'invité à l'écharpe orange au micro, entre le lecteur et l'invité en veste beige — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>L'invité à l'écharpe orange au micro, entre le lecteur et l'invité en veste beige — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-051.webp" alt="L'invité à l'écharpe orange, la main tendue, pendant la discussion — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>L'invité à l'écharpe orange, la main tendue, pendant la discussion — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-052.webp" alt="Le lecteur à sa table, les deux invités écoutent — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Le lecteur à sa table, les deux invités écoutent — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-053.webp" alt="Le lecteur lit, les deux invités dans leurs fauteuils — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Le lecteur lit, les deux invités dans leurs fauteuils — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-054.webp" alt="Les deux invités dans leurs fauteuils, le lecteur de dos au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Les deux invités dans leurs fauteuils, le lecteur de dos au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-055.webp" alt="L'invité à l'écharpe orange au micro, le lecteur de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>L'invité à l'écharpe orange au micro, le lecteur de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-056.webp" alt="Les trois intervenants devant le tableau aux deux figures nues — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Les trois intervenants devant le tableau aux deux figures nues — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam2-057.webp" alt="Les trois intervenants sous le tableau aux deux figures, vue un peu plus large — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Les trois intervenants sous le tableau aux deux figures, vue un peu plus large — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <h2 class="section-photos" id="un-pour-tous">Un pour tous, tous contre un : Paul Valéry face à l’engagement poétique des surréalistes</h2>
 
