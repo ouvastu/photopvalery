@@ -24,131 +24,69 @@ _Conférence de Franck Salaün — dimanche 6 octobre, 10 h_
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-001.webp" alt="Franck Salaün à sa table devant l'affiche des Journées, le public de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün à sa table devant l'affiche des Journées, le public de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/jpv2024-1-002.webp" alt="Franck Salaün et l'écran de projection au-dessus du public, vue en contre-jour — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün et l'écran de projection au-dessus du public, vue en contre-jour — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
 <figure class="photo-figure"><img src="/images/jpv2024-1-003.webp" alt="Franck Salaün dans l'autre axe de la salle, l'affiche et l'écran à droite — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün dans l'autre axe de la salle, l'affiche et l'écran à droite — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-1-004.webp" alt="Franck Salaün devant l'affiche des Journées, rangs de spectateurs au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün devant l'affiche des Journées, rangs de spectateurs au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-005.webp" alt="Franck Salaün à sa table, à côté du grand tableau mythologique au cadre doré — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün à sa table, à côté du grand tableau mythologique au cadre doré — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/jpv2024-1-006.webp" alt="Franck Salaün lève les yeux de ses notes, le grand tableau doré à gauche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün lève les yeux de ses notes, le grand tableau doré à gauche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
 <figure class="photo-figure"><img src="/images/jpv2024-1-007.webp" alt="Franck Salaün lève la main droite, devant le tableau aux deux figures nues — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün lève la main droite, devant le tableau aux deux figures nues — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-1-008.webp" alt="Franck Salaün, la main levée, vue un peu plus serrée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, la main levée, vue un peu plus serrée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-009.webp" alt="Franck Salaün, main ouverte, à côté du tableau mythologique — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, main ouverte, à côté du tableau mythologique — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/jpv2024-1-010.webp" alt="Franck Salaün parle en tendant la main, le tableau à gauche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün parle en tendant la main, le tableau à gauche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
 <figure class="photo-figure"><img src="/images/jpv2024-1-011.webp" alt="Franck Salaün au micro, en gros plan, le cadre doré à gauche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün au micro, en gros plan, le cadre doré à gauche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-1-012.webp" alt="Franck Salaün au micro, la main tendue, vue rapprochée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün au micro, la main tendue, vue rapprochée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-013.webp" alt="Franck Salaün ouvre les mains devant son ordinateur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün ouvre les mains devant son ordinateur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/jpv2024-1-014.webp" alt="Franck Salaün, bouche ouverte, les mains ouvertes vers le public — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, bouche ouverte, les mains ouvertes vers le public — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
 <figure class="photo-figure"><img src="/images/jpv2024-1-015.webp" alt="Franck Salaün de profil devant le tableau mythologique flou — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün de profil devant le tableau mythologique flou — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-1-016.webp" alt="Franck Salaün, la main sur la poitrine, devant le tableau flou — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, la main sur la poitrine, devant le tableau flou — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-017.webp" alt="Franck Salaün explique, les deux mains ouvertes, devant le tableau — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün explique, les deux mains ouvertes, devant le tableau — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/jpv2024-1-018.webp" alt="Franck Salaün, regard vers la salle, mains ouvertes, vue serrée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, regard vers la salle, mains ouvertes, vue serrée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
 <figure class="photo-figure"><img src="/images/jpv2024-1-019.webp" alt="Franck Salaün assis à sa table, le grand tableau doré derrière lui — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün assis à sa table, le grand tableau doré derrière lui — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-1-020.webp" alt="Franck Salaün à sa table, vue de face un peu plus large — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün à sa table, vue de face un peu plus large — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-021.webp" alt="Franck Salaün sourit, la main tendue, devant le tableau flou — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün sourit, la main tendue, devant le tableau flou — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/jpv2024-1-022.webp" alt="Franck Salaün explique, la main ouverte, cadrage serré — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün explique, la main ouverte, cadrage serré — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
 <figure class="photo-figure"><img src="/images/jpv2024-1-023.webp" alt="Franck Salaün à sa table vu du fond de la salle, l'affiche des Journées à droite — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün à sa table vu du fond de la salle, l'affiche des Journées à droite — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-1-024.webp" alt="Franck Salaün vu du fond de la salle, haut-parleur et fenêtre à gauche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün vu du fond de la salle, haut-parleur et fenêtre à gauche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-025.webp" alt="Franck Salaün dans la lumière chaude, devant l'affiche des Journées — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün dans la lumière chaude, devant l'affiche des Journées — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/jpv2024-1-026.webp" alt="Franck Salaün et l'affiche, rangées de spectateurs, cadrage voisin — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün et l'affiche, rangées de spectateurs, cadrage voisin — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
 <figure class="photo-figure"><img src="/images/jpv2024-1-027.webp" alt="Franck Salaün à son ordinateur, le public de dos au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün à son ordinateur, le public de dos au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-1-028.webp" alt="Franck Salaün lève les yeux vers la salle, fenêtre à gauche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün lève les yeux vers la salle, fenêtre à gauche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-029.webp" alt="Franck Salaün parle, la main tendue, public au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün parle, la main tendue, public au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/jpv2024-1-030.webp" alt="Franck Salaün fait un geste de la main gauche, public de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün fait un geste de la main gauche, public de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
 <figure class="photo-figure"><img src="/images/jpv2024-1-031.webp" alt="Franck Salaün regarde la salle, les mains sur la table — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün regarde la salle, les mains sur la table — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-1-032.webp" alt="Franck Salaün parle, la tête légèrement inclinée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün parle, la tête légèrement inclinée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-033.webp" alt="Franck Salaün lève l'index — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün lève l'index — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/jpv2024-1-034.webp" alt="Franck Salaün, l'index levé, vue un peu plus serrée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, l'index levé, vue un peu plus serrée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
 <figure class="photo-figure"><img src="/images/jpv2024-1-035.webp" alt="Franck Salaün, les deux mains ouvertes vers le public — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, les deux mains ouvertes vers le public — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-1-036.webp" alt="Franck Salaün, les mains ouvertes, regard à droite — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, les mains ouvertes, regard à droite — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-037.webp" alt="Franck Salaün, les bras ouverts, devant l'affiche à la tête rouge — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, les bras ouverts, devant l'affiche à la tête rouge — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/jpv2024-1-038.webp" alt="Franck Salaün, bras ouverts, au-dessus des têtes du public — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, bras ouverts, au-dessus des têtes du public — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
 <figure class="photo-figure"><img src="/images/jpv2024-1-039.webp" alt="Franck Salaün, les mains sur la poitrine — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, les mains sur la poitrine — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-1-040.webp" alt="Franck Salaün, la main sur le cœur, les yeux mi-clos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, la main sur le cœur, les yeux mi-clos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-041.webp" alt="Franck Salaün, la main sur le cœur, regard vers la salle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, la main sur le cœur, regard vers la salle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/jpv2024-1-042.webp" alt="Franck Salaün, les mains jointes sur la poitrine — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, les mains jointes sur la poitrine — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
 <figure class="photo-figure"><img src="/images/jpv2024-1-043.webp" alt="Franck Salaün tend le bras vers la droite — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün tend le bras vers la droite — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-1-044.webp" alt="Franck Salaün, le bras tendu, le public au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, le bras tendu, le public au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-045.webp" alt="Franck Salaün dans la salle aux tableaux, vue d'ensemble depuis le côté — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün dans la salle aux tableaux, vue d'ensemble depuis le côté — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/jpv2024-1-046.webp" alt="Vue latérale de la salle : Franck Salaün, le grand tableau et le public — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Vue latérale de la salle : Franck Salaün, le grand tableau et le public — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
 <figure class="photo-figure"><img src="/images/jpv2024-1-047.webp" alt="La salle en vue latérale, Franck Salaün à son pupitre — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>La salle en vue latérale, Franck Salaün à son pupitre — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-1-048.webp" alt="Franck Salaün et la salle pleine, vue latérale un peu plus serrée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün et la salle pleine, vue latérale un peu plus serrée — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-049.webp" alt="Franck Salaün lève la main, vue latérale de la salle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün lève la main, vue latérale de la salle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/jpv2024-1-050.webp" alt="Franck Salaün, main levée, rangées de spectateurs au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, main levée, rangées de spectateurs au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
 <figure class="photo-figure"><img src="/images/jpv2024-1-051.webp" alt="Franck Salaün parle avec animation près du tableau doré — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün parle avec animation près du tableau doré — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-1-052.webp" alt="Franck Salaün, les mains levées, le public de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, les mains levées, le public de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-053.webp" alt="Franck Salaün tend la main vers la salle, devant le tableau — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün tend la main vers la salle, devant le tableau — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/jpv2024-1-054.webp" alt="Franck Salaün gesticule, le public attentif — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün gesticule, le public attentif — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
 <figure class="photo-figure"><img src="/images/jpv2024-1-055.webp" alt="Franck Salaün, la main levée, vue du côté droit — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, la main levée, vue du côté droit — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-1-056.webp" alt="Franck Salaün sourit au public — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün sourit au public — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-057.webp" alt="Franck Salaün et une citation projetée à l'écran, à côté de l'affiche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün et une citation projetée à l'écran, à côté de l'affiche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
-<figure class="photo-figure"><img src="/images/jpv2024-1-058.webp" alt="La citation projetée sur l'écran, Franck Salaün à gauche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>La citation projetée sur l'écran, Franck Salaün à gauche — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
 <figure class="photo-figure"><img src="/images/jpv2024-1-059.webp" alt="Franck Salaün, l'affiche et l'écran projetant un dessin, salle vue de côté — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Franck Salaün, l'affiche et l'écran projetant un dessin, salle vue de côté — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-1-060.webp" alt="Le dessin projeté à l'écran et Franck Salaün sur l'estrade — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Le dessin projeté à l'écran et Franck Salaün sur l'estrade — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-061.webp" alt="Un auditeur pose une question au micro, une femme en bleu à droite — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Un auditeur pose une question au micro, une femme en bleu à droite — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-062.webp" alt="L'auditeur au micro, le public assis autour de lui — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>L'auditeur au micro, le public assis autour de lui — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-063.webp" alt="L'auditeur, le micro à la main, deux hommes debout derrière lui — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>L'auditeur, le micro à la main, deux hommes debout derrière lui — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-1-064.webp" alt="L'auditeur regarde vers l'estrade, le micro levé — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>L'auditeur regarde vers l'estrade, le micro levé — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-1-065.webp" alt="L'auditeur parle, devant un tableau de portrait — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>L'auditeur parle, devant un tableau de portrait — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
