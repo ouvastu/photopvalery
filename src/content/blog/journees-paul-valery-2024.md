@@ -84,24 +84,6 @@ _Avec Philippe Vergès, Ludivine Fanton et les élèves de terminale « Humanit�
 
 _Conférence de Georges Sebbag — samedi 5 octobre, 14 h 30_
 
-<figure class="photo-figure"><img src="/images/jpv2024-sam1-029.webp" alt="Georges Sebbag à sa table devant l'affiche des Journées, la salle comble de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag à sa table devant l'affiche des Journées, la salle comble de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-sam1-030.webp" alt="Georges Sebbag au micro, l'affiche à la flamme orange derrière lui — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag au micro, l'affiche à la flamme orange derrière lui — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-sam1-031.webp" alt="Georges Sebbag au fond de la salle, entre l'affiche et le tableau d'intérieur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag au fond de la salle, entre l'affiche et le tableau d'intérieur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-sam1-032.webp" alt="Georges Sebbag à sa table, à gauche du grand tableau d'atelier au cadre doré — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag à sa table, à gauche du grand tableau d'atelier au cadre doré — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-sam1-033.webp" alt="La salle comble face à Georges Sebbag, l'affiche et le tableau d'atelier au fond — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>La salle comble face à Georges Sebbag, l'affiche et le tableau d'atelier au fond — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-sam1-034.webp" alt="Georges Sebbag au loin, un spectateur au crâne rasé au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag au loin, un spectateur au crâne rasé au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-sam1-035.webp" alt="Vue d'ensemble de la salle pendant la conférence, deux grands tableaux au mur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Vue d'ensemble de la salle pendant la conférence, deux grands tableaux au mur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-sam1-036.webp" alt="La conférence vue du fond, la salle pleine sous les tableaux — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>La conférence vue du fond, la salle pleine sous les tableaux — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
-<figure class="photo-figure"><img src="/images/jpv2024-sam1-037.webp" alt="Georges Sebbag à côté du tableau aux deux figures nues — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag à côté du tableau aux deux figures nues — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
-
 <figure class="photo-figure"><img src="/images/jpv2024-sam1-038.webp" alt="Georges Sebbag de dos à sa table, face au public assis sous les tableaux — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag de dos à sa table, face au public assis sous les tableaux — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-sam1-039.webp" alt="Georges Sebbag parle, la main levée, face à la salle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Georges Sebbag parle, la main levée, face à la salle — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
@@ -213,6 +195,24 @@ _Conférence de Rémi Furlanetto — samedi 5 octobre, 17 h 30_
 <h2 class="section-photos" id="cours-de-poetique">Le Cours de poétique de Paul Valéry</h2>
 
 _Discussion avec William Marx, lecture d’extraits par Jean-Marie Winling (comédien) — samedi 5 octobre, 20 h 30_
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-029.webp" alt="Jean-Marie Winling lit à sa table devant l'affiche des Journées, la salle comble de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Jean-Marie Winling lit à sa table devant l'affiche des Journées, la salle comble de dos — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-030.webp" alt="Jean-Marie Winling au micro, l'affiche à la flamme orange derrière lui — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Jean-Marie Winling au micro, l'affiche à la flamme orange derrière lui — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-031.webp" alt="Jean-Marie Winling au fond de la salle, entre l'affiche et le tableau d'intérieur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Jean-Marie Winling au fond de la salle, entre l'affiche et le tableau d'intérieur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-032.webp" alt="Jean-Marie Winling à sa table, à gauche du grand tableau d'atelier au cadre doré — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Jean-Marie Winling à sa table, à gauche du grand tableau d'atelier au cadre doré — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-033.webp" alt="La salle comble face à Jean-Marie Winling, l'affiche et le tableau d'atelier au fond — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>La salle comble face à Jean-Marie Winling, l'affiche et le tableau d'atelier au fond — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-034.webp" alt="Jean-Marie Winling au loin, un spectateur au crâne rasé au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Jean-Marie Winling au loin, un spectateur au crâne rasé au premier plan — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-035.webp" alt="Vue d'ensemble de la salle pendant la lecture, deux grands tableaux au mur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Vue d'ensemble de la salle pendant la lecture, deux grands tableaux au mur — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-036.webp" alt="La lecture vue du fond, la salle pleine sous les tableaux — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>La lecture vue du fond, la salle pleine sous les tableaux — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/jpv2024-sam1-037.webp" alt="Jean-Marie Winling à côté du tableau aux deux figures nues — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Jean-Marie Winling à côté du tableau aux deux figures nues — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/jpv2024-sam2-046.webp" alt="Le Cours de poétique : Jean-Marie Winling à sa table et deux invités dans les fauteuils — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson" loading="lazy" /><figcaption>Le Cours de poétique : Jean-Marie Winling à sa table et deux invités dans les fauteuils — Journées Paul Valéry 2024, Sète — © Gilles Hutchinson</figcaption></figure>
 
