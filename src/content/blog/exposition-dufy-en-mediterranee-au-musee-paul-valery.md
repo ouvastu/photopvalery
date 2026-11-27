@@ -1,0 +1,116 @@
+---
+title: "Exposition « Dufy en Méditerranée » au musée Paul Valéry"
+pubDate: 2010-06-19
+categories: 
+  - "exposition"
+coverImage: "dufy-019.webp"
+---
+
+Du 19 juin au 31 octobre 2010, le **Musée Paul Valéry de Sète** inaugurait ses espaces entièrement rénovés avec sa première exposition : **« Dufy en Méditerranée »**.
+
+Conçue par Maïthé Vallès-Bled, alors directrice du musée, l’exposition réunissait une soixantaine d’œuvres de **Raoul Dufy** (1877-1953) — peintures, aquarelles et dessins — présentées dans un parcours chronologique. Des débuts marqués par l’impressionnisme aux grandes compositions lumineuses de la maturité, elle suivait le lien du peintre avec la Méditerranée et sa lumière.
+
+Le reportage parcourt les salles du musée.
+
+_Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, 2010._
+
+<!--more-->
+
+<h2 class="section-photos" id="salles">Les salles du musée</h2>
+
+<figure class="photo-figure"><img src="/images/dufy-001.webp" alt="L'allée du musée Paul Valéry rénové, le long de la façade vitrée, sous un grand arbre — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>L'allée du musée Paul Valéry rénové, le long de la façade vitrée, sous un grand arbre — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-002.webp" alt="Reflets dans la baie vitrée du musée : un tableau, le jardin et la mer au loin — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Reflets dans la baie vitrée du musée : un tableau, le jardin et la mer au loin — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-003.webp" alt="La galerie vitrée du musée au bord du bassin, le jardin en perspective — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>La galerie vitrée du musée au bord du bassin, le jardin en perspective — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-004.webp" alt="Première salle aux murs ocre : petits tableaux et dessins de part et d'autre d'une baie — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Première salle aux murs ocre : petits tableaux et dessins de part et d'autre d'une baie — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-005.webp" alt="Un nu au cadre doré et une scène sombre au cadre noir sur le mur ocre — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Un nu au cadre doré et une scène sombre au cadre noir sur le mur ocre — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-006.webp" alt="La salle ocre en angle : dessins encadrés à gauche, le nu et la scène sombre à droite — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>La salle ocre en angle : dessins encadrés à gauche, le nu et la scène sombre à droite — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-007.webp" alt="Cimaises jaune orangé : une vue de port aux couleurs vives et une marine bleue — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Cimaises jaune orangé : une vue de port aux couleurs vives et une marine bleue — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-008.webp" alt="Les deux toiles colorées sur les cimaises jaunes, enfilade de salles au fond — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Les deux toiles colorées sur les cimaises jaunes, enfilade de salles au fond — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-009.webp" alt="Passage entre deux salles : une fenêtre intérieure, des dessins au mur du fond — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Passage entre deux salles : une fenêtre intérieure, des dessins au mur du fond — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-010.webp" alt="Deux toiles sombres aux cadres dorés de part et d'autre d'un passage, cimaise jaune au fond — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Deux toiles sombres aux cadres dorés de part et d'autre d'un passage, cimaise jaune au fond — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-011.webp" alt="Les deux toiles sombres et l'enfilade des cimaises jaunes, vue plus frontale — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Les deux toiles sombres et l'enfilade des cimaises jaunes, vue plus frontale — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-012.webp" alt="Rangée de petits tableaux colorés sur le mur ocre, cimaises jaunes au loin — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Rangée de petits tableaux colorés sur le mur ocre, cimaises jaunes au loin — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-013.webp" alt="Longue salle aux murs bruns : paysages méditerranéens et toile rouge vif — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Longue salle aux murs bruns : paysages méditerranéens et toile rouge vif — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-014.webp" alt="Toile sombre au premier plan, petites marines sur les murs clairs du fond — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Toile sombre au premier plan, petites marines sur les murs clairs du fond — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-015.webp" alt="Grande toile à la façade rose et aux arbres, passage vers une salle claire — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Grande toile à la façade rose et aux arbres, passage vers une salle claire — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-016.webp" alt="Deux grandes toiles de façades et de jardins sur les murs bruns et clairs — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Deux grandes toiles de façades et de jardins sur les murs bruns et clairs — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-017.webp" alt="Mur de petits paysages colorés, grande toile rouge à droite — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Mur de petits paysages colorés, grande toile rouge à droite — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-018.webp" alt="Angle de salle : petits tableaux et deux grandes aquarelles aux cadres dorés — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Angle de salle : petits tableaux et deux grandes aquarelles aux cadres dorés — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-019.webp" alt="Très grande toile à la loggia verte et à la maison rose, aquarelle de port à gauche — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Très grande toile à la loggia verte et à la maison rose, aquarelle de port à gauche — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-020.webp" alt="Toile aux personnages en bleu sur le mur brun, petits tableaux sur la cimaise jaune — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Toile aux personnages en bleu sur le mur brun, petits tableaux sur la cimaise jaune — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-021.webp" alt="Aquarelle colorée sur la cimaise jaune, dessins et grande aquarelle sur le mur brun — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Aquarelle colorée sur la cimaise jaune, dessins et grande aquarelle sur le mur brun — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-022.webp" alt="Aquarelles et dessins encadrés sur deux murs, cimaise jaune à droite — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Aquarelles et dessins encadrés sur deux murs, cimaise jaune à droite — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-023.webp" alt="Dessins encadrés sur le mur brun et petits tableaux sur la cimaise jaune — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Dessins encadrés sur le mur brun et petits tableaux sur la cimaise jaune — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-024.webp" alt="Portrait d'homme au chapeau sur le mur brun, deux toiles sur le mur blanc du fond — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Portrait d'homme au chapeau sur le mur brun, deux toiles sur le mur blanc du fond — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-025.webp" alt="Salle aux murs gris-brun : toiles cubisantes et portrait au chapeau sur une cloison — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Salle aux murs gris-brun : toiles cubisantes et portrait au chapeau sur une cloison — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-026.webp" alt="Toile aux tons verts et ocre au cadre doré, toile sombre au cadre noir sur la cloison — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Toile aux tons verts et ocre au cadre doré, toile sombre au cadre noir sur la cloison — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-027.webp" alt="Petits tableaux et toile sombre, passage vers une salle obscure aux grandes toiles — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Petits tableaux et toile sombre, passage vers une salle obscure aux grandes toiles — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-028.webp" alt="Le portrait au chapeau sur une cloison, toiles de part et d'autre — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Le portrait au chapeau sur une cloison, toiles de part et d'autre — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-029.webp" alt="Le portrait au chapeau et une grande toile cubisante au cadre de bois, vue de biais — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Le portrait au chapeau et une grande toile cubisante au cadre de bois, vue de biais — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-030.webp" alt="Le portrait au chapeau et une toile claire au cadre doré sur le mur blanc — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Le portrait au chapeau et une toile claire au cadre doré sur le mur blanc — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-031.webp" alt="Toile au cadre doré et toile au cadre noir sur deux cloisons, salles en enfilade — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Toile au cadre doré et toile au cadre noir sur deux cloisons, salles en enfilade — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-032.webp" alt="Deux toiles encadrées sur les cloisons gris-brun, enfilade vers les cimaises jaunes — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Deux toiles encadrées sur les cloisons gris-brun, enfilade vers les cimaises jaunes — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-033.webp" alt="Cadre doré de profil au premier plan, toiles sur les murs gris-brun — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Cadre doré de profil au premier plan, toiles sur les murs gris-brun — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-034.webp" alt="Toile claire aux tons pastel et grande toile verte sur le mur gris-brun — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Toile claire aux tons pastel et grande toile verte sur le mur gris-brun — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-035.webp" alt="La toile cubisante aux barques et aux tons bleus en gros plan — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>La toile cubisante aux barques et aux tons bleus en gros plan — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-036.webp" alt="Toile aux tons verts au cadre doré, toiles et cimaises au fond — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Toile aux tons verts au cadre doré, toiles et cimaises au fond — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-037.webp" alt="Toiles colorées sur le mur gris-brun et aquarelle sur la cimaise jaune — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Toiles colorées sur le mur gris-brun et aquarelle sur la cimaise jaune — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-038.webp" alt="Aquarelle au cadre doré sur la cimaise jaune, petits tableaux sur le mur gris — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Aquarelle au cadre doré sur la cimaise jaune, petits tableaux sur le mur gris — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-039.webp" alt="L'aquarelle de la cimaise jaune de face, rangée de dessins près de la fenêtre — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>L'aquarelle de la cimaise jaune de face, rangée de dessins près de la fenêtre — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-040.webp" alt="Cimaise jaune et mur gris-brun aux dessins encadrés, baie vitrée à droite — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Cimaise jaune et mur gris-brun aux dessins encadrés, baie vitrée à droite — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-041.webp" alt="Marine bleue sur la cimaise jaune, petits tableaux sur les murs gris — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Marine bleue sur la cimaise jaune, petits tableaux sur les murs gris — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-042.webp" alt="La marine bleue sur la cimaise jaune, vue un peu décalée — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>La marine bleue sur la cimaise jaune, vue un peu décalée — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-043.webp" alt="Grande aquarelle au cadre doré, toiles et dessins sur les murs gris-brun — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Grande aquarelle au cadre doré, toiles et dessins sur les murs gris-brun — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-044.webp" alt="Toiles colorées sur le mur gris-brun, aquarelle sur la cimaise jaune à droite — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Toiles colorées sur le mur gris-brun, aquarelle sur la cimaise jaune à droite — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-045.webp" alt="Grande salle à pilier : toiles et aquarelles sur les murs gris et jaunes — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Grande salle à pilier : toiles et aquarelles sur les murs gris et jaunes — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-046.webp" alt="La grande salle au pilier blanc, vue un peu plus large — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>La grande salle au pilier blanc, vue un peu plus large — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-047.webp" alt="Toiles colorées et aquarelle sur la cimaise jaune, passage lumineux au centre — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Toiles colorées et aquarelle sur la cimaise jaune, passage lumineux au centre — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-048.webp" alt="Deux toiles sombres aux cadres dorés sur les murs bruns, cimaises jaunes au fond — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Deux toiles sombres aux cadres dorés sur les murs bruns, cimaises jaunes au fond — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
