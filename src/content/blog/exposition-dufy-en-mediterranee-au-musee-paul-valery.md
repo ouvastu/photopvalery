@@ -3,6 +3,7 @@ title: "Exposition « Dufy en Méditerranée » au musée Paul Valéry"
 pubDate: 2010-06-19
 categories: 
   - "exposition"
+  - "exposition-presse"
 coverImage: "dufy-019.webp"
 ---
 
@@ -10,7 +11,7 @@ Du 19 juin au 31 octobre 2010, le **Musée Paul Valéry de Sète** inaugurait se
 
 Conçue par Maïthé Vallès-Bled, alors directrice du musée, l’exposition réunissait une soixantaine d’œuvres de **Raoul Dufy** (1877-1953) — peintures, aquarelles et dessins — présentées dans un parcours chronologique. Des débuts marqués par l’impressionnisme aux grandes compositions lumineuses de la maturité, elle suivait le lien du peintre avec la Méditerranée et sa lumière.
 
-Le reportage parcourt les salles du musée.
+Le reportage parcourt les salles du musée, puis suit la visite de presse, jusqu’à la terrasse.
 
 _Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, 2010._
 
@@ -113,4 +114,70 @@ _Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, 2010._
 <figure class="photo-figure"><img src="/images/dufy-047.webp" alt="Toiles colorées et aquarelle sur la cimaise jaune, passage lumineux au centre — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Toiles colorées et aquarelle sur la cimaise jaune, passage lumineux au centre — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
 
 <figure class="photo-figure"><img src="/images/dufy-048.webp" alt="Deux toiles sombres aux cadres dorés sur les murs bruns, cimaises jaunes au fond — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Deux toiles sombres aux cadres dorés sur les murs bruns, cimaises jaunes au fond — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<h2 class="section-photos" id="presse">Avec la presse</h2>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-001.webp" alt="Visite de presse : la femme aux cheveux blonds bouclés et l'homme en costume à lunettes devant les tableaux — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Visite de presse : la femme aux cheveux blonds bouclés et l'homme en costume à lunettes devant les tableaux — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-002.webp" alt="L'homme en costume à lunettes parle, les mains ouvertes, la femme aux cheveux blonds bouclés la main au menton — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme en costume à lunettes parle, les mains ouvertes, la femme aux cheveux blonds bouclés la main au menton — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-003.webp" alt="L'homme en costume à lunettes explique, tourné vers la salle, sa voisine pensive — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme en costume à lunettes explique, tourné vers la salle, sa voisine pensive — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-004.webp" alt="L'homme en costume à lunettes, la main sur la hanche, la femme aux cheveux blonds bouclés écoute — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme en costume à lunettes, la main sur la hanche, la femme aux cheveux blonds bouclés écoute — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-005.webp" alt="Les journalistes rassemblés au pied de l'escalier, vue plongeante — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Les journalistes rassemblés au pied de l'escalier, vue plongeante — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-006.webp" alt="La femme aux cheveux blonds bouclés présente l'exposition, journalistes de dos — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>La femme aux cheveux blonds bouclés présente l'exposition, journalistes de dos — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-007.webp" alt="Journalistes et invités autour de l'homme en costume à lunettes — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Journalistes et invités autour de l'homme en costume à lunettes — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-008.webp" alt="La femme aux cheveux blonds bouclés traverse la salle, journalistes à droite — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>La femme aux cheveux blonds bouclés traverse la salle, journalistes à droite — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-009.webp" alt="La femme aux cheveux blonds bouclés, la main sur la poitrine, près d'une toile au cadre doré — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>La femme aux cheveux blonds bouclés, la main sur la poitrine, près d'une toile au cadre doré — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-010.webp" alt="La femme aux cheveux blonds bouclés près de la toile, un auditeur de dos — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>La femme aux cheveux blonds bouclés près de la toile, un auditeur de dos — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-011.webp" alt="La femme aux cheveux blonds bouclés explique devant une toile, journalistes autour — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>La femme aux cheveux blonds bouclés explique devant une toile, journalistes autour — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-012.webp" alt="La femme aux cheveux blonds bouclés devant un paysage au cadre doré, groupe de journalistes — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>La femme aux cheveux blonds bouclés devant un paysage au cadre doré, groupe de journalistes — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-013.webp" alt="L'homme en costume à lunettes, la main au menton, écoute parmi les journalistes — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme en costume à lunettes, la main au menton, écoute parmi les journalistes — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-014.webp" alt="L'homme en costume à lunettes pensif, un journaliste au sac à dos à gauche — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme en costume à lunettes pensif, un journaliste au sac à dos à gauche — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-015.webp" alt="L'homme en costume à lunettes et une journaliste aux cheveux bruns, toile au mur — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme en costume à lunettes et une journaliste aux cheveux bruns, toile au mur — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-016.webp" alt="Le groupe de presse au milieu d'une grande salle — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Le groupe de presse au milieu d'une grande salle — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-017.webp" alt="La femme aux cheveux blonds bouclés parle devant deux aquarelles, journalistes autour — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>La femme aux cheveux blonds bouclés parle devant deux aquarelles, journalistes autour — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-018.webp" alt="La femme aux cheveux blonds bouclés près d'un nu bleu, journalistes de dos — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>La femme aux cheveux blonds bouclés près d'un nu bleu, journalistes de dos — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-019.webp" alt="Deux femmes en conversation près d'une baie, l'une en jupe à fleurs — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Deux femmes en conversation près d'une baie, l'une en jupe à fleurs — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-020.webp" alt="Les deux femmes en conversation, un tableau au cadre doré au mur — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Les deux femmes en conversation, un tableau au cadre doré au mur — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-021.webp" alt="La femme aux cheveux blonds bouclés devant une toile aux ruines, les mains ouvertes — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>La femme aux cheveux blonds bouclés devant une toile aux ruines, les mains ouvertes — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-022.webp" alt="La femme aux cheveux blonds bouclés devant une toile au palmier, journalistes autour — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>La femme aux cheveux blonds bouclés devant une toile au palmier, journalistes autour — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-023.webp" alt="L'homme en costume à lunettes et des journalistes près d'une toile — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme en costume à lunettes et des journalistes près d'une toile — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-024.webp" alt="Vue du jardin du musée : cyprès et allée, la ville au loin — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Vue du jardin du musée : cyprès et allée, la ville au loin — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-025.webp" alt="Sur la terrasse : une femme aux cheveux blancs lit un dépliant, voisines souriantes — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Sur la terrasse : une femme aux cheveux blancs lit un dépliant, voisines souriantes — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-026.webp" alt="Journalistes attablés sur la terrasse sous les arbres — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Journalistes attablés sur la terrasse sous les arbres — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-027.webp" alt="L'homme en costume à lunettes, un verre à la main, sous un parasol rouge — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme en costume à lunettes, un verre à la main, sous un parasol rouge — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-028.webp" alt="Invitées debout sur la terrasse, vues derrière une vitre — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>Invitées debout sur la terrasse, vues derrière une vitre — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-029.webp" alt="La femme aux cheveux blonds bouclés et l'homme en costume à lunettes sur la terrasse, une femme de dos — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>La femme aux cheveux blonds bouclés et l'homme en costume à lunettes sur la terrasse, une femme de dos — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-030.webp" alt="L'homme en costume à lunettes parle à une invitée sur la terrasse, la femme aux cheveux blonds bouclés à gauche — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme en costume à lunettes parle à une invitée sur la terrasse, la femme aux cheveux blonds bouclés à gauche — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-031.webp" alt="L'homme en costume à lunettes et une femme en noir sur la terrasse — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>L'homme en costume à lunettes et une femme en noir sur la terrasse — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
+
+<figure class="photo-figure"><img src="/images/dufy-presse-032.webp" alt="La femme aux cheveux blonds bouclés parle avec une invitée aux cheveux roux sur la terrasse — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson" loading="lazy" /><figcaption>La femme aux cheveux blonds bouclés parle avec une invitée aux cheveux roux sur la terrasse — Exposition « Dufy en Méditerranée », musée Paul Valéry, Sète, 2010 — © Gilles Hutchinson</figcaption></figure>
 
