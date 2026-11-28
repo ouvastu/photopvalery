@@ -374,7 +374,7 @@ _Photographies : Gilles Hutchinson – Musée Paul Valéry, Sète, juillet 2026.
 
 <figure class="photo-figure"><img src="/images/vilar-vernissage-069.webp" alt="Clémence Ricard Vilar pose avec son père, Christophe Vilar, dans le jardin — Exposition « Les couleurs de Jean Vilar », musée Paul Valéry, Sète, juillet 2026 — © Gilles Hutchinson" loading="lazy" /><figcaption>Clémence Ricard Vilar pose avec son père, Christophe Vilar, dans le jardin — Exposition « Les couleurs de Jean Vilar », musée Paul Valéry, Sète, juillet 2026 — © Gilles Hutchinson</figcaption></figure>
 
-<h2 id="revue-de-presse" class="revue-presse-titre">Ils en ont parlé</h2>
+<h2 id="revue-de-presse" class="revue-presse-titre">Revue de presse non exhaustive</h2>
 
 <div class="revue-presse">
 <a class="coupure" href="https://www.radiofrance.fr/franceculture/podcasts/allons-y-voir/au-theatre-des-couleurs-jean-vilar-et-ses-peintres-4491317" target="_blank" rel="noopener"><span class="coupure-media">France Culture · Allons-y voir !</span><span class="coupure-titre">Au théâtre des couleurs : Jean Vilar et ses peintres</span><span class="coupure-date">18 octobre 2026 · émission de Patrick Boucheron, 60 min</span><span class="coupure-resume">Avec Ingrid Junillon, commissaire de l’exposition, Kenza Jernite et Hortense Belhôte : le dialogue entre Vilar et ses peintres, et ses prolongements sur les scènes d’aujourd’hui.</span><span class="coupure-lien">Écouter l’émission →</span></a>
