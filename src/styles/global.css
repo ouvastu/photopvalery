@@ -264,7 +264,12 @@ a.coupure {
 	flex-direction: column;
 	gap: 0.45rem;
 	padding: 1.1rem 1.15rem 1rem;
-	background: #fffdf8;
+	padding-top: 10.5rem;
+	background-color: #fffdf8;
+	background-image: linear-gradient(to bottom, rgba(255, 253, 248, 0) 7.5rem, #fffdf8 9.75rem), var(--fond, none);
+	background-size: 100% 100%, 100% 9.75rem;
+	background-position: top center, top center;
+	background-repeat: no-repeat;
 	border: 1px solid rgb(var(--gray-light));
 	border-top: 3px double var(--accent);
 	box-shadow: var(--box-shadow);
