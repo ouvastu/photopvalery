@@ -259,7 +259,7 @@ blockquote {
 	}
 }
 .prose a.coupure,
-a.coupure {
+.coupure {
 	display: flex;
 	flex-direction: column;
 	gap: 0.45rem;
@@ -278,7 +278,7 @@ a.coupure {
 	transform: rotate(-0.4deg);
 	transition: transform 0.2s ease, border-color 0.2s ease;
 }
-a.coupure:nth-child(even) {
+.coupure:nth-child(even) {
 	transform: rotate(0.4deg);
 }
 a.coupure:hover,
@@ -310,4 +310,12 @@ a.coupure:focus-visible {
 	margin-top: auto;
 	font-size: 0.82rem;
 	color: var(--accent);
+}
+
+.coupure.presse-ecrite .coupure-lien {
+	color: rgb(var(--gray));
+}
+.revue-presse-source {
+	font-size: 0.92rem;
+	color: rgb(var(--gray));
 }
