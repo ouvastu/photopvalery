@@ -244,9 +244,19 @@ blockquote {
 }
 .revue-presse {
 	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+	grid-template-columns: repeat(3, minmax(0, 1fr));
 	gap: 1rem;
 	margin: 1.25rem 0 2rem;
+}
+@media (max-width: 860px) {
+	.revue-presse {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+}
+@media (max-width: 560px) {
+	.revue-presse {
+		grid-template-columns: 1fr;
+	}
 }
 .prose a.coupure,
 a.coupure {
@@ -279,7 +289,7 @@ a.coupure:focus-visible {
 }
 .coupure-titre {
 	font-family: Georgia, 'Times New Roman', serif;
-	font-size: 1.12rem;
+	font-size: 1.02rem;
 	line-height: 1.3;
 	font-style: italic;
 }
